@@ -1,303 +1,1244 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-21T01:35:54.403Z</id>
+    <id>https://menglingjie.github.io/REPO_NAME/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-21T01:35:54.403Z</updated>
+    <updated>2021-05-21T01:48:19.465Z</updated>
     <generator>osmosfeed 1.7.2</generator>
-    <link rel="alternate" href="index.html"/>
+    <link rel="alternate" href="https://menglingjie.github.io/REPO_NAME/index.html"/>
+    <link rel="self" href="https://menglingjie.github.io/REPO_NAME/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[JSON in CSS]]></title>
-        <id>https://css-tricks.com/?p=340599</id>
-        <link href="https://css-tricks.com/json-in-css/"/>
-        <updated>2021-05-20T22:29:53.000Z</updated>
-        <summary type="html"><![CDATA[Jonathan Neal tweeted a heck of a little CSS trick the other day, putting JSON inside CSS and plucking it out with JavaScript. Valid values for custom properties are quite liberal! So this looks for a CSS rule (e.g. a …
-The post JSON in CSS appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[早报｜张一鸣卸任字节跳动 CEO / 贝壳创始人左晖去世 / 腾讯一季度营收 1353 亿]]></title>
+        <id>https://www.ifanr.com/?p=1418072&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1418072?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-05-21T00:30:17.000Z</updated>
+        <summary type="html"><![CDATA[‍• 79 层高楼晃动，深赛格回应其初步判断
+• 微软：IE 浏览器使命将结束
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>冷思真</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn CSS!]]></title>
-        <id>https://css-tricks.com/?p=340933</id>
-        <link href="https://web.dev/learn/css/"/>
-        <updated>2021-05-20T21:51:43.000Z</updated>
-        <summary type="html"><![CDATA[Ooo look at this mighty SEO flex from Google: Learn CSS! Well deserved — this is great content. Twenty-three chapters taking you through all the fundamentals of CSS with extra content, like relevant podcasts, interactive examples, and even quizzes to …
-The post Learn CSS! appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[科技爱好者周刊（第 159 期）：游戏开发者的年薪]]></title>
+        <id>http://www.ruanyifeng.com/blog/2021/05/weekly-issue-159.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2021/05/weekly-issue-159.html"/>
+        <updated>2021-05-21T00:17:00.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。
+周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。
+封面图
+
+重庆市很多山地，地形复杂，产生了特有的奇观：被高架道路团团围住的楼盘。（via）
+本周话题：游戏开发者的年薪
+最近，推特上面有很多欧美的游戏开发者，晒自己的薪水，使用 #GameDevPaidMe 这个标签就能看到，从中可以了解国外程序员的收入。
+下面是一个美国开发者的发言。
+
+他有超过十年的开发经验，年薪是20多万美元。这还是在西雅图，如果在湾区，工资可能还会再高一些。这跟我听说的差不多，美国高级程序员的年薪，一般都会超过20万美元（约130万人民币）。
+我没想到的是，欧洲程序员的年薪，比美国少非常多。
+
+上面这个英国开发者，作为高级程序员，年薪居然才4万英镑（约36万人民币）。他入行时，更是少到1.5万英镑（约14万人民币）。欧洲其他国家的情况也差不多，年薪也就几万欧元，如果是东欧国家（比如波兰），薪水就更低了。
+这就是令我吃惊的地方， 西欧国家的人均 GDP 远高…]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>阮一峰的网络日志</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Angular 11 Tutorial: Code a Project from Scratch]]></title>
-        <id>60a6b3ab906c5207e3a7f5fa</id>
-        <link href="https://www.freecodecamp.org/news/angular-11-tutorial-code-a-project-from-scratch/"/>
-        <updated>2021-05-20T19:14:48.000Z</updated>
-        <summary type="html"><![CDATA[Angular is one of the most popular web frameworks. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create an Angular 11 project from scratch. It uses a public API to create a game database website. You will gain a great foundation]]></summary>
+        <title type="html"><![CDATA[「真爱」是人生标配吗？「凑合过日子」是不是才是人生真相？]]></title>
+        <id>https://daily.zhihu.com/story/9736189</id>
+        <link href="https://daily.zhihu.com/story/9736189"/>
+        <updated>2021-05-20T23:07:43.000Z</updated>
+        <summary type="html"><![CDATA[梁鸿儒，叙事及系统取向的心理咨询师
+阅读原文
+
+我不知道怎么去定义“真爱”，但是按照题主的意思，“凑合过日子“是人生的”真相“，是”真爱“的相反状态，所以我基本上可以认为，题主你好像担心”真爱“和”真相“是矛盾的，那我就不明白了，”真爱“和”真相“那个更真？
+题主你不用担心，你并不孤独，我相信很多人会有这个怀疑，我也有，自古就有。
+在古典哲学时期，大家很喜欢探索所谓的真相，觉得有些很终极物质或者规律是恒久不变的，他们假设“本质先于存在”，就是说，有一个真相或者真理时普遍而且有形式特征的，就好像题主你问的“真爱”和“真相”里面的“真”，就是在假设，爱有一个普遍的正确样子，生活有一个普遍的正确样子，你活成怎么样，完全是在这个“真”的最高标准之下努力地接近“真”的状态。
+很显然，在这样的世界观里面，人是没有个性和自由的——错了，是只有一个维度的自由：你要么向上追求真爱，要么堕落接受真相。但是，这样看待人生真的好吗？想想都觉得很累是不是，要么努力向上爬，要么带着成为人生的失败者的恐惧往下掉。
+所以，后来有些人提出来，我不想这样看待自己，其中一派叫做存在主义。他们这群人主张：以人为中心、尊重人的个性和自由。人是在无意义…]]></summary>
         <author>
-            <name/>
+            <name>知乎日报</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn Modern C++ by Building an Audio Plugin]]></title>
-        <id>60a694ab906c5207e3a7f544</id>
-        <link href="https://www.freecodecamp.org/news/learn-modern-cpp-by-building-an-audio-plugin/"/>
-        <updated>2021-05-20T17:12:29.000Z</updated>
-        <summary type="html"><![CDATA[A lot of C++ courses teach you how to build toy projects with no real-world application. But it can often be more helpful to write programs people would actually use. We just released a 5-hour C++ course that will teach you how to write modern C++ code by building an]]></summary>
+        <title type="html"><![CDATA[哪些科技的发展，解决了医疗上的大问题？]]></title>
+        <id>https://daily.zhihu.com/story/9736224</id>
+        <link href="https://daily.zhihu.com/story/9736224"/>
+        <updated>2021-05-20T23:07:37.000Z</updated>
+        <summary type="html"><![CDATA[菲利普医生，野生外科医生/美短饲养者
+阅读原文
+
+陈院士是海内外知名的肝胆胰脾外科专家，他的这个提问可谓是包罗万象、高屋建瓴的。在下不揣冒昧，在这里跟大家分享一些自己对这个问题的思考，回答可能比较片面，但愿能够抛砖引玉。
+从我第一次在父亲的实验室跟他学着使用显微镜，到后来进入大学开始系统性学习临床医学课程，一直到今天从事外科学博士后研究工作。几乎我所学到的每一个医学知识点、使用的每一种医疗或者科研技能，都是历史上科技进步解决的医疗上的大问题。
+我深刻的感觉到，在众多的科技进步中，直接或者间接的视觉科技是解决医疗大问题最多的，因为看见的力量就是如此伟大——西方有“seeing is believing”，中国有“眼见为实”的说法。科学的研究方法讲究实证，特点是可证伪，而最为直观最无可辩驳的实证往往就是看到。所以我说，视觉科技是解决医疗大问题最多的。
+在我的一个高赞同回答中，我用不同微观尺度划分了人类不同科技水平下所能使用的最细的针，并列举了这些不同尺度的针为医学带来了哪些进步：
+假设有一根足够细的针，这根针可以用来干什么？
+在这个回答中，我将仿照上面这个回答，用人类观察人体与自然的不同工具划分医学进步的不同时代…]]></summary>
         <author>
-            <name/>
+            <name>知乎日报</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Get Started with Version Control Using Git]]></title>
-        <id>60a4b5c7906c5207e3a7e2bb</id>
-        <link href="https://www.freecodecamp.org/news/get-started-with-version-control-and-git/"/>
-        <updated>2021-05-20T15:20:53.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you'll learn what version control is and how you can contribute to open-source projects using Git.  We'll get through the fundamentals of Git and I'll give you the knowledge that is indispensable for any web developer. What is Git?Git is a version control software which lets]]></summary>
+        <title type="html"><![CDATA[把一张白纸拍到13.5亿像素是怎样一种体验？]]></title>
+        <id>https://daily.zhihu.com/story/9736184</id>
+        <link href="https://daily.zhihu.com/story/9736184"/>
+        <updated>2021-05-20T23:07:30.000Z</updated>
+        <summary type="html"><![CDATA[Tianxi，公号 ：oktim
+
+近期做了一些超高分辨率的图像扫描实验，我为这个实验找到了一张纹理非常丰富的纸，对它进行了复杂的全景式景深覆盖扫描，共拍摄了 206 张图像。最终通过合成得到了一张 13.5 亿像素，消除景深的图像。
+
+ 
+这个实验的目的，在于帮助大家理解采样压缩对于图像造成的损失。
+ 
+这个实验的设计是这样的：
+拍摄对象是一张纹理非常丰富的纸，我对这张纸拍两张照片，这两张照片分别是：
+
+A. 普通拍摄，大约 5000 万像素。
+B. 极高分辨率的扫描，大约 13.5 亿像素。
+
+最终我把照片 B 缩到 5000 万像素，与照片 A 对比。
+按照常人的直觉，13.5 亿像素的照片缩到 5000 万像素，那应该与 5000 万像素的照片是同样清晰的。
+接下来是实验对比：
+A 5000 万像素原图 100%B 13.5 亿像素缩小至 5000 万像素 100%A 5000 万像素原图 200%B 13.5 亿像素缩小至 5000 万像素 200%图像大小
+这个实验证明，采样压缩在摄影中是广泛存在的。其结论不仅适用于分辨率，也可以推广到色深。
+无论是高分辨率，还是高色深，对于图像的处理和最终的显示…]]></summary>
         <author>
-            <name/>
+            <name>知乎日报</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn JavaScript - A Free 7-hour Interactive Tutorial]]></title>
-        <id>60a36742906c5207e3a7da6e</id>
-        <link href="https://www.freecodecamp.org/news/learn-javascript-interactive-course/"/>
-        <updated>2021-05-20T14:53:38.000Z</updated>
-        <summary type="html"><![CDATA[Over the last four months, I have recorded what is probably the most interactive JavaScript course that has ever been created. The reason I have done this is because I often see new coders fall into the same pitfalls again and again when trying to learn JavaScript, with the most]]></summary>
+        <title type="html"><![CDATA[如何让青少年对科学产生和保持好奇心？]]></title>
+        <id>https://daily.zhihu.com/story/9736232</id>
+        <link href="https://daily.zhihu.com/story/9736232"/>
+        <updated>2021-05-20T23:07:27.000Z</updated>
+        <summary type="html"><![CDATA[谢寅，科学教育搬运工(._.)
+阅读原文
+
+我觉得我们在科普的“软件”建设上，还需要多下一些功夫。
+身处北京，曾任教于小学和幼儿园，是一名科学老师，工作的时候，我也多次带孩子们参观各种北京的科技场馆。其实如今的科普场馆，在“互动”和“体验”上其实已经做的很好了。在科技场馆中，丰富的展品、真实的情境都能带给小孩子很好的体验。
+但是在我看来，其实做的还不够。
+我有时候会观察这些孩子操作时的状态，在我看来，“好奇的体验”和“好玩的体验”并不能完全区别开，我的意思是：如果我们要想培养孩子的好奇心，那么我们带给他们的，一定是一份独特的感受和体验，这种体验和应该是同玩一个玩具带来的那种“好玩的体验”是完全不同的。
+培养好奇心，是一定要给孩子带来与众不同的感受和体验的。如果以这个标准来看待我们的科普活动的话，我觉得我们并没有做的很好。
+不可否认很多展品的确能激发孩子的好奇心，但是我们没有形成一个套路（缺少系统性），也没有把成功的经验总结、提炼出来，并且分享给更多的教育者发扬光大。
+而孩子们的好奇心，更像是泼在沙地上的水，很快就消失在生活的喧嚣中了（缺少稳定性）。
+我在工作中能够看到，随着孩子们年龄的增大，科普场馆中的“体验…]]></summary>
         <author>
-            <name/>
+            <name>知乎日报</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Can We Create a “Resize Hack” With Container Queries?]]></title>
-        <id>https://css-tricks.com/?p=340715</id>
-        <link href="https://css-tricks.com/can-we-create-a-resize-hack-with-container-queries/"/>
-        <updated>2021-05-20T14:24:12.000Z</updated>
-        <summary type="html"><![CDATA[If you follow new developments in CSS, you’ve likely heard of the impending arrival of container queries. We’re going to look at the basics here, but if you’d like another look, check out Una’s “Next Gen CSS: @container” article. …
-The post Can We Create a “Resize Hack” With Container Queries? appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[弓的起源与发展是怎样的？]]></title>
+        <id>https://daily.zhihu.com/story/9736194</id>
+        <link href="https://daily.zhihu.com/story/9736194"/>
+        <updated>2021-05-20T23:07:24.000Z</updated>
+        <summary type="html"><![CDATA[大恶人，用共产主义的铁拳砸烂狭隘民族主义的狗头
+阅读原文
+
+ 
+前言——有关弓箭的传说
+“逮至尧之时，十日并出，焦禾稼，杀草木，而民无所食。猰貐、凿齿、九婴、大风、封豨、修蛇皆为民害。尧乃使羿诛凿齿于畴华之野，杀九婴于凶水之上，缴大风于青邱之泽，上射十日，而下杀猰貐，断修蛇于洞庭，擒封豨于桑林。
+——《淮南子（本经训）》
+后羿射日的传说
+在中国的神话传说中，弓箭的发明者有资料可查的主要有三位：盘、张挥、后羿。《山海经·海内经》说：“少皞生盘，盘是始为弓矢。”《世本》记载 “挥作弓，牟夷作矢”， 宋·欧阳修《新唐书·宰相世系表》曰： “张氏出姬姓，黄帝子少昊青阳氏第五子挥为弓正，始制弓矢，子孙赐姓张氏。”
+著名的“Achilles' Heel”
+不仅在中国，在世界各地均流传着有关弓箭的各类传说，比如古希腊神话中的英雄阿格硫斯就是被弓箭射中脚踝而死，还有英国著名弓箭手罗宾汉的传说以及日本名将那须与一的神射传说，由此可见，弓箭对世界各地的文明都有深远的影响，因为弓箭的发明，人类才能在相对安全的距离上狩猎动物、抵御猛兽。甚至可以说，弓箭是人类冷兵器史上的巅峰之作。
+
+一，弓箭何时起源
+一般考古学研究表明，人类使用弓箭…]]></summary>
         <author>
-            <name>Jhey Tompkins</name>
+            <name>知乎日报</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[fit-content and fit-content()]]></title>
-        <id>https://css-tricks.com/?p=340897</id>
-        <link href="https://www.quirksmode.org/blog/archives/2021/04/fitcontent_and.html"/>
-        <updated>2021-05-20T14:20:56.000Z</updated>
-        <summary type="html"><![CDATA[Here’s some hardcore deep-dive CSS nerdery from PPK. If you can wrap your mind around min-content (the smallest an element can be based on the content it contains) and max-content (the largest the content of an element can push it) …
-The post fit-content and fit-content() appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[瞎扯 · 如何正确地吐槽]]></title>
+        <id>https://daily.zhihu.com/story/9736179</id>
+        <link href="https://daily.zhihu.com/story/9736179"/>
+        <updated>2021-05-20T23:07:19.000Z</updated>
+        <summary type="html"><![CDATA[0.999......8和1相等吗?
+
+秘小乐，混吃等死程序员
+阅读原文
+
+ 
+pdd 上 1 能提现，0.999.......8 你能提现吗？
+阅读原文
+
+如何看待太原女子假扮医生给情夫妻子注射氯化钾事后获谅解，被判6年？
+
+极萨学院冷哲，有时治愈，常常帮助，总是安慰
+阅读原文
+
+抱歉我第一眼看成氰化钾了，我还说都注射氰化钾了还能获得谅解…是给法官托梦了嘛。
+阅读原文
+
+年轻人会因为哪些原因对科研「望而却步」，如何帮助他们安心做研究？
+
+知乎用户
+阅读原文
+
+房子。
+阅读原文
+
+如何看待新垣结衣和星野源在一起的传闻？
+
+纶纶，stay young stay simple
+阅读原文
+
+
+
+
+阅读原文
+
+5月 19 日新垣结衣和星野源公布结婚消息，你有什么想说的？
+
+平昭·南宫司卿，きっとまた旅に出る。
+阅读原文
+
+星野源给任天堂唱了《创造》；
+
+新垣结衣给任天堂拍了《健身环》的广告；
+
+古川俊太郎微微一笑；
+
+妙，妙，妙。
+（注：古川俊太郎是任天堂的社长。）
+阅读原文]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>知乎日报</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Boost Your Skills Online: Smashing Workshops On Front-End And Design]]></title>
-        <id>https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/</id>
-        <link href="https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/"/>
-        <updated>2021-05-20T14:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Front-end and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run online workshops for all of us to learn together. And we have new ones coming up, and we’d like to kindly welcome you to join in.]]></summary>
+        <title type="html"><![CDATA[Seven Weeks 2014 BD MiniSD-TLF[[日韩] 原野四十九日][1.94 GB]]]></title>
+        <id>ed6ffe2de10f9f70fe8f6b9f19e732bd6ac06d63</id>
+        <link href="https://pt.eastgame.org/details.php?id=44302"/>
+        <updated>2021-05-20T15:39:19.000Z</updated>
+        <summary type="html"><![CDATA[◎制　　作　cp3you @ TLF HALFCD TeaM
+
+
+◎译　　名　原野四十九日/四十九天/Seven Weeks
+
+◎片　　名　野のなななのか
+
+◎年　　代　2014
+
+◎国　　家　日本
+
+◎类　　别　剧情
+
+◎语　　言　日语
+
+◎上映日期　2014-03-02(夕张国际电影节)/2014-05-17(日本 )/2014-06-14(上海国际电影节)
+
+◎IMDb评分　7.3/10 (24 votes)
+
+◎IMDb链接　http://www.imdb.com/title/tt3506606/
+
+◎豆瓣评分　7.6/10 (312 votes)
+
+◎豆瓣链接　https://movie.douban.com/subject/25752320/
+
+◎片　　长　171分钟
+
+◎导　　演　大林宣彦 Nobuhiko Obayashi
+
+◎主　　演　品川彻 Tôru Shinagawa
+
+　　　　　　常盘贵子 Takako Tokiwa
+
+　　　　　　村田雄浩 Takehiro Murata
+
+　　　　　　寺岛咲 Saki Terashima
+
+　　　　　　松重丰 Y…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
+            <name>catmark@pt.eastgame.org (catmark)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Implement Authentication In Next.js With Auth0]]></title>
-        <id>https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/</id>
-        <link href="https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/"/>
-        <updated>2021-05-20T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.]]></summary>
+        <title type="html"><![CDATA[The Fast And The Furious III 2006 BD 2Audio MiniSD-TLF[速度与激情3 [tt0463985][国英双语]][781.06 MB]]]></title>
+        <id>adf46e64e7556ead0ace8606d43ed671b6053fea</id>
+        <link href="https://pt.eastgame.org/details.php?id=44296"/>
+        <updated>2021-05-20T11:28:30.000Z</updated>
+        <summary type="html"><![CDATA[◎制　　作　Francis
+
+
+◎发　　行　TLF HALFCD TeaM
+
+
+
+
+
+◎英 文 名　The Fast and the Furious 3
+
+
+◎中 文 名　速度与激情3：东京漂移/玩命开头3：东京甩尾/狂野时速3
+
+
+◎导　　演　林诣彬 Justin Lin
+
+
+◎主　　演　卢卡斯·布莱克 Lucas Black
+
+
+　　　　　　Damien Marzette
+
+
+　　　　　　 Trula M. Marcus
+
+
+　　　　　　 Zachery Ty Bryan
+
+
+　　　　　　Brandon Brendel
+
+
+　　　　　　 Daniel Booko
+
+
+◎年　　代　2006年6月16日
+
+
+◎国　　家　美国
+
+
+◎语　　言　日语
+
+
+◎IMDb评分　5.6/10
+
+
+◎IMDb链接　http://www.imdb.com/title/tt0463985/
+
+
+◎片　　长　104 mins
+
+
+◎类　　别　动作 / 犯罪 / 剧情 / 惊怵
+
+
+
+
+◎简　　介　
+
+
+　　本片将日本山道上“飘移超车”出神入化的震…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Facundo Giuliani)</name>
+            <name>anonymous@pt.eastgame.org (anonymous)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Notion API]]></title>
-        <id>https://css-tricks.com/?p=340731</id>
-        <link href="https://css-tricks.com/notion-api/"/>
-        <updated>2021-05-19T23:18:42.000Z</updated>
-        <summary type="html"><![CDATA[The Public Beta of the Notion API dropped! Woot! Here’s their guide. I’ve been a Notion user and fan for a long time, for both personal and professional team use. They even sponsored a few videos around here a …
-The post Notion API appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[微软宣布停止支持，除 Flash 外，「IE 浏览器」也将离我们远去]]></title>
+        <id>https://www.ifanr.com/?p=1418037&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1418037?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-05-20T08:54:35.000Z</updated>
+        <summary type="html"><![CDATA[承载一代人对于电脑的回忆的事物正在慢慢消失。
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>李华</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use CSS Selectors to Style Your Web Page]]></title>
-        <id>60a341f5906c5207e3a7da61</id>
-        <link href="https://www.freecodecamp.org/news/use-css-selectors-to-style-webpage/"/>
-        <updated>2021-05-19T23:17:21.000Z</updated>
-        <summary type="html"><![CDATA[CSS selectors are one of the most important parts of CSS. They give you the ability to target HTML elements on your web page that you want to style. Without CSS selectors, you wouldn't be able to style your page to look how you want. Thankfully CSS selectors have been]]></summary>
+        <title type="html"><![CDATA[Android 12 Beta 1 抢先体验：冲不冲新系统，看这篇就够了]]></title>
+        <id>https://www.ifanr.com/?p=1417840&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1417840?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-05-20T06:43:20.000Z</updated>
+        <summary type="html"><![CDATA[全新「为你」UI，过渡滚动特效，还有灵动的新时钟。
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
         <author>
-            <name/>
+            <name>杜沅傧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is Web3? The Decentralized Internet of the Future Explained]]></title>
-        <id>60a42386906c5207e3a7dfe2</id>
-        <link href="https://www.freecodecamp.org/news/what-is-web3/"/>
-        <updated>2021-05-19T21:09:01.000Z</updated>
-        <summary type="html"><![CDATA[The internet is going through a paradigm shift. Learn the differences between Web2 and Web3, and why many developers and companies are shifting their approach in building apps.]]></summary>
+        <title type="html"><![CDATA[Zack Snyders Justice League 2021 BD HEVC 10bit MiniFHD-TLF[扎克·施奈德版正义联盟 / 欧版原盘压制 / [豆瓣8.3]][13.71 GB]]]></title>
+        <id>0e01c6947c555e6ed8d3507770c811a2675f7d77</id>
+        <link href="https://pt.eastgame.org/details.php?id=44288"/>
+        <updated>2021-05-20T03:34:49.000Z</updated>
+        <summary type="html"><![CDATA[引用 
+
+
+◎制　　作　zuimeng1997 @ TLF HALFCD TeaM
+
+ 引用 
+本作品是欧版原盘双碟切割压制，导致在 02:21:49 会有一秒的音轨戛然而止，但是字幕和音轨都是经过微调保证了完美契合的，并不影响观看。特此申明，不喜勿喷
+
+
+
+
+◎译　　名　扎克·施奈德版正义联盟/查克·史奈德之正义联盟(台)/正义联盟 扎克·施奈德导演剪辑版/正义联盟：扎克·施耐德版/正义联盟导演剪辑版/Justice League Snyder Cut
+
+◎片　　名　Zack Snyder's Justice League
+
+◎年　　代　2021
+
+◎产　　地　美国
+
+◎类　　别　动作/科幻/奇幻/冒险
+
+◎语　　言　英语
+
+◎上映日期　2021-03-18(美国)/2021-05-03(中国大陆网络)
+
+◎IMDb链接  https://www.imdb.com/title/tt12361974/
+
+◎豆瓣评分　8.3/10 from 188286 users
+
+◎豆瓣链接　https://douban.com/subject/35076714/
+
+◎片　　长　242分钟
+…]]></summary>
         <author>
-            <name/>
+            <name>zuimeng1997@pt.eastgame.org (zuimeng1997)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Optimize for Change in Software Development]]></title>
-        <id>60a469ec906c5207e3a7e1b9</id>
-        <link href="https://www.freecodecamp.org/news/how-to-optimize-for-change-software-development/"/>
-        <updated>2021-05-19T17:30:08.000Z</updated>
-        <summary type="html"><![CDATA[Imagine that you work at Magic Money Corp, which runs on just three lines of JavaScript: let input = { step1: 'collect underpants' } doStuff(input)  profit(input) // $$$!!! Now imagine that something's wrong with doStuff and you need to take it down for maintenance. What happens if you temporarily comment out the second]]></summary>
+        <title type="html"><![CDATA[早报 | 新 MacBook Pro 或今夏发布 / 拼多多百亿补贴开始抽佣 / 华莱士获评外卖品牌第一]]></title>
+        <id>https://www.ifanr.com/?p=1417803&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1417803?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-05-20T00:40:50.000Z</updated>
+        <summary type="html"><![CDATA[‍• 取代亚马逊，Shein 成为美国安装最多的购物应用
+• OPPO Reno6 发布时间公布
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
         <author>
-            <name/>
+            <name>方嘉文</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[svg-loader: A Different Way to Work With External SVG]]></title>
-        <id>https://css-tricks.com/?p=340692</id>
-        <link href="https://css-tricks.com/svg-loader-a-different-way-to-work-with-external-svg/"/>
-        <updated>2021-05-19T14:28:19.000Z</updated>
-        <summary type="html"><![CDATA[SVGs are awesome: they are small, look sharp on any scale, and can be customized without creating a separate file. However, there is something I feel is missing in web standards today: a way to include them as an external …
-The post svg-loader: A Different Way to Work With External SVG appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[公司严重缺人几乎要乱套了，老板却招聘条件非常苛刻，什么原因？]]></title>
+        <id>https://daily.zhihu.com/story/9736166</id>
+        <link href="https://daily.zhihu.com/story/9736166"/>
+        <updated>2021-05-19T23:08:03.000Z</updated>
+        <summary type="html"><![CDATA[小红拖拉机，专治「工作不快乐」
+阅读原文
+
+说白了，根本原因是老板太聪明了。
+太聪明的老板
+太聪明的老板还会有的特点：
+重视学历与出身。
+对本科学历是 985、211 的，对大厂来的都会高看一眼，横竖觉得你值更多钱。至于跟着自己踏实卖命干的普通人，都是没格局、没脑子，打心眼里觉得你次一等。
+抱怨员工责任心。
+为什么到点就下班了，交付总是 delay，也不知道多干点，都这样的责任心，还想要发展！
+抱怨员工只关注钱。
+我们公司是要颠覆未来的，你要看到跟着公司能实现人生价值。别只盯着现金，给你这么多钱还嫌不够，你知道多少人想进咱们公司吗，好多人都说咱们公司多牛逼，知不知道？
+超级自恋。
+觉得自己非常牛逼，自己的过往对其他人就是人生的巅峰，自己什么都懂，你们都是傻逼。不容你的挑战和质疑，如果争辩，必然得把你说道哑口无言为止。
+老板觉得公司很牛逼所以要保持良好形象，如某匿名用户回答：
+
+为啥老板太聪明了会导致这种结果呢？
+聪明人的达芬奇诅咒
+因此太聪明的兴趣广泛、爱好丰富，说啥都懂，没有不知道的。
+所以他们在有时限的竞赛中，往往能轻松拿高分，比如考试、面试、演讲等很多领域，他们不用特努力就能超过大多数人。
+所以在他们的…]]></summary>
         <author>
-            <name>Shubham Jain</name>
+            <name>知乎日报</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Frustrating Design Patterns: Mega-Dropdown Hover Menus]]></title>
-        <id>https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/</id>
-        <link href="https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/"/>
-        <updated>2021-05-19T11:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Do we need mega-dropdown hover menus in 2021? Probably not. Let’s explore things to keep in mind when designing and building a mega-dropdown, alternatives to hover menus and fine details for designing a better UX.]]></summary>
+        <title type="html"><![CDATA[未来 20 年，中国航天事业将会迎来哪些关键的技术节点？]]></title>
+        <id>https://daily.zhihu.com/story/9736158</id>
+        <link href="https://daily.zhihu.com/story/9736158"/>
+        <updated>2021-05-19T23:07:56.000Z</updated>
+        <summary type="html"><![CDATA[知乎用户，材料砖工
+阅读原文
+
+要看今后 20 年将会有什么关键节点，得先看现在咱们都做出了什么才行。
+载人航天方面：11 艘神舟飞船、两个天宫空间实验室、一艘天舟货运飞船。从各个角度验证了我国载人航天各系统的可靠性和实用性，顺手也在天上搞了些科研项目，获得了一些成果。现在第三步也稳稳的迈了出去，天和核心舱成功发射，几天后天舟二号货运飞船也将发射升空，我们的空间站也将在不久的将来完全建成。
+厂房中的天和核心舱
+月球探测方面：嫦娥 1-5 号完成了从绕月到采样返回的各个步骤，其中嫦娥二号在完成月球观测任务后还成为了我国首个深空探测器，对地外小行星进行了飞掠观测。嫦娥五号更是完成了一次“阿波罗式”的登月任务，为后续进一步的月球探测任务做了一定准备。
+行星探测方面：全世界的火星探测项目中，第一次火星探测 + 环绕 + 落火 + 小车巡视，一个航天器把这些人物全部搞定的，就天问一号独一份，任务难度相当大，但咱们还是非常成功的把祝融送到了火星地面，就等过些天充满电之后开展任务了。
+运载火箭方面：这个可说的比较多。自从 2016 年长征七号首飞以来，我国新一代运载火箭体系已经初步建成，各个轨道的运载能力上限均得到了大幅提…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+            <name>知乎日报</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Break into Ethereum, Crypto, and Web3 as a Developer]]></title>
-        <id>60a53182906c5207e3a7e588</id>
-        <link href="https://www.freecodecamp.org/news/breaking-into-ethereum-crypto-web3-as-a-developer/"/>
-        <updated>2021-05-18T21:04:00.000Z</updated>
-        <summary type="html"><![CDATA[Lately, I've been talking about my move into the Web3, Ethereum, and crypto space since making the switch from a traditional web, mobile, and cloud background. Since making that move, a shocking number of people have reached out to me who are also thinking about doing the same.  It's really]]></summary>
+        <title type="html"><![CDATA[哪些科技的发展，解决了医疗上的大问题？]]></title>
+        <id>https://daily.zhihu.com/story/9736160</id>
+        <link href="https://daily.zhihu.com/story/9736160"/>
+        <updated>2021-05-19T23:07:52.000Z</updated>
+        <summary type="html"><![CDATA[极萨学院冷哲，有时治愈，常常帮助，总是安慰
+阅读原文
+
+是时候祭出我这张课件图片了。
+
+时间轴上记载的是遗传学 / 分子生物学 / 基因组学以及生物信息学的在从 1865 到近代的一些标示性事件的时间点。
+虽然这些都是生命科学领域的进展，但是，正式这些进展，极大的推进了医学的进步，解决了非常多医学上的大问题。
+比如举一个最简单的例子，在时间轴上不起眼的 PCR 技术，成为了我们现在所不可或缺的新冠病毒检测的金标准的理论基石。同样这个技术在 1993 年获得了诺贝尔化学家。
+今天想跟大家的分享的，是这个时间轴里，我认为近代生命科学最重要的一个事件，同时也是对人类的近代医学有着非常非常大影响的事件——人类基因组计划。
+人类基因组计划（The Human Genome Project，HGP）是一个可以与曼哈顿原子弹计划和阿波罗登月计划并列的，人类在 20 世纪的三大科学计划之一。人类基因组计划其目的在于对一个人完成完整的序列测序，病绘制人类基因图谱，以达到破解人类遗传学信息的最终目标。
+人类基因组计划从提出到实现到最终结束，耗时十几年，几十亿美金，同时由中国、美国、英国、法国、德国、日本等多国科学家合力完成。这可…]]></summary>
         <author>
-            <name/>
+            <name>知乎日报</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pinned Audio WordPress Theme]]></title>
-        <id>https://css-tricks.com/?p=340613</id>
-        <link href="https://css-tricks.com/pinned-audio-wordpress-theme/"/>
-        <updated>2021-05-18T19:14:53.000Z</updated>
-        <summary type="html"><![CDATA[I’m afraid I have to start this with a whole backstory, as the journey here is the point, not so much the theme.
-A fella wrote to me a while back outlining a situation he was in. His company has …
-The post Pinned Audio WordPress Theme appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[如何评价贾樟柯导演及其作品？]]></title>
+        <id>https://daily.zhihu.com/story/9736173</id>
+        <link href="https://daily.zhihu.com/story/9736173"/>
+        <updated>2021-05-19T23:07:47.000Z</updated>
+        <summary type="html"><![CDATA[小吕同学，日常厌学的研究僧，喜欢泡在电影与好奇中
+阅读原文
+
+贾樟柯导演是一个十分重视空间的电影从业者
+
+1997 年贾樟柯的第一部长篇《小武》问世，在国际上获得广泛赞誉，一路斩获八个大奖，自此一战成名，频频问鼎国际奖项，囊括三大国际电影节奖项。
+1998 年，《小武》在柏林电影节获奖，且斩获国际奖项多达几十项。
+2006 年，《三峡好人》在第 63 届威尼斯斩获电影节金狮奖；
+2013 年《天注定》荣获戛纳电影节最佳编剧奖；
+2015 年，戛纳电影节将终身成就奖颁于时值四十五岁的贾樟柯。
+此时，贾樟柯无可置疑的成为中国第六代导演的领军人物。
+贾樟柯与空间
+“你进入一个空间里面，要先沉浸十分钟，听这个空间跟你诉说，然后你跟他对话。[1]”
+这是他一直以来的创作信条，坚持与实景空间对话后再进行戏剧创作完成分镜。
+在学习与拍摄影片的过程中，贾导早期的创作风格受到了意大利新现实主义大师们的影响，后期逐渐发展出自己独特的艺术风格，显现在电影空间特性的创作中。
+科长模仿希区柯克
+一、 缓慢性
+总体而言，贾樟柯的电影中是一种心理感觉上很慢的电影。
+这种“慢”感并不是慢镜头，那是一种重塑生活浪漫化的方式。是现实生活的漫无目…]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>知乎日报</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Freelance Development Pricing Guide – Should Freelancers Bill by the Hour?]]></title>
-        <id>60a3780f906c5207e3a7db5f</id>
-        <link href="https://www.freecodecamp.org/news/the-different-ways-to-charge-for-a-website/"/>
-        <updated>2021-05-18T17:12:59.000Z</updated>
-        <summary type="html"><![CDATA[If you offer your services as a freelance developer, you have a major say in how you price your project.  But how do you go about charging for a website project? "Well, I just bill by the hour and send an invoice every week or month." ...I hear you say.]]></summary>
+        <title type="html"><![CDATA[14岁前安放一个定时炸弹，14岁后爆炸，构成犯罪吗？]]></title>
+        <id>https://daily.zhihu.com/story/9736176</id>
+        <link href="https://daily.zhihu.com/story/9736176"/>
+        <updated>2021-05-19T23:07:40.000Z</updated>
+        <summary type="html"><![CDATA[曾杰律师，广强律所非法集资案件中心主任，合伙人。18617320573
+阅读原文
+
+谢邀，这种纯理论思考的问题，稍微想想是好玩，想多了就很累，我试着答一下，不会很严谨，见谅。
+我觉得这涉及一个问题，不作为犯。
+1.如果觉得定时炸弹这个例子不太好理解，那就换一个类比（当然在刑法学领域不鼓励类推，我们谨慎的用一下），即，如果一个人 14 岁以前，杀了人，要不要负责？比如满 14 周岁前一天故意把人捅了，那他要不要负责？
+结论是，如果被捅的人当场死亡，那这个小孩的确是不用承担刑事责任。
+但是，如果凶手是在一个荒郊野岭，在满 14 周岁前一天捅了人，但是被害人没有当场死亡，而是等到了第二天（此时凶手已经满了 14）才在挣扎中死亡，此时（第二天），凶手就有了救助的义务，比如马上打个电话，或者及时呼救，或者必要的，简单的止血等，如果死者最终是因为凶手的见死不救而延误治疗死亡， 那凶手在满 14 周岁的当天就可能构成不作为的故意杀人犯。
+此种不作为的义务来源是特定的，不是每个人都有的。因为此前死者被捅是因为这个凶手造成，这个事实不论凶手的年龄，都不会改变，因此，就构成了凶手在满 14 周岁以后的不作为义务。
+为何？因为凶手…]]></summary>
         <author>
-            <name/>
+            <name>知乎日报</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Coding Programs – 101 Ways to Learn to Code for Free]]></title>
-        <id>6068f146d5756f080ba9402d</id>
-        <link href="https://www.freecodecamp.org/news/coding-programs-101-ways-to-learn-to-code-for-free/"/>
-        <updated>2021-05-18T16:50:36.000Z</updated>
-        <summary type="html"><![CDATA[Yes, you can learn to code for free, from the convenience of your own home, and at your own pace. I'm going to show you 101 courses where you can learn computer science and programming for free.  The freeCodeCamp courses are completely free and some of them include a free]]></summary>
+        <title type="html"><![CDATA[瞎扯 · 如何正确地吐槽]]></title>
+        <id>https://daily.zhihu.com/story/9736152</id>
+        <link href="https://daily.zhihu.com/story/9736152"/>
+        <updated>2021-05-19T23:07:32.000Z</updated>
+        <summary type="html"><![CDATA[如何用一句话，到达自己所在圈子的鄙视链的最底端？
+
+Mon1st，small.cat/cow
+阅读原文
+
+"人类大脑只开发了百分之十，其中左脑负责理智，右脑负责情感。"
+阅读原文
+
+你是通过什么事情才知道自己丑的？
+
+别叫我陈赫，我妈超爱我这张脸
+阅读原文
+
+刚毕业那会去某股份制银行面试，面试是群面，面试官开场直接说，能揽储 2000 万和长得很标致的留下，其他的可以回去等通知了。我微微一笑，淡定留下。
+就这样我上了俩月的班，直到揽储任务下发后我才被赶走。
+尼玛走之前一同事还跟我说我开始以为你至少可以揽 5000 万以上。
+想哭。
+阅读原文
+
+男朋友一个晚上没有回来，他说在朋友家睡，但是内裤发现了一条长头发，该问还是不该问?
+
+乃义武，种植野生幽默，贩卖散装快落。
+阅读原文
+
+这事问也白问，得自己动手去发掘真相。我有一计，可解你疑惑。
+你去买一个智能电子秤，可以连接手机发送数据的那种，然后不动声色地塞到你男朋友内裤里。
+等他再去「朋友家」睡觉的时候，一脱裤子，电子秤就会应声落地，然后另一个人就会好奇地去称重。你等数据同步到手机里就好了！
+如果数据在 100 斤左右（±20 斤），那不用说了，你男朋友肯定出轨了…]]></summary>
         <author>
-            <name/>
+            <name>知乎日报</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Create Neon Text With CSS]]></title>
-        <id>https://css-tricks.com/?p=340420</id>
-        <link href="https://css-tricks.com/how-to-create-neon-text-with-css/"/>
-        <updated>2021-05-18T14:31:25.000Z</updated>
-        <summary type="html"><![CDATA[Neon text can add a nice, futuristic touch to any website. I’ve always loved the magic of neon signs, and wanted to recreate them using CSS. I thought I’d share some tips on how to do it! In this article, …
-The post How to Create Neon Text With CSS appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[首发 | 新 iPad Pro 体验：当平板换上一颗电脑芯，它会是一台新电脑吗？]]></title>
+        <id>https://www.ifanr.com/?p=1417588&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1417588?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-05-19T13:34:40.000Z</updated>
+        <summary type="html"><![CDATA[iPad Pro 换上电脑芯片M1 并不仅仅是一次惯例的性能升级，它的真实目的，是为了改变 iPad 的软件生态。
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
         <author>
-            <name>Silvia O'Dwyer</name>
+            <name>何宗丞</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Create, Edit And Animate SVGs All In One Place With SVGator 3.0]]></title>
-        <id>https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/</id>
-        <link href="https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/"/>
-        <updated>2021-05-18T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Today, we are taking a closer look at [SVGator 3.0](https://www.svgator.com/?utm_source=article&utm_medium=smashingmag&utm_campaign=svgator3_smashing), a new major release of the popular SVG application that lets you create, edit and animate SVG files and make the best out of what SVG has to offer — from start to finish.]]></summary>
+        <title type="html"><![CDATA[中国经济的数字逻辑]]></title>
+        <id>http://www.ruanyifeng.com/blog/2021/05/china-economy-explanation.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2021/05/china-economy-explanation.html"/>
+        <updated>2021-05-19T12:54:48.000Z</updated>
+        <summary type="html"><![CDATA[重庆市前市长黄奇帆退休以后，受聘担任复旦大学特聘教授，定期给师生做讲座，介绍他对中国经济的看法。
+
+他的12次讲座，去年汇集成书出版了，书名叫做《分析与思考：黄奇帆的复旦经济课》。
+
+我最近读了以后，发现他在讲座中经常引用各种数字，而且会解释了背后的经济逻辑。怎么理解各种经济指标，怎么用它们指导经济政策，讲得深入浅出，我觉得很有价值。
+下面就是我从书中摘录的一些片段，相信可以帮大家更好地看懂中国经济。
+一、金融业产值
+中国经济的一个严重问题是，金融企业的产值过高。金融业增加值占 GDP 的比重是百分之八点几，全世界最高。世界金融业产值占全球 GDP 是5%左右。这个比重过高，意味着金融业吃掉了其它产业的利润。
+但是，如果仅仅统计中国的银行、证券、保险的金融增加值，其实也就是4%--5%。多出来的3%是非银行的金融企业形成的，包括信托、小贷、保理、担保公司、财务公司、互联网金融公司、私募基金等。
+现在银行的贷款利率一般在7%，到了信托公司，贷款成本一般都在12%以上，到了小贷公司就会上升到18%--20%。层层上升的资金成本，导致实体经济融资难、融资贵，利润就这样转移到了金融业。
+目前，中国企业的总负债是 GD…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Mikołaj Dobrucki)</name>
+            <name>阮一峰的网络日志</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 37 With Adam Argyle: What Is VisBug?]]></title>
-        <id>https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/</id>
-        <link href="https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/"/>
-        <updated>2021-05-18T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we’re talking about VisBug. What is it, and how is it different from the array of options already found in Chrome DevTools? Drew McLellan talks to its creator Adam Argyle to find out.]]></summary>
+        <title type="html"><![CDATA[The Fast And The Furious II 2003 BD 3Audio MiniSD-TLF[速度与激情2 [tt0322259][国英双语]][809.07 MB]]]></title>
+        <id>fa075d4c9729022cf651ecabb294b115f1d7eff4</id>
+        <link href="https://pt.eastgame.org/details.php?id=44269"/>
+        <updated>2021-05-19T11:19:13.000Z</updated>
+        <summary type="html"><![CDATA[◎制　　作　Francis
+
+
+◎发　　行　TLF HALFCD TeaM
+
+
+
+
+
+◎英 文 名　2 Fast 2 Furious
+
+
+◎中 文 名　速度与激情2/飙风再起/狂野极速/狂野极速2（港）
+
+
+◎导　　演　约翰·辛格顿 John Singleton
+
+
+◎主　　演　保罗·沃克 Paul Walker
+
+
+　　　　　　泰瑞斯 Tyrese
+
+
+　　　　　　伊娃·门德斯 Eva Mendes
+
+
+　　　　　　科尔·豪瑟 Cole Hauser
+
+
+　　　　　　卢蒂克里斯 Ludacris
+
+
+　　　　　　 Thom Barry
+
+
+◎年　　代　2003年06月03日
+
+
+◎国　　家　美国
+
+
+◎语　　言　西班牙语
+
+
+◎IMDb评分　5.1/10
+
+
+◎IMDb链接　http://www.imdb.com/title/tt0322259/
+
+
+◎片　　长　 mins
+
+
+◎类　　别　动作 / 犯罪 / 剧情 / 惊怵
+
+
+
+
+◎简　　介　
+
+
+　　【剧情简介】：
+
+
+
+
+　　为了一件大案子的调查，他加入了洛杉…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+            <name>anonymous@pt.eastgame.org (anonymous)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Humble `img` Element And Core Web Vitals]]></title>
-        <id>https://css-tricks.com/?p=340716</id>
-        <link href="https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/"/>
-        <updated>2021-05-17T22:38:06.000Z</updated>
-        <summary type="html"><![CDATA[Addy Osmani on images in HTML:
-The humble <img> element has gained some superpowers over the years. Given how central it is to image optimization on the web, let’s catch up on what it can do and how it can 
-…
-The post The Humble `img` Element And Core Web Vitals appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[华为全场景智慧生活发布会总结：一口气发布 13 款产品，史上最大的 Mate 来了！]]></title>
+        <id>https://www.ifanr.com/?p=1417701&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1417701?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-05-19T09:11:07.000Z</updated>
+        <summary type="html"><![CDATA[显示器看起来好香！
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>换新言</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Love Letter to HTML & CSS]]></title>
-        <id>https://css-tricks.com/?p=339522</id>
-        <link href="https://css-tricks.com/a-love-letter-to-html-css/"/>
-        <updated>2021-05-17T14:27:22.000Z</updated>
-        <summary type="html"><![CDATA[I see you. In the back there, behind JavaScript and React and PHP and all those “real” programming languages, I see you. And I appreciate you.
-The post A Love Letter to HTML & CSS appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[华为 FreeBuds 4 无线耳机体验：「空气感」的舒适体验，还带降噪？]]></title>
+        <id>https://www.ifanr.com/?p=1417331&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1417331?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-05-19T08:42:20.000Z</updated>
+        <summary type="html"><![CDATA[降噪和舒适之间的折中选择。
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
         <author>
-            <name>Ashley Kolodziej</name>
+            <name>黄智健</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Euismod]]></title>
-        <id>https://css-tricks.com/?p=340594</id>
-        <link href="https://www.euismod.dev/"/>
-        <updated>2021-05-17T14:27:13.000Z</updated>
-        <summary type="html"><![CDATA[An interactive tool for learning grid syntax from Etesam Ansari. In the Learn section, it teaches you some concepts (involving multiple bits of the grid syntax) then gives you a task to complete by filling out the right syntax. I’m …
-The post Euismod appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[MateBook 16 体验：比预想的小一点，也比预想的大不少]]></title>
+        <id>https://www.ifanr.com/?p=1416990&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1416990?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-05-19T08:25:46.000Z</updated>
+        <summary type="html"><![CDATA[这次是 AMD 芯哦。
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>吕朋铭</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How We Improved Our Core Web Vitals (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2021/05/core-web-vitals-case-study/</id>
-        <link href="https://smashingmagazine.com/2021/05/core-web-vitals-case-study/"/>
-        <updated>2021-05-17T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.]]></summary>
+        <title type="html"><![CDATA[新 iMac 体验丨乔布斯：换色。库克：收到。]]></title>
+        <id>https://www.ifanr.com/?p=1417396&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1417396?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-05-19T02:23:07.000Z</updated>
+        <summary type="html"><![CDATA[科技以换色为本？才不是呢，iMac 的内在改变也给了我们很多惊喜。
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Beau Hartshorne)</name>
+            <name>雷健恒</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google I/O 2021 最全记录：Android 12 迎来三大升级，但全场主角不是它]]></title>
+        <id>https://www.ifanr.com/?p=1417495&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1417495?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-05-19T01:00:52.000Z</updated>
+        <summary type="html"><![CDATA[史上最个性的 Android 来了。
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>换新言</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[早报 | 余承东任华为智能汽车业务 CEO / 爱奇艺回应「倒奶」事件 / 苹果扩大自动驾驶汽车车队]]></title>
+        <id>https://www.ifanr.com/?p=1417528&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1417528?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-05-19T00:38:08.000Z</updated>
+        <summary type="html"><![CDATA[‍• 超过五千万人在去哪儿购买人生第 1 张机票
+• 钟薛高完成 2 亿元 A 轮融资
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>方嘉文</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[求问各位知乎大神，猫在古代的别称除了狸奴还有哪些？]]></title>
+        <id>https://daily.zhihu.com/story/9736141</id>
+        <link href="https://daily.zhihu.com/story/9736141"/>
+        <updated>2021-05-18T23:08:02.000Z</updated>
+        <summary type="html"><![CDATA[地平线HOA，简单、有趣、认真的科普。『公众号同名』
+阅读原文
+
+话说，古人都管猫叫什么？
+让我们一起学猫叫，一起喵喵喵喵~
+
+养猫，并不是现代人特有的休闲方式。宋代著名诗人陆游有云：
+“溪柴火软蛮毡暖，我与狸奴不出门。”——《十一月四日风雨大作（其一）》
+“狸奴”就是猫，给它翻译翻译就是：刮风下雨算个啥，烤个火，逗个猫，窗前枕下。
+
+陆游甚至专门为猫写了组诗，题为《赠猫》。我们看看第三首：
+执鼠无功元不劾，一箪鱼饭以时来。
+看君终日常安卧，何事纷纷去又回？——《赠猫（其三）》
+逮不到老鼠，我不追究；每天的饭菜，我按时送；我唯一的要求，就是你能趴在那里好好陪我……
+你丫的整天跑来跑去就不能理我一下？！
+
+陆游的这只小猫名叫“於菟”，“於菟”是啥意思呢？
+鼠穴功方列，鱼餐赏岂无。
+仍当立名字，唤作小於菟。——《赠猫（其一）》
+小猫横扫无胆鼠辈，大鱼大肉是大大滴有！照例应该给你起个名字，嗯，就叫你“小老虎”吧！
+《东京梦华录》提到，当时开封和杭州有专门卖猫食的店铺。如果这个说法属实，至少在宋代，与猫咪相关的行业就已经非常发达了。
+哦，顺便提一句，陆游的“小老虎”是一袋盐换来的...
+
+中国第一部关于猫的专著，是清…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[目前为止，中国科技发展可提速的方向有哪些？]]></title>
+        <id>https://daily.zhihu.com/story/9736137</id>
+        <link href="https://daily.zhihu.com/story/9736137"/>
+        <updated>2021-05-18T23:07:57.000Z</updated>
+        <summary type="html"><![CDATA[温戈，想当作家的数字IC设计工程师 公众号：OpenIC
+阅读原文
+
+泛半导体领域，包括：材料，EDA，制造，设备（光刻机，ATE 等）。
+近期，一股缺芯潮流席卷全球，很多行业都面临着无芯可用的情况。比如晶圆厂 8 英寸和 12 寸晶圆都处于全球性的紧张状态，芯片面临着供需失衡的局面。
+早在 2020 年 12 月，大众公司就曾警告称，由于半导体短缺，2021 年第一季度公司将遭遇大规模生产中断，届时将调整中国、北美和欧洲工厂的生产。虽然部分业内人士已经预料到芯片将面临短缺的状况，但显然缺芯潮已远远超出了行业预估，减产效应正在全球多个行业之间蔓延。再加上美国寒潮和日本地震的影响，让本来缺芯的状况雪上加霜。而近几年，从美国接连对中兴，华为，中芯国际等企业实施科技封锁，到日前美国拉拢欧盟、日韩成立半导体联盟针对中国，这一系列的动作导致国内的芯片行业陷入了困境。
+无论是半导体产业链的脆弱性，还是国内半导体的与国际先进水平存在一定差距的现状，都使得在芯片领域发展提速变得刻不容缓。
+就目前的现状，我们关注芯片领域以下几个问题：
+本轮的芯片危机，更多是暴露了中国芯片产业存在的短板，还是更多展示了中国芯片产业存在的机会？中…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有哪些天文研究成果已经改变了我们的生活？还有哪些新方向值得期待？]]></title>
+        <id>https://daily.zhihu.com/story/9736128</id>
+        <link href="https://daily.zhihu.com/story/9736128"/>
+        <updated>2021-05-18T23:07:49.000Z</updated>
+        <summary type="html"><![CDATA[Pjer，空间物理博士在读 - 好奇且饭量大·会修电脑·不会游泳
+阅读原文
+
+谢邀！而且这题我会！
+射电天文→医学成像
+直观上可能很难想象两个空间尺度区别如此巨大的研究对象会有任何联系。
+首先，来回顾一下 Leonard 和 Penny 婚礼上的经典对白。
+
+组成人体的原子来源于宇宙星云，所以，人类用观察宇宙的方式来观察人体。
+干涉成像
+射电天文中的相干成像（interferometry）技术被应用于核磁共振，让医生可以更快速准确获得人体内部层析结构，辅助诊断。
+观测是天文学研究的重要手段，对应诊断中的“望闻问切”，区别是在天文中只能“望闻问”，不能“切”，天文学研究的巨大空间尺度决定了所进行的观测都只能是非接触式测量。经过几十年的发展，天文观测从最初只能使用可见光望远镜观测到现在遍布从波长为 10^-12m 的伽马射线到 10^3m 的甚低频射电波。
+图源：Wikipedia
+射电天文观测中，考虑 Rayleigh 判据衍射极限给出的分辨率：
+
+其中 D 是望远镜口径，
+
+是波长。
+低频观测中波长较大，因此单口径望远镜分辨率有限，为了能在有限的成本下得到更高的空间分辨率，射电天文中提出了干涉成像（inter…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arrow S08 2019 BD HEVC 10bit MiniHD-TLF[绿箭侠 第八季 / 全10集 / 《绿箭侠》完，马上开启《DC明日传奇》][3.17 GB]]]></title>
+        <id>7b1a6b2f3829ca3792b691313a058ba87b5a4d8b</id>
+        <link href="https://pt.eastgame.org/details.php?id=44251"/>
+        <updated>2021-05-18T12:19:55.000Z</updated>
+        <summary type="html"><![CDATA[引用 
+◎制　　作　zuimeng1997 @ TLF HALFCD TeaM
+
+
+
+
+◎译　　名　绿箭侠 第八季/箭神(港)/绿箭/Green Arrow
+
+◎片　　名　Arrow Season 8
+
+◎年　　代　2019
+
+◎产　　地　美国
+
+◎类　　别　剧情/动作/科幻/悬疑/犯罪/冒险
+
+◎语　　言　英语
+
+◎上映日期　2019-10-15(美国)
+
+◎IMDb链接  https://www.imdb.com/title/tt9695550/
+
+◎豆瓣评分　9.1/10 from 2353 users
+
+◎豆瓣链接　https://douban.com/subject/30450371/
+
+◎集　　数　10
+
+◎导　　演　詹姆斯·班福德 James Bamford
+
+◎编　　剧　格里格·伯兰蒂 Greg Berlanti / 马克·古根海姆 Marc Guggenheim / 安德鲁·克雷斯伯格 Andrew Kreisberg
+
+◎主　　演　斯蒂芬·阿梅尔 Stephen Amell
+
+　　　　  　雨果·阿泰 Hugo Ateo
+
+　　　　  　查理·巴奈特 C…]]></summary>
+        <author>
+            <name>zuimeng1997@pt.eastgame.org (zuimeng1997)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arrow S07 2018 BD HEVC 10bit MiniHD-TLF[绿箭侠 第七季 / 全22集][11.81 GB]]]></title>
+        <id>a2ffcfd231bb8e29a1523c8d926835506d6a469c</id>
+        <link href="https://pt.eastgame.org/details.php?id=44250"/>
+        <updated>2021-05-18T12:17:45.000Z</updated>
+        <summary type="html"><![CDATA[引用 
+◎制　　作　zuimeng1997 @ TLF HALFCD TeaM
+
+
+
+
+◎译　　名　绿箭侠 第七季/绿箭/Green Arrow
+
+◎片　　名　Arrow Season 7
+
+◎年　　代　2018
+
+◎产　　地　美国
+
+◎类　　别　剧情/动作/科幻/犯罪
+
+◎语　　言　英语
+
+◎上映日期　2018-10-15(美国)
+
+◎IMDb链接  https://www.imdb.com/title/tt7224676/
+
+◎豆瓣评分　8.1/10 from 2392 users
+
+◎豆瓣链接　https://douban.com/subject/30187289/
+
+◎集　　数　22
+
+◎片　　长　42分钟
+
+◎导　　演　詹姆斯·班福德 James Bamford
+
+◎编　　剧　格里格·伯兰蒂 Greg Berlanti / 马克·古根海姆 Marc Guggenheim / 安德鲁·克雷斯伯格 Andrew Kreisberg
+
+◎主　　演　斯蒂芬·阿梅尔 Stephen Amell
+
+　　　　  　大卫·莱姆希 David Ramsey
+
+　　　　  　艾米莉…]]></summary>
+        <author>
+            <name>zuimeng1997@pt.eastgame.org (zuimeng1997)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Fast And The Furious 2001 BD 3Audio MiniSD-TLF[速度与激情1 [tt0232500][国英双语]][803.92 MB]]]></title>
+        <id>f5dc291edf7a7a5aae4c5c83b2dd1943bb9f5761</id>
+        <link href="https://pt.eastgame.org/details.php?id=44249"/>
+        <updated>2021-05-18T11:35:02.000Z</updated>
+        <summary type="html"><![CDATA[◎制　　作　Francis
+
+
+◎发　　行　TLF HALFCD TeaM
+
+
+
+
+◎英 文 名　The Fast and the Furious
+
+
+◎中 文 名　沉速度与激情1/玩命关头/狂野时速
+
+
+◎导　　演　罗布·科恩（Rob Cohen） 　
+
+
+◎主　　演　保罗·沃克尔 Paul Walker ....Brian O‘Conner 　
+
+
+            范·迪塞尔 Vin Diesel ....Dominic Toretto 　　
+
+
+            乔丹娜·布鲁斯特 Jordana Brewster ....Mia Toretto 　
+
+　
+
+            米歇尔·罗德里格兹 Michelle Rodriguez ....Letty 　　
+
+
+            汤姆·巴瑞 Thom Barry ....Agent Bilkins 　　
+
+
+            罗伯·科恩 Rob Cohen ....Pizza Hut Delivery Guy (uncredited) 
+
+
+◎年　　代　2001年6月18日
+…]]></summary>
+        <author>
+            <name>anonymous@pt.eastgame.org (anonymous)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吸管也「内卷」？竹子、大米、玻璃、咖啡渣、不锈钢、芹菜……它们也成吸管了]]></title>
+        <id>https://www.ifanr.com/?p=1417372&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1417372?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-05-18T10:44:50.000Z</updated>
+        <summary type="html"><![CDATA[原来，这就是它们不换纸吸管的原因。
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>冷思真</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[腾讯这个低调团队，用 15 年改变了设计]]></title>
+        <id>https://www.ifanr.com/?p=1417067&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1417067?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-05-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[影响腾讯，培养人才，普惠行业，服务社会。
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>吴志奇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[早报 | Apple Music 将支持无损音频 / 美的预告「新能源汽车新品」/「饿了么」被罚款]]></title>
+        <id>https://www.ifanr.com/?p=1417300&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1417300?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-05-18T00:58:21.000Z</updated>
+        <summary type="html"><![CDATA[‍• 苹果推出新 Apple Watch 彩虹表带
+• 卡士推出无糖新品「断糖日记」
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>方嘉文</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The League of Gentlemen S03 2002 D9 MiniSD-TLF[绅士联盟 第三季 全6集 BBC][1.52 GB]]]></title>
+        <id>65235886e43955d73d45f1b692c8bd4277f29837</id>
+        <link href="https://pt.eastgame.org/details.php?id=44238"/>
+        <updated>2021-05-17T23:19:05.000Z</updated>
+        <summary type="html"><![CDATA[引用 
+转自TLF论坛，感谢制作者和发布员。
+
+
+
+
+
+◎译　　名　绅士联盟 第三季
+
+◎片　　名　The League of Gentlemen
+
+◎年　　代　2002
+
+◎产　　地　英国
+
+◎类　　型　电视剧
+
+◎类　　别　喜剧
+
+◎语　　言　英语
+
+◎上映日期　2002-09-19(英国)
+
+◎MPAA评级　TV-Y(美国)
+
+◎IMDb评分　8.2/10 from 130 users
+
+◎IMDb链接　https://www.imdb.com/title/tt0630130/
+
+◎IMDb链接　https://www.imdb.com/title/tt0184135/
+
+◎豆瓣评分　9.5/10 from 2,159 users
+
+◎豆瓣链接　https://movie.douban.com/subject/11620525/
+
+◎季　　数　3 (共4季22集)
+
+◎集　　数　6
+
+◎单集片长　30分钟
+
+◎标　　签　英剧 | 黑色幽默 | 看过的电视剧 | 英语标签 | BBC | 英国 | 喜剧 | ReeceShearsmith
+
+◎简　　介
+
+　　…]]></summary>
+        <author>
+            <name>anonymous@pt.eastgame.org (anonymous)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The League of Gentlemen S02 2000 D9 MiniSD-TLF[绅士联盟 第二季 全7集 BBC][2.06 GB]]]></title>
+        <id>dcfcf5316789a65624e42909a0721b5610ebaa45</id>
+        <link href="https://pt.eastgame.org/details.php?id=44237"/>
+        <updated>2021-05-17T23:18:22.000Z</updated>
+        <summary type="html"><![CDATA[引用 
+转自TLF论坛，感谢制作者和发布员。
+
+
+
+
+
+◎译　　名　绅士联盟 第二季
+
+◎片　　名　The League of Gentlemen
+
+◎年　　代　2000
+
+◎产　　地　英国
+
+◎类　　型　电视剧
+
+◎类　　别　剧情 / 喜剧 / 恐怖
+
+◎语　　言　英语
+
+◎上映日期　2000-01-14(英国)
+
+◎MPAA评级　TV-Y(美国)
+
+◎IMDb评分　8.7/10 from 162 users
+
+◎IMDb链接　https://www.imdb.com/title/tt0630121/
+
+◎IMDb链接　https://www.imdb.com/title/tt0184135/
+
+◎豆瓣评分　9.3/10 from 2,101 users
+
+◎豆瓣链接　https://movie.douban.com/subject/11620524/
+
+◎季　　数　2 (共4季22集)
+
+◎集　　数　6
+
+◎单集片长　30分钟
+
+◎标　　签　英剧 | 黑色幽默 | BBC | 英国 | 喜剧 | ReeceShearsmith | 里斯·谢尔史密斯 | 史蒂夫·佩…]]></summary>
+        <author>
+            <name>anonymous@pt.eastgame.org (anonymous)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The League of Gentlemen S01 1999 D9 MiniSD-TLF[绅士联盟 第一季 全6集 BBC][1.56 GB]]]></title>
+        <id>376c21e34db43a8baf7e34289b3a5409eb049211</id>
+        <link href="https://pt.eastgame.org/details.php?id=44236"/>
+        <updated>2021-05-17T23:17:16.000Z</updated>
+        <summary type="html"><![CDATA[引用 
+转自TLF论坛，感谢制作者和发布员。
+
+
+
+
+
+◎译　　名　绅士联盟 第一季/绅士联盟
+
+◎片　　名　The League of Gentlemen
+
+◎年　　代　1999
+
+◎产　　地　英国
+
+◎类　　型　电视剧
+
+◎类　　别　剧情 / 喜剧 / 恐怖
+
+◎语　　言　英语
+
+◎上映日期　1999-01-11(英国)
+
+◎官方主页　https://www.bbc.co.uk/comedy/leagueofgentlemen/
+
+◎MPAA评级　TV-MA(美国)
+
+◎IMDb评分　8.4/10 from 9,487 users
+
+◎IMDb链接　https://www.imdb.com/title/tt0184135/
+
+◎豆瓣评分　9.0/10 from 3,871 users
+
+◎豆瓣链接　https://movie.douban.com/subject/1756243/
+
+◎季　　数　1 (共4季22集)
+
+◎集　　数　6
+
+◎单集片长　30分钟
+
+◎标　　签　英剧 | 黑色幽默 | BBC | 英国 | 喜剧 | ReeceShearsmith | 看…]]></summary>
+        <author>
+            <name>anonymous@pt.eastgame.org (anonymous)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小米 MIX FOLD 体验：折叠屏、澎湃 C1、液态镜头，够 MIX 么？]]></title>
+        <id>https://www.ifanr.com/?p=1417064&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1417064?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-05-17T10:18:38.000Z</updated>
+        <summary type="html"><![CDATA[有点初代 MIX 内味了。
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>杜沅傧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Pixel 6 渲染图曝光，这次要「从外到芯」焕然一新？]]></title>
+        <id>https://www.ifanr.com/?p=1417142&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1417142?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-05-17T07:10:06.000Z</updated>
+        <summary type="html"><![CDATA[如果渲染图属实，那么 Pixel 系列将迎来最近几代中难得的外形大动刀。
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>金 金</name>
         </author>
     </entry>
     <entry>
@@ -309,6 +1250,71 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
 Chore: Reorganize to monorepo with npm workspace.]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[奇葩大楼，是科技公司们正在比拼的新「硬件」]]></title>
+        <id>https://www.ifanr.com/?p=1416918&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1416918?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-05-17T01:04:25.000Z</updated>
+        <summary type="html"><![CDATA[为什么大公司都痴迷「奇葩」大楼
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>黄智健</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPad mini 已经成了「最尴尬」的 iPad]]></title>
+        <id>https://www.ifanr.com/?p=1416728&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1416728?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-05-17T01:03:07.000Z</updated>
+        <summary type="html"><![CDATA[iPad Pro 有多光鲜，iPad mini 就有多尴尬。
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>周宇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[早报 | 顾客提前收到新 iPad Pro / 特斯拉否认提车需要考试 / OPPO 回应充电器被检出不合格]]></title>
+        <id>https://www.ifanr.com/?p=1417078&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1417078?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-05-17T00:39:43.000Z</updated>
+        <summary type="html"><![CDATA[‍• AirTag 发货时间延长至 4-5 周
+• 特步发布新厂牌 XDNA
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>方嘉文</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比尔·盖茨想阻止一场比新冠更可怕的灾难，这比再创立一家微软难百倍]]></title>
+        <id>https://www.ifanr.com/?p=1416738&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1416738?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-05-17T00:18:50.000Z</updated>
+        <summary type="html"><![CDATA[比尔盖茨：气候变化比新冠肺炎更可怕
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>李超凡</name>
         </author>
     </entry>
     <entry>
@@ -334,115 +1340,25 @@ Thank you @tianheg, @onnyyonn]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Auto-Generated Social Media Images]]></title>
-        <id>https://css-tricks.com/?p=340136</id>
-        <link href="https://css-tricks.com/auto-generated-social-media-images/"/>
-        <updated>2021-05-14T20:34:49.000Z</updated>
-        <summary type="html"><![CDATA[I’ve been thinking about social media images again. You know, the images that (can) show up when you share a link in places like Twitter, Facebook, or iMessage. You’re essentially leaving money on the table without them, because they …
-The post Auto-Generated Social Media Images appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[科技爱好者周刊（第 158 期）：内容渠道的贬值]]></title>
+        <id>http://www.ruanyifeng.com/blog/2021/05/weekly-issue-158.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2021/05/weekly-issue-158.html"/>
+        <updated>2021-05-14T00:17:14.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。
+周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。
+封面图
+
+首届中国国际消费品博览会在海口市开幕，开幕式有1000架无人机表演了不同的造型，照亮了夜空。（via）
+本周话题：内容渠道的贬值
+上周，美国的 Verizon 公司宣布，将以前收购的两个网站---- AOL 和 Yahoo ----一起打包卖掉，一共50亿美元。
+
+这是怎么回事呢？Verizon 是美国第二大通信商，运营 4G 和 5G 网络。几年前，它突然心血来潮，决定进军内容行业，不仅提供通信服务，还要提供内容。
+美国三大新闻门户网站，它一口气收购了第一名的 Yahoo（2017年45亿美元） 和第三名的 AOL（2015年44亿美元），另一家 MSN 属于微软，它动不了。
+
+买来以后，Verizon 就发现了真相，内容行业根本不行，非常难做，那些门户网站疲软不堪，业务毫无起色。去年又赶上了疫情，于是不想再撑了，决定认赔出局，抛售旗下的媒体资产，集中精力做无线通信。…]]></summary>
         <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating Stylesheet Feature Flags With Sass !default]]></title>
-        <id>https://css-tricks.com/?p=340343</id>
-        <link href="https://css-tricks.com/creating-stylesheet-feature-flags-with-sass-default/"/>
-        <updated>2021-05-14T14:14:34.000Z</updated>
-        <summary type="html"><![CDATA[!default is a Sass flag that indicates conditional assignment to a variable — it assigns a value only if the variable was previously undefined or null. Consider this code snippet:
-$variable: 'test' !default;
-To the Sass compiler, this line …
-The post Creating Stylesheet Feature Flags With Sass !default appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Nathan Babcock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML Boilerplates]]></title>
-        <id>https://css-tricks.com/?p=340403</id>
-        <link href="https://css-tricks.com/html-boilerplates/"/>
-        <updated>2021-05-14T14:13:07.000Z</updated>
-        <summary type="html"><![CDATA[Manuel Matuzović goes line-by-line through a boilerplate HTML document. I like it. It’s a good reference and has a lot of the same type of stuff I tend to put in the main HTML template. It makes me think about …
-The post HTML Boilerplates appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tree-Shaking: A Reference Guide]]></title>
-        <id>https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/</id>
-        <link href="https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/"/>
-        <updated>2021-05-14T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Átila Fassina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevTools for CSS layouts 2021 edition]]></title>
-        <id>https://css-tricks.com/?p=340490</id>
-        <link href="https://chenhuijing.com/blog/devtools-for-css-layouts-2021-edition/#%F0%9F%9A%B2"/>
-        <updated>2021-05-13T23:22:45.000Z</updated>
-        <summary type="html"><![CDATA[Chen Hui Jing covers some recent movement in DevTools:
-Firefox’s grid inspector was pretty full-featured from the get-to and released together with CSS grid in Firefox 52. It was constantly improved upon since. Chrome added a basic grid inspector 
-…
-The post DevTools for CSS layouts 2021 edition appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frustrating Design Patterns That Need Fixing: Birthday Picker]]></title>
-        <id>https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/</id>
-        <link href="https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/"/>
-        <updated>2021-05-12T12:42:00.000Z</updated>
-        <summary type="html"><![CDATA[In this new series of articles on UX, we take a closer look at some frustrating design patterns and explore better alternatives, along with plenty of examples to keep in mind when building or designing one. Let’s start with an infamous birthday picker.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Little Smashing Stories]]></title>
-        <id>https://smashingmagazine.com/2021/05/little-smashing-stories/</id>
-        <link href="https://smashingmagazine.com/2021/05/little-smashing-stories/"/>
-        <updated>2021-05-12T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today marks the day we sent out our 300th edition of the Smashing Newsletter. This article is a little celebration in which we share little Smashing stories from people working behind the scenes.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Primer On CSS Container Queries]]></title>
-        <id>https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/</id>
-        <link href="https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/"/>
-        <updated>2021-05-11T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A prototype of the long-awaited CSS container queries has landed in Chrome Canary and is available for experimentation. Let’s look at what problem is being solved, learn how container queries work, and see how they compare with and complement existing CSS features for layout.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Conference Platform We Use For Our Online Events: Hopin]]></title>
-        <id>https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/</id>
-        <link href="https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/"/>
-        <updated>2021-05-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[At the beginning of 2020, the SmashingConf team was ready for a new year. We had so many things that excited us. New speakers, new workshops, new cities, new attendees, new experiences. And as we all know, 2020 had other ideas. With so many people working from home, we thought we would bring our [Smashing workshops](https://smashingconf.com/online-workshops/) from our home offices to yours — but how?]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Amanda Annandale)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get Started With React By Building A Whac-A-Mole Game]]></title>
-        <id>https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/</id>
-        <link href="https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/"/>
-        <updated>2021-05-10T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
+            <name>阮一峰的网络日志</name>
         </author>
     </entry>
     <entry>
@@ -483,36 +1399,6 @@ Changed: Favicon, css, and js assets now existing at site root level.
 Chore: Excluded testing files from repo.]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Organize Product-Related Assets And Collaborate Better]]></title>
-        <id>https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/</id>
-        <link href="https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/"/>
-        <updated>2021-05-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Valeriia Panina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving The Performance Of Shopify Themes (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/</id>
-        <link href="https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/"/>
-        <updated>2021-05-06T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Carson Shold)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reducing HTML Payload With Next.js (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/</id>
-        <link href="https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/"/>
-        <updated>2021-05-05T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Liran Cohen)</name>
         </author>
     </entry>
     <entry>
@@ -559,116 +1445,6 @@ Chore: Refactored parameter passing for enrich step.]]></summary>
         <summary type="html"><![CDATA[Added: Display CLI version in footer.]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Guide To Undoing Mistakes With Git]]></title>
-        <id>https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/</id>
-        <link href="https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/"/>
-        <updated>2021-05-04T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Tobias Günther)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 36 With Miriam Suzanne: What Is The Future Of CSS?]]></title>
-        <id>https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/</id>
-        <link href="https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/"/>
-        <updated>2021-05-04T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we’re starting our new season of the Smashing Podcast with a look at the future of CSS. What new specs will be landing in browsers soon? Drew McLellan talks to expert Miriam Suzanne to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Evolution Of Jamstack]]></title>
-        <id>https://smashingmagazine.com/2021/05/evolution-jamstack/</id>
-        <link href="https://smashingmagazine.com/2021/05/evolution-jamstack/"/>
-        <updated>2021-05-03T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Mathias Biilmann)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[May Is In The Air (2021 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/</id>
-        <link href="https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/"/>
-        <updated>2021-04-30T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new collection of wallpapers is for you. Designed with love by the community for the community, the wallpapers are available with and without a calendar for May 2021.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Humble `<img>` Element And Core Web Vitals]]></title>
-        <id>https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/</id>
-        <link href="https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/"/>
-        <updated>2021-04-29T12:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Images have also been a key part of the web. They communicate ideas instantly, but they are also a lot heavier than text to load. This means that it’s essential to get loading and displaying them right, if you want to give your users a fantastic first impression. An excerpt from [Addy's new book](https://www.smashingmagazine.com/2021/04/image-optimization-pre-release/) (also, check a [free PDF preview](http://provide.smashingmagazine.com/eBooks/image-optimization-sample-chapter.pdf)).]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Addy Osmani)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet Image Optimization, A New Smashing Book By Addy Osmani]]></title>
-        <id>https://smashingmagazine.com/2021/04/image-optimization-pre-release/</id>
-        <link href="https://smashingmagazine.com/2021/04/image-optimization-pre-release/"/>
-        <updated>2021-04-28T13:20:00.000Z</updated>
-        <summary type="html"><![CDATA[The cat is out! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our practical modern guide to delivering high-quality images on the web with the best performance.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Easing Functions For CSS Animations And Transitions]]></title>
-        <id>https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/</id>
-        <link href="https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/"/>
-        <updated>2021-04-27T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Easing functions can change the look and feel of an animation by affecting the rate, or speed, of an animation. In this article, we’re going to take a deep dive into easing functions and see how we can use them to create those natural and stunning animations.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Bake Layers Of Accessibility Testing Into Your Process]]></title>
-        <id>https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/</id>
-        <link href="https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/"/>
-        <updated>2021-04-26T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Accessibility experts Kate Kalcevich and Mike Gifford introduce readers to "layered accessibility testing”, a practice of using a variety of tools and approaches at different stages in the digital product lifecycle to catch accessibility issues early — when it’s easier and cheaper to fix them.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Kate Kalcevich &amp; Mike Gifford)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Guide To Newly Supported, Modern CSS Pseudo-Class Selectors]]></title>
-        <id>https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/</id>
-        <link href="https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/"/>
-        <updated>2021-04-23T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The CSS Working Group Editor’s Draft for [Selectors Level 4](https://drafts.csswg.org/selectors-4/) includes several pseudo-class selectors that already have proposal candidates in most modern browsers. This guide will cover ones that currently have the best support along with examples to demonstrate how you can start using them today!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Design Done Well: The Ordinary Made Extraordinary (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2021/04/web-design-done-well-part1/</id>
-        <link href="https://smashingmagazine.com/2021/04/web-design-done-well-part1/"/>
-        <updated>2021-04-22T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes it’s the little things in web life that make us look twice. From carousels to documentation to cookie disclaimers, here are some sites taking the mundane and sprinkling in a little magic.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Complete Guide To Incremental Static Regeneration (ISR) With Next.js]]></title>
-        <id>https://smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/</id>
-        <link href="https://smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/"/>
-        <updated>2021-04-21T13:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Incremental Static Regeneration (ISR) is a new evolution of the Jamstack, allowing you to update static content instantly without needing a full rebuild of your site. The hybrid approach of Next.js allows you to use ISR for e-commerce, marketing pages, blog posts, ad-backed media, and more.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Lee Robinson)</name>
         </author>
     </entry>
 </feed>
