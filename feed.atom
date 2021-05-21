@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://menglingjie.github.io/REPO_NAME/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-21T09:28:08.361Z</updated>
+    <updated>2021-05-21T10:27:15.971Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://menglingjie.github.io/REPO_NAME/index.html"/>
     <link rel="self" href="https://menglingjie.github.io/REPO_NAME/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[联想最新的黑科技机器人，不用跳舞也让人高喊「Amazing」]]></title>
+        <id>https://www.ifanr.com/?p=1417843&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1417843?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-05-21T09:31:03.000Z</updated>
+        <summary type="html"><![CDATA[我们可能早已经离不开机器人了。
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>艾 梵</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Justice.League.Snyders.Cut.2021.BD.MiniSD-TLF[扎克.施奈德版.正义联盟[8.2][tt12361974]][2.37 GB]]]></title>
         <id>8a181b2f045425b5fd253a7c8cd998e9c1fc0f3c</id>
@@ -1281,22 +1297,6 @@ Mon1st，small.cat/cow
 新浪微博]]></summary>
         <author>
             <name>杜沅傧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Pixel 6 渲染图曝光，这次要「从外到芯」焕然一新？]]></title>
-        <id>https://www.ifanr.com/?p=1417142&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
-        <link href="https://www.ifanr.com/1417142?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
-        <updated>2021-05-17T07:10:06.000Z</updated>
-        <summary type="html"><![CDATA[如果渲染图属实，那么 Pixel 系列将迎来最近几代中难得的外形大动刀。
-#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博]]></summary>
-        <author>
-            <name>金 金</name>
         </author>
     </entry>
     <entry>
