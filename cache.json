@@ -103,12 +103,21 @@
       "siteUrl": "https://www.ifanr.com?utm_source=rss&utm_medium=rss&utm_campaign=",
       "articles": [
         {
+          "id": "https://www.ifanr.com/?p=1418286&utm_source=rss&utm_medium=rss&utm_campaign=",
+          "author": "李华",
+          "description": "Google Store终于要来了吗？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
+          "link": "https://www.ifanr.com/1418286?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedOn": "2021-05-21T10:48:41.000Z",
+          "wordCount": 262,
+          "title": "Google Store 的到来，是否能给线下零售带来新的思考"
+        },
+        {
           "id": "https://www.ifanr.com/?p=1417843&utm_source=rss&utm_medium=rss&utm_campaign=",
           "author": "艾 梵",
           "description": "我们可能早已经离不开机器人了。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
           "link": "https://www.ifanr.com/1417843?utm_source=rss&utm_medium=rss&utm_campaign=",
           "publishedOn": "2021-05-21T09:31:03.000Z",
-          "wordCount": 295,
+          "wordCount": 299,
           "title": "联想最新的黑科技机器人，不用跳舞也让人高喊「Amazing」"
         },
         {
@@ -117,7 +126,7 @@
           "description": "520 这天并非只能吃狗粮，打游戏也是不错的。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
           "link": "https://www.ifanr.com/1418221?utm_source=rss&utm_medium=rss&utm_campaign=",
           "publishedOn": "2021-05-21T08:01:34.000Z",
-          "wordCount": 272,
+          "wordCount": 271,
           "title": "网易游戏 520 发布会：除了做游戏，网易还干了什么？"
         },
         {
@@ -144,7 +153,7 @@
           "description": "美国人最钟爱的皮卡，会是它吗？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
           "link": "https://www.ifanr.com/1418172?utm_source=rss&utm_medium=rss&utm_campaign=",
           "publishedOn": "2021-05-21T05:06:02.000Z",
-          "wordCount": 337,
+          "wordCount": 336,
           "title": "皮卡爱好者的狂欢？福特推出电动版 F-150，数据惊人"
         },
         {
@@ -162,7 +171,7 @@
           "description": "承载一代人对于电脑的回忆的事物正在慢慢消失。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
           "link": "https://www.ifanr.com/1418037?utm_source=rss&utm_medium=rss&utm_campaign=",
           "publishedOn": "2021-05-20T08:54:35.000Z",
-          "wordCount": 361,
+          "wordCount": 362,
           "title": "微软宣布停止支持，除 Flash 外，「IE 浏览器」也将离我们远去"
         },
         {
@@ -272,15 +281,6 @@
           "publishedOn": "2021-05-18T00:58:21.000Z",
           "wordCount": 568,
           "title": "早报 | Apple Music 将支持无损音频 / 美的预告「新能源汽车新品」/「饿了么」被罚款"
-        },
-        {
-          "id": "https://www.ifanr.com/?p=1417064&utm_source=rss&utm_medium=rss&utm_campaign=",
-          "author": "杜沅傧",
-          "description": "有点初代 MIX 内味了。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
-          "link": "https://www.ifanr.com/1417064?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedOn": "2021-05-17T10:18:38.000Z",
-          "wordCount": 675,
-          "title": "小米 MIX FOLD 体验：折叠屏、澎湃 C1、液态镜头，够 MIX 么？"
         }
       ]
     },
@@ -295,7 +295,7 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n重庆市很多山地，地形复杂，产生了特有的奇观：被高架道路团团围住的楼盘。（via）\n本周话题：游戏开发者的年薪\n最近，推特上面有很多欧美的游戏开发者，晒自己的薪水，使用 #GameDevPaidMe 这个标签就能看到，从中可以了解国外程序员的收入。\n下面是一个美国开发者的发言。\n\n他有超过十年的开发经验，年薪是20多万美元。这还是在西雅图，如果在湾区，工资可能还会再高一些。这跟我听说的差不多，美国高级程序员的年薪，一般都会超过20万美元（约130万人民币）。\n我没想到的是，欧洲程序员的年薪，比美国少非常多。\n\n上面这个英国开发者，作为高级程序员，年薪居然才4万英镑（约36万人民币）。他入行时，更是少到1.5万英镑（约14万人民币）。欧洲其他国家的情况也差不多，年薪也就几万欧元，如果是东欧国家（比如波兰），薪水就更低了。\n这就是令我吃惊的地方， 西欧国家的人均 GDP 远高…",
           "link": "http://www.ruanyifeng.com/blog/2021/05/weekly-issue-159.html",
           "publishedOn": "2021-05-21T00:17:00.000Z",
-          "wordCount": 807,
+          "wordCount": 817,
           "title": "科技爱好者周刊（第 159 期）：游戏开发者的年薪"
         },
         {
