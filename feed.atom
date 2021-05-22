@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://menglingjie.github.io/REPO_NAME/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-22T14:21:37.980Z</updated>
+    <updated>2021-05-22T15:27:39.064Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://menglingjie.github.io/REPO_NAME/index.html"/>
     <link rel="self" href="https://menglingjie.github.io/REPO_NAME/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[5G、物联网、自动驾驶，这些领域都有这家公司的身影]]></title>
+        <id>https://www.ifanr.com/?p=1418327&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1418327?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-05-22T14:37:29.000Z</updated>
+        <summary type="html"><![CDATA[高通，与我们的生活息息相关。
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>王志劭</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[让 14 亿人吃饱饭的他，今天走了]]></title>
         <id>https://www.ifanr.com/?p=1418338&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
@@ -1162,23 +1178,6 @@ pdd 上 1 能提现，0.999.......8 你能提现吗？
 新浪微博]]></summary>
         <author>
             <name>换新言</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[早报 | 余承东任华为智能汽车业务 CEO / 爱奇艺回应「倒奶」事件 / 苹果扩大自动驾驶汽车车队]]></title>
-        <id>https://www.ifanr.com/?p=1417528&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
-        <link href="https://www.ifanr.com/1417528?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
-        <updated>2021-05-19T00:38:08.000Z</updated>
-        <summary type="html"><![CDATA[‍• 超过五千万人在去哪儿购买人生第 1 张机票
-• 钟薛高完成 2 亿元 A 轮融资
-#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博]]></summary>
-        <author>
-            <name>方嘉文</name>
         </author>
     </entry>
     <entry>
