@@ -103,12 +103,21 @@
       "siteUrl": "https://www.ifanr.com?utm_source=rss&utm_medium=rss&utm_campaign=",
       "articles": [
         {
+          "id": "https://www.ifanr.com/?p=1418338&utm_source=rss&utm_medium=rss&utm_campaign=",
+          "author": "周宇",
+          "description": "感谢您。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
+          "link": "https://www.ifanr.com/1418338?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedOn": "2021-05-22T09:26:13.000Z",
+          "wordCount": 254,
+          "title": "让 14 亿人吃饱饭的他，今天走了"
+        },
+        {
           "id": "https://www.ifanr.com/?p=1418292&utm_source=rss&utm_medium=rss&utm_campaign=",
           "author": "黄智健",
           "description": "相比无损音乐，杜比全景声才是苹果押注的「音乐未来」\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
           "link": "https://www.ifanr.com/1418292?utm_source=rss&utm_medium=rss&utm_campaign=",
           "publishedOn": "2021-05-21T13:03:00.000Z",
-          "wordCount": 484,
+          "wordCount": 489,
           "title": "AirPods 不支持无损音乐，但我还是建议你升级 Apple Music"
         },
         {
@@ -272,15 +281,6 @@
           "publishedOn": "2021-05-19T00:38:08.000Z",
           "wordCount": 531,
           "title": "早报 | 余承东任华为智能汽车业务 CEO / 爱奇艺回应「倒奶」事件 / 苹果扩大自动驾驶汽车车队"
-        },
-        {
-          "id": "https://www.ifanr.com/?p=1417372&utm_source=rss&utm_medium=rss&utm_campaign=",
-          "author": "冷思真",
-          "description": "原来，这就是它们不换纸吸管的原因。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
-          "link": "https://www.ifanr.com/1417372?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedOn": "2021-05-18T10:44:50.000Z",
-          "wordCount": 323,
-          "title": "吸管也「内卷」？竹子、大米、玻璃、咖啡渣、不锈钢、芹菜……它们也成吸管了"
         }
       ]
     },
@@ -313,7 +313,7 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n首届中国国际消费品博览会在海口市开幕，开幕式有1000架无人机表演了不同的造型，照亮了夜空。（via）\n本周话题：内容渠道的贬值\n上周，美国的 Verizon 公司宣布，将以前收购的两个网站---- AOL 和 Yahoo ----一起打包卖掉，一共50亿美元。\n\n这是怎么回事呢？Verizon 是美国第二大通信商，运营 4G 和 5G 网络。几年前，它突然心血来潮，决定进军内容行业，不仅提供通信服务，还要提供内容。\n美国三大新闻门户网站，它一口气收购了第一名的 Yahoo（2017年45亿美元） 和第三名的 AOL（2015年44亿美元），另一家 MSN 属于微软，它动不了。\n\n买来以后，Verizon 就发现了真相，内容行业根本不行，非常难做，那些门户网站疲软不堪，业务毫无起色。去年又赶上了疫情，于是不想再撑了，决定认赔出局，抛售旗下的媒体资产，集中精力做无线通信。…",
           "link": "http://www.ruanyifeng.com/blog/2021/05/weekly-issue-158.html",
           "publishedOn": "2021-05-14T00:17:14.000Z",
-          "wordCount": 892,
+          "wordCount": 912,
           "title": "科技爱好者周刊（第 158 期）：内容渠道的贬值"
         }
       ]
