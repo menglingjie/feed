@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://menglingjie.github.io/REPO_NAME/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-24T08:29:33.475Z</updated>
+    <updated>2021-05-24T09:29:17.599Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://menglingjie.github.io/REPO_NAME/index.html"/>
     <link rel="self" href="https://menglingjie.github.io/REPO_NAME/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[vivo 金耳朵团队专访：为了实现 TWS 2 上的好音质，他们都做了什么？]]></title>
+        <id>https://www.ifanr.com/?p=1418488&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1418488?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-05-24T09:14:07.000Z</updated>
+        <summary type="html"><![CDATA[TWS 2 背后的故事。
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>江翁翁</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 13 可能新增粉红配色，你心动了吗？]]></title>
+        <id>https://www.ifanr.com/?p=1418682&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1418682?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-05-24T08:54:30.000Z</updated>
+        <summary type="html"><![CDATA[当苹果也有了少女心……
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>李华</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iRobot 新款扫地机器人体验：当 3999 元也有了万元旗舰的技术]]></title>
+        <id>https://www.ifanr.com/?p=1418442&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1418442?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-05-24T08:45:08.000Z</updated>
+        <summary type="html"><![CDATA[垃圾少倒一点，双手解放多一点
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>吴志奇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[微软眼中的未来会议室：数字与物理世界的新桥梁]]></title>
         <id>https://www.ifanr.com/?p=1418639&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
@@ -1500,22 +1548,6 @@ SHA1：D23346C36626FEB0E0254E57987ADF254EF0DABE]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Android 12 Beta 1 抢先体验：冲不冲新系统，看这篇就够了]]></title>
-        <id>https://www.ifanr.com/?p=1417840&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
-        <link href="https://www.ifanr.com/1417840?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
-        <updated>2021-05-20T06:43:20.000Z</updated>
-        <summary type="html"><![CDATA[全新「为你」UI，过渡滚动特效，还有灵动的新时钟。
-#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博]]></summary>
-        <author>
-            <name>杜沅傧</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Zack Snyders Justice League 2021 BD HEVC 10bit MiniFHD-TLF[扎克·施奈德版正义联盟 / 欧版原盘压制 / [豆瓣8.3]][13.71 GB]]]></title>
         <id>0e01c6947c555e6ed8d3507770c811a2675f7d77</id>
         <link href="https://pt.eastgame.org/details.php?id=44288"/>
@@ -1570,39 +1602,6 @@ SHA1：D23346C36626FEB0E0254E57987ADF254EF0DABE]]></summary>
 　　　　  　雷·费舍尔…]]></summary>
         <author>
             <name>zuimeng1997@pt.eastgame.org (zuimeng1997)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[早报 | 新 MacBook Pro 或今夏发布 / 拼多多百亿补贴开始抽佣 / 华莱士获评外卖品牌第一]]></title>
-        <id>https://www.ifanr.com/?p=1417803&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
-        <link href="https://www.ifanr.com/1417803?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
-        <updated>2021-05-20T00:40:50.000Z</updated>
-        <summary type="html"><![CDATA[‍• 取代亚马逊，Shein 成为美国安装最多的购物应用
-• OPPO Reno6 发布时间公布
-#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博]]></summary>
-        <author>
-            <name>方嘉文</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[首发 | 新 iPad Pro 体验：当平板换上一颗电脑芯，它会是一台新电脑吗？]]></title>
-        <id>https://www.ifanr.com/?p=1417588&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
-        <link href="https://www.ifanr.com/1417588?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
-        <updated>2021-05-19T13:34:40.000Z</updated>
-        <summary type="html"><![CDATA[iPad Pro 换上电脑芯片M1 并不仅仅是一次惯例的性能升级，它的真实目的，是为了改变 iPad 的软件生态。
-#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博]]></summary>
-        <author>
-            <name>何宗丞</name>
         </author>
     </entry>
     <entry>
