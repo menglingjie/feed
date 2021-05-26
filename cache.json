@@ -103,12 +103,21 @@
       "siteUrl": "https://www.ifanr.com?utm_source=rss&utm_medium=rss&utm_campaign=",
       "articles": [
         {
+          "id": "https://www.ifanr.com/?p=1419230&utm_source=rss&utm_medium=rss&utm_campaign=",
+          "author": "李华",
+          "description": "假如我们的电动汽车可以边跑边充电……\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
+          "link": "https://www.ifanr.com/1419230?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedOn": "2021-05-26T08:51:30.000Z",
+          "wordCount": 270,
+          "title": "有关电动汽车充电慢的问题，这家公司有了一个新方案"
+        },
+        {
           "id": "https://www.ifanr.com/?p=1419026&utm_source=rss&utm_medium=rss&utm_campaign=",
           "author": "方嘉文",
           "description": "‍• Anker 发布氮化镓第二代「超能充」充电器\r\n• 家乐福中国要做会员店\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
           "link": "https://www.ifanr.com/1419026?utm_source=rss&utm_medium=rss&utm_campaign=",
           "publishedOn": "2021-05-26T00:50:51.000Z",
-          "wordCount": 553,
+          "wordCount": 556,
           "title": "早报 | iPod touch 或将回归 / 特斯拉在中国建立数据中心 / Google 正式推出 Fuchsia OS"
         },
         {
@@ -189,7 +198,7 @@
           "description": "虽然兰博基尼不再坚持，但它依旧是一家有追求的厂商。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
           "link": "https://www.ifanr.com/1418725?utm_source=rss&utm_medium=rss&utm_campaign=",
           "publishedOn": "2021-05-24T10:13:20.000Z",
-          "wordCount": 266,
+          "wordCount": 263,
           "title": "兰博基尼的妥协：将推出首款全电动车型，推进电气化"
         },
         {
@@ -272,15 +281,6 @@
           "publishedOn": "2021-05-23T10:30:18.000Z",
           "wordCount": 248,
           "title": "听说，这里有好声音？| 糖会沙龙"
-        },
-        {
-          "id": "https://www.ifanr.com/?p=1418327&utm_source=rss&utm_medium=rss&utm_campaign=",
-          "author": "王志劭",
-          "description": "高通，与我们的生活息息相关。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
-          "link": "https://www.ifanr.com/1418327?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedOn": "2021-05-22T14:37:29.000Z",
-          "wordCount": 339,
-          "title": "5G、物联网、自动驾驶，这些领域都有这家公司的身影"
         }
       ]
     },
@@ -295,7 +295,7 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
           "link": "http://www.ruanyifeng.com/blog/2021/05/weekly-issue-159.html",
           "publishedOn": "2021-05-21T00:17:00.000Z",
-          "wordCount": 942,
+          "wordCount": 956,
           "title": "科技爱好者周刊（第 159 期）：游戏开发者的年薪"
         },
         {
