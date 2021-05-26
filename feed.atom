@@ -2,10 +2,334 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://menglingjie.github.io/REPO_NAME/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-25T20:29:00.986Z</updated>
-    <generator>osmosfeed 1.8.1</generator>
+    <updated>2021-05-26T07:50:36.081Z</updated>
+    <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://menglingjie.github.io/REPO_NAME/index.html"/>
     <link rel="self" href="https://menglingjie.github.io/REPO_NAME/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Libeled.Lady.1936.BD.MiniSD-TLF[假戏真做[豆瓣7.6][1298982]][1.01 GB]]]></title>
+        <id>3541de3f6f4c7684daa3b16551a2dbbffef7c8af</id>
+        <link href="https://pt.eastgame.org/details.php?id=44403"/>
+        <updated>2021-05-26T06:53:18.000Z</updated>
+        <summary type="html"><![CDATA[◎制　　作　郸行客 @ TLF HALFCD TeaM
+
+
+
+◎译　　名　假戏真做
+
+◎片　　名　
+
+◎又　　名　
+
+◎年　　代　1936年
+
+◎国家/地区 美国
+
+◎类　　别  喜剧 / 爱情
+
+◎语　　言  英语
+
+◎上映日期  1936-10-09
+
+◎豆瓣评分　7.6/10 (450 users)
+
+◎豆瓣链接  https://movie.douban.com/subject/1298982/
+
+◎片　　长　98 分钟
+
+◎导　　演　杰克·康威 Jack Conway
+
+◎编　　剧　莫里纳·达拉斯·沃特金斯 Maurine Dallas Watkins
+
+　　　　　　Wallace Sullivan
+
+　　　　　　乔治·奥本海默 George Oppenheimer
+
+　　　　　　霍华德·埃米特·罗杰斯 Howard Emmett Rogers
+
+◎主　　演　珍·哈露 Jean Harlow
+
+　　　　　　威廉·鲍威尔 William Powell
+
+　　　　　　玛娜·洛伊 Myrna Loy
+
+　　　　　　斯宾塞·屈塞 Spencer Tracy
+
+　　　　　　William Newell
+
+　　　　　　Barnett Parker
+
+　　　　　　Inez Palange
+
+　　　　　　Buster Phelps
+
+　　　　　　杰克·茂豪尔 Jack Mulhall
+
+　　　　　　Thomas Pogue
+
+　　　　　　Franklin Parker
+
+　　　　　　Greta Meyer
+
+　　　　　　Wally Maher
+
+　　　　　　Alphonse Martell
+
+　　　　　　Myra Marsh
+
+　　　　　　Tom Mahoney
+
+　　　　　　Eddie Shubert
+
+　　…]]></summary>
+        <author>
+            <name>anonymous@pt.eastgame.org (anonymous)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.9.0]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.9.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.9.0"/>
+        <updated>2021-05-26T06:02:55.000Z</updated>
+        <summary type="html"><![CDATA[Added: experimental support for iTunes podcast feed: Demo | Source. With this new release, you can render an audio control to play the mp3 file and display iTunes episode duration. It is "experimental" due to these caveats:
+
+This feature is currently only available through custom template.
+iTunes has no strict format requirement for duration. The unit is most likely seconds but can be "hh:mm:ss" or "mm:ss" for some sources. A future version may expose a human readable string to the template.
+No image support yet. Some shows might have disabled CORS or use a relative URL for image, which forces osmosfeed to download the image during build. A future version may support it.
+You can't republish the podcast in the feed output. Supporting this goes beyond the scope of the project at the moment.
+Fixed: the articles in template data were not sorted.
+Thank you @Zenigata]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[早报 | iPod touch 或将回归 / 特斯拉在中国建立数据中心 / Google 正式推出 Fuchsia OS]]></title>
+        <id>https://www.ifanr.com/?p=1419026&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1419026?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-05-26T00:50:51.000Z</updated>
+        <summary type="html"><![CDATA[‍• Anker 发布氮化镓第二代「超能充」充电器
+• 家乐福中国要做会员店
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>方嘉文</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么冬泳不会失温，甘肃马拉松会因为失温出这么大的问题？]]></title>
+        <id>https://daily.zhihu.com/story/9736363</id>
+        <link href="https://daily.zhihu.com/story/9736363"/>
+        <updated>2021-05-25T23:08:38.000Z</updated>
+        <summary type="html"><![CDATA[知乎用户，回答是我自己删的，我知道什么不能说。
+阅读原文
+
+冬泳这个叫做 1-10-1 规则，在五大湖边玩船或者钓鱼的筒子们可能会去上这个课。北方水冷年年都有冻死的，
+简而言之冰水中的大致规则是：
+1 指失足落入冰水大概 1 分钟后有冷休克，人会反射性的抽气。 如果抽气时头部在水下就呛死了当场 gg。 冬泳高手经过锻炼可以控制自己的呼吸，就可以撑过这一关，自己爬上来或者捞上来控干净水做 CPR 就好了。主要是不能慌乱。
+10 指落水者有最多 10 分钟的时间游泳自救，超过这个时间肢体麻痹淹死，gg，有救生衣可以撑过这个阶段，捞上来还能活。这个时间也看个人体质，脂肪含量以及衣物。 哪怕在水里衣物还是有一定的保暖效果，主要体现在隔绝水对人体的冲刷带走热量。当然这个也看情况，有的人两三分钟就不行了，有的人可以游几十米，看体质。同样的冬泳选手扑腾两下赶紧上岸，披个毛巾烤烤火，核心温度还是健康的。
+1 指 1 小时内人失温死亡。这个阶段进入深度失温，捞上来也不见得能活。
+所以一件救生衣是玩船玩水必备的，实际上天气寒冷在岸边钓鱼也应该穿，以防失足落水。救生衣可以保证人的头部时刻露出水面，在冰水中的存活时间从几分钟上升到半小时以上。
+涉水过河是非常危险的行为，小腿深的水即可把人冲倒，然后参考 1， gg。 何况因为折射缘故，你看起来认为是小腿深，实际上是齐膝深。
+如果落水无法自救，可以采用最右姿势减少热量流失。
+
+失温不是一瞬间的事情，人肉特别是肥肉是热的不良导体，不会一瞬间就冰阔落透心凉。
+如果长久得不到救援人就会死，而如果有救援，哪怕是有物体遮蔽风 / 水流，就可以极大延长生存时间。
+比方说落水后的经典自救姿势
+同样的水温（10 摄氏度）下，有救生衣时，采用"help"姿势遮挡住胸口水流减缓热量流失，这么简单的一个动作，生存时间是游泳的一倍。
+
+
+
+阅读原文]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么港漫和网络小说的反派会发出「桀桀桀」的笑声？]]></title>
+        <id>https://daily.zhihu.com/story/9736370</id>
+        <link href="https://daily.zhihu.com/story/9736370"/>
+        <updated>2021-05-25T23:08:30.000Z</updated>
+        <summary type="html"><![CDATA[匿名用户
+阅读原文
+
+这是粤语中的发音
+大约类似于“gei、gei、gei”或者“ki、ki、ki”的读音
+其实这个发音在粤语中也没有确切的对应汉字，更别说普通话了
+至于为什么网络小说很多用“桀桀”的笑声，是因为在初期，绝大部分网络小说作者的启蒙作都是金古武侠小说或是早期港漫
+除了“桀桀”之外，还有很多常见词比如“轰杀”、“镇压”、“废材 / 废柴”、“定要”、“那便 XX”的口癖
+还有设定中的“残像”（其实火影忍者中的“替身术”灵感也大概来源于此）、还有把力量分成很多种类的（你的 XX 力量虽然比我强，但我的 OO 力量却要更强大！），也都是从港漫中衍生来的
+甚至辐射到了很多日漫中
+甚至“逆天”这个词都是，初期网络小说逆天代表了勇气，现在一般代表的是中二
+在中国古代，逆天是作死的代名词
+顺天者昌，逆天者亡
+逆天而行，乃自取败亡也
+早期港漫中对这种怪笑的标注是“口桀”，基本上是反派的标配笑声
+
+而这个字在内地，不论是网络还是出版都打不出来，所以就用“桀”来代替了
+包括金庸古龙，都写过反派“桀桀桀”地笑
+比如《白马啸西风》中，
+那鬼怪桀桀怪笑，尖声道：“我在迷宫里已住了一千年，不许谁来打扰，谁叫你们这样大胆？”
+只听得前面传来一阵桀桀怪笑，那声音道：“我在这里已住了一千年，住了一千年。进来的一个个都死。”
+人大吃一惊，苏鲁克和车尔库抛去手中火把，抢上扶起。只听得前面传来一阵桀桀怪笑
+在比如在古龙的《游侠录》
+突然，他卧倒的身躯被人翻了个身，睁开眼睛，一只枯瘦的手在他脸前一晃，一人“桀桀”的发着极为刺耳的笑声。
+他方透出一口气，那人“桀桀”的笑声又起，“嘶”的，他那已经湿透了的长衫竟被撕了开来。
+他又闭上眼，那怪人“桀桀”地笑着，竟说出话来：“不要害怕，我不会弄死你的。”
+还有《铁剑红颜》
+邓初桀桀一笑：“你要见他们，那容易得很！在死城门，早已为你而打开！”
+《湘妃剑》中
+灵蛇毛臬得意地桀桀怪笑着
+古龙担心有人听不懂，还特意标注，这“桀桀”的笑声
+无比难听的笑声，刺得他耳膜隐隐发痛
+网络小说也不是斗破最开始使用的，毕竟斗破在网络小说的历史中已经是很晚的作品了
+不得不说，这个“桀桀”的拟声词确实很直观，角色桀桀一笑，很明确就能感受到
+这玩意不是什么好人
+阅读原文]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[好莱坞电影为何很少来中国取景？]]></title>
+        <id>https://daily.zhihu.com/story/9736355</id>
+        <link href="https://daily.zhihu.com/story/9736355"/>
+        <updated>2021-05-25T23:08:20.000Z</updated>
+        <summary type="html"><![CDATA[AlexHam
+阅读原文
+
+借用知乎的一句老话，先问是不是，再问为什么。
+最近几年，不像布达佩斯、布拉格、温哥华和新西兰，由于中国缺乏可供外国人使用的顶级摄影棚，并减少了对国外片方的优惠政策，来华取景的好莱坞电影变少，但历史上在中国取景的好莱坞电影并不算少。
+谈《黑暗骑士》、《古墓丽影 2》、《超级战舰》、《天幕杀机》、《环太平洋》、《变形金刚 4》、《惊天魔盗团 2》、还有最近那个《哥斯拉大战金刚》这种好莱坞大厂在港澳取景的 A 类制作都算欺负人，就单看在大陆取景的好莱坞电影：
+《末代皇帝》The Last Emperor
+取景都取进紫禁城了
+意大利导演、英国制片人、华人演员、日本配乐合作拿下九项奥斯卡奖的好莱坞缝合怪，在北京一环内取的景。
+《太阳帝国》Empire of the Sun
+取景都取到外滩了
+斯皮尔伯格在上海拍反战片，当时的克里斯蒂安·贝尔嫩得都能掐出水，演技却和马景涛是一派。
+《卧虎藏龙》
+取景在浙江竹海的打斗场面至今没有对手
+血统极其不纯正的好莱坞电影，导演、编剧、演员、美术、配乐全华裔班底，索尼影业出品并负责全球发行。奥斯卡最佳外语片，武侠电影的巅峰。
+《星球大战前传 3：西斯的复仇》Star Wars III: Revenge of the Sith
+被魔改的桂林山水
+电影中伍基人的老家卡希克取材自广西桂林和泰国普吉岛。这不是桂林唯一一次出现在好莱坞电影中。
+《杀死比尔》Kill Bill
+两个人拿着武士刀在北影棚里对砍
+昆汀·塔伦蒂诺这种热衷于做戏做全套的土豪在拍摄带有浓厚东方色彩的《杀死比尔》的时候，不远万里把剧组拉到了北京......的摄影棚里。
+《面纱》The Painted Veil
+喀斯特地貌，对，没错，在桂林
+别急着看爱德华·诺顿和娜奥米·沃茨，先看看他们身后的山水。这部充满种族偏见的爱情片的故事发生地是中国乡村，取景在广西桂林。
+《变形金刚 2》Transformers 2
+迈克尔·贝镜头里粗糙的上海夜景
+迈克尔·贝把他臭名昭著的爆炸终于带到了中国，陆家嘴的几幢楼也从那个时候起，开始了作为上海背景板的职业生涯。
+《碟中谍 3》Mission: Impossible III
+和上面一样，艾布拉姆斯也把上海当作工具城
+除了在上海取景，剧组在浙江也进行了拍摄。电影最后，阿汤哥在西塘的街道上弄死了菲利普·霍夫曼饰演的大反派。话说，印度人应该很喜欢这部电影，在 J.J.艾布拉姆斯的不懈努力下，上海被他拍成东方小孟买。
+《2012》2012
+《2012》在国内的最终海报，洪水滔天的青藏高原
+众所周知，罗兰·艾默里奇是全世界最喜欢炸白宫的灾难片大师。他在《2012》里发水把世界屋脊给淹了的同时，也没忘了给西藏人民和喜马拉雅山一些镜头。
+《阿凡达》Avatar
+被魔改的张家界南天一柱
+从你进入张家界国家森林公园开始，导游就会告诉你《阿凡达》是在那儿拍的。其实作为中国地理领域的糊涂蛋，詹姆斯·卡梅隆当年根本没记住自己的取材是在张家界还是在黄山风景区。但最终剧组证实，哈利路亚山的原型是张家界的乾坤柱。
+《环形使者》Looper
+这次不是上海夜景了，但依然不怎么样
+好莱坞 B 级制作科幻电影，在最后的美国乡村刻画以前，整部电影的画面都灰蒙蒙的，完全不具备什么镜头美感。
+《007 大破天幕杀机》Skyfall
+
+上面几位土鸡瓦狗学好了，萨姆·门德斯告诉你该怎么拍上海。多角度航拍夜景搭配超宽画幅，只需要五个镜头就能对远东大都会进行精准把控。当然，门德斯老大爷接下来在澳门、军舰岛和苏格兰的镜头都把握得极为出色，外加出彩的剧本和角色，直接让 Skyfall 坐上 007 系列的神坛。
+《她》Her
+没认错的话，剧照里是陆家嘴明珠环岛
+虽然是挂洛杉矶的羊头卖上海的狗肉，但斯派克·琼斯对上海的拍摄还是很让人满意的。虽然当年上海中心还没建成，但陆家嘴已经在给好莱坞提供未来城市模版。
+《变形金刚 4》Transformers: Age of Extinction
+擎天柱在重庆武隆收拾大恐龙
+擎天柱的几个队友在香港和敌人拼杀时，他还在重庆的大山里和大恐龙们斗智斗勇，然后没过多久，霸王龙就驮着擎天柱跑到了香港中环。继轰炸上海以后，迈克尔·贝又把中国折叠了。
+《环太平洋：雷霆再起》Pacific Rim: Uprising
+只能说，白瞎了青岛的影棚。好莱坞的《上海堡垒》，不想放图也不想评价了。
+......
+所以，朋友，并不是好莱坞电影很少来中国取景，而是电影在中国取景你没注意，或者纯粹是看的电影太少。
+阅读原文]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[青岛博物馆有哪些称得上「国宝」的文物？]]></title>
+        <id>https://daily.zhihu.com/story/9736359</id>
+        <link href="https://daily.zhihu.com/story/9736359"/>
+        <updated>2021-05-25T23:08:14.000Z</updated>
+        <summary type="html"><![CDATA[青岛市博物馆
+阅读原文
+
+商代黄玉璇玑
+
+商代黄玉璇玑，直径 16.4 厘米、内径 6.5 厘米、厚 1 厘米。为 2011 年 8 月 16 日由青岛市文物商店拨交，入藏青岛市博物馆，曾现身于 2012 年 7 月 6 日 央视《国宝档案》中。由和田黄玉制作，取材硕大，质地细腻富有光泽，为国内目前所见玉璇玑中最大尺寸，其工艺的复杂程度在所发现的玉璇玑中是独一无二的。
+整体近似长方形，呈片状，其中一角残缺。璇玑中部为一圆形孔，圆外透雕四只凤鸟出脊，内透雕四只鸠鸟。璇面用阴线勾勒出凤鸟和鸠鸟的轮廓。四只凤眼睛用打洼的方法制成圆眼，凤鸟与鸠鸟嘴均呈勾形，阴刻线条转折方正，镂空处先用管钻或桯钻打孔，后用线锼拉，边缘为齿状飞棱，且呈刃状，具有典型的商代治玉风格。
+该黄玉璇玑从玉料的选用、雕琢的工艺、保存的状况等方面来讲，都不失为一件不可多得的珍品。目前所发现玉璇玑的时代，最早为距今 5500 年的大汶口文化中期，出土数量最多的集中在距今 5000 - 4300 年的大汶口文化晚期和龙山文化前期，且集中分布在山东和辽东两个地区。
+至夏商周三代，上述两个地区玉璇玑的数量骤减，而分布范围逐渐扩散到陕西、河南等地。东周以后，玉璇玑基本退出了历史舞台。
+“璇玑”亦作“璿玑”，出自中国古籍《尚书·舜典》：“舜让于德，弗嗣。正月上日，受终于文祖。在璇玑玉衡，以齐七政。”
+由于记载简略，璇玑含义难以理解，从汉代起就产生两种不同看法：一主星象说，司马迁《史记·天官书》上说：“北斗七星，所谓'璇玑玉衡以齐七政'”；一主仪器说，孔安国说：璇玑玉衡为“正天之器，可运转”，郑玄说：“运动为玑，持正为衡，以玉为之，视其行度。”均认为是仪器。更有人主张璇玑玉衡就是浑仪。
+清代收藏家吴大澂收藏了一件周缘有三节带齿的牙形突起玉璧，他便认为就是《舜典》中记载的“璇玑”，他说“是玉外郭有机牙三节，每节小机括六，若可钤物…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[瞎扯 · 如何正确地吐槽]]></title>
+        <id>https://daily.zhihu.com/story/9736340</id>
+        <link href="https://daily.zhihu.com/story/9736340"/>
+        <updated>2021-05-25T23:08:08.000Z</updated>
+        <summary type="html"><![CDATA[《让子弹飞》里张麻子为何没有杀武举人？
+
+Luc Han，不喜欢电影的老师不是一个好记者
+阅读原文
+
+因为姜武是姜文的弟弟....
+阅读原文
+
+微软决定在 2022 年 6 月 15 日彻底结束IE浏览器使命，如何评价这款软件？它带给你哪些回忆？
+
+Laniakea，Clinical Neuropsychology
+阅读原文
+
+IE 将在 2023 年得知这一消息。
+阅读原文
+
+有没有什么短篇言情小说把你虐哭了？
+
+王一A，无
+阅读原文
+
+完形填空。
+阅读原文
+
+对于新垣结衣 2020 年收入 4.4 亿日元大家怎么看?
+
+胡大曰
+阅读原文
+
+2020 年，日本的 GDP 总量是 5.1 万亿美圆，中国的 GDP 总量是 14.7 万亿美元。
+中国的 GDP 总量是日本的 3 倍。
+郑爽几个月的时间一部片子的收入是 1.6 亿人民币，是新垣结衣年收入的 8 倍，绫濑遥的五倍。考虑到其他收入，保守估计郑爽的年收入是新垣结衣的十几倍，日本收入最高女星绫濑遥的十倍吧。
+也就是说，即使考虑到中国市场是日本市场的 3 倍大，把郑爽的收入除以 3 以后，依然是日本收入最高女星绫濑遥的三倍。
+何况郑爽恐怕并不是中国收入最高的女星。
+这说明，中国文艺市场的繁荣，至少三倍于日本。
+阅读原文
+
+人死后会转世投胎吗？
+
+某乎文字狱受害者，飞天烙铁
+阅读原文
+
+3 岁女儿那天指着超市的柜台说我要吃跳跳糖，我和媳妇都吓尿了，这孩子还不识字，况且现在卖跳跳糖的很少见，女儿肯定是第一次见到，她怎么知道这玩意叫跳跳糖？！ 莫非是 80 年代的孩子转世？前世的记忆？ 我困惑了很久实在没办法，问宝宝知道大大泡泡糖吗？ 健力宝？ 北冰洋？ 崔健？ 后来她奶奶说话了 我给买过跳跳糖。。。
+阅读原文]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021 款理想 ONE 发布：续航突破 1000km，辅助驾驶大升级，理想的「理想」还有多远？]]></title>
         <id>https://www.ifanr.com/?p=1418874&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
@@ -755,108 +1079,6 @@ HANBOWEN，写字公号：HANBOWEN 摄影公号：视觉灵感
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[古埃及和古希腊的建筑比较，都有哪些特点？]]></title>
-        <id>https://daily.zhihu.com/story/9736206</id>
-        <link href="https://daily.zhihu.com/story/9736206"/>
-        <updated>2021-05-23T23:07:08.000Z</updated>
-        <summary type="html"><![CDATA[边坤，既解不了题，也解不了风情。
-阅读原文
-
-将从三个角度来比较二者的物质环境，文化背景和建筑形式，建筑的产生和发展是与周遭环境紧密结合的，其发展脉络也是薪火相传的，从对比中就能看到建筑学的源头的埃及看似没有传承却其实通过克里特和迈锡尼间接影响古希腊的。
-一。自然环境的基因
-1.古埃及的土地和尼罗河
-是文字记载中最伟大的文明之一，古埃及人具有结合环境把握建筑形式的杰出能力。把从古至今，其宏大的纪念性建筑风格从未被超越。
-古埃及建筑有与其他文明的建筑相比对土地，对环境更加紧密的联系。沙漠和尼罗河主导埃及地区的景致，前者的时代永存，后者带来的兴衰变迁，孕育的古埃及一种充斥变革和永恒理念的古埃及。这些理念都可以用来理解埃及建筑。这些几何抽象的形体，代表这在三维世界中的永恒无限之所。面对广阔无垠的沙漠，埃及人迫切的需要用物质性来实现自身在大地上，时空之中的永恒。
-同样，生机勃勃的尼罗河水给埃及带来的生命，河流一方面是奔流不息带来的是对时间变迁和永恒的更加深刻认识，另一方面是对空间方向性的直观感受，河道的径直与埃及建筑中的轴向排列有很大关系。当然，河流带来的几何学，天文历法方面的进步也是不容忽视。
-除了沙漠和尼罗河，原始社会中的神秘色彩依旧还留存在建筑中，埃及的纪念性建筑是为法老和祭祀们设立，这与希腊的纪念性建筑面向希腊公民还是有所区别。
-
-2.谁是古希腊人
-古希腊人是米诺斯和迈锡尼文明（公元前 11 世纪到公元前 8 世纪）走向衰弱后在两个族群不断交融中孕育和发展的，一支是多立克人，斯巴达为核心，强调纪律和阶层。与之相反的是另一支爱奥尼人，构建了一个商业社会。两个民族在公元前 8 世纪完全融合入形成一个极具多远的文明整体，自称希腊人。
-之所以比较建筑之前需要分析希腊民族，是因为爱奥尼和多立克不仅仅是两个民族的名称，更是一种低地域民族文化概念，也是建筑结构体系，更是一种理性美学比例体…]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瞎扯 · 如何正确地吐槽]]></title>
-        <id>https://daily.zhihu.com/story/9736244</id>
-        <link href="https://daily.zhihu.com/story/9736244"/>
-        <updated>2021-05-23T23:07:00.000Z</updated>
-        <summary type="html"><![CDATA[佟丽娅的婚姻中能看出哪些原生家庭的负面影响？她为什么会一直自卑？
-
-原地爆炸的狗，不惧怕黑夜，是因为心里有光！
-阅读原文
-
-当初要是嫁给我，现在哪还有这么多事！ 
-阅读原文
-
-虎门销烟为什么不用火来销毁鸦片呢？
-
-Sithferia，稍等一下我找找
-阅读原文
-
-用火那叫虎门抽烟！
-阅读原文
-
-为啥好多女生拍照都要往前伸一条腿？
-
-HANBOWEN，写字公号：HANBOWEN 摄影公号：视觉灵感
-阅读原文
-
-因为如果同时伸两条腿她会摔倒的，而两条以上的腿她又凑不够。
-阅读原文
-
-字节跳动联合创始人张一鸣将卸任 CEO，梁汝波将接任，将会对字节未来发展带来哪些变化？
-
-鲁智庸，一句话介绍不了我
-阅读原文
-
-没想到新垣结衣结婚对张一鸣打击这么大。
-新垣结衣宣布结婚后，张一鸣紧接着就宣布卸任字节跳动 CEO。
-阅读原文
-
-如何看待佟丽娅陈思诚在 5 月 20 日宣布离婚？你有哪些话想说？
-
-皮球老爸，双胞胎奶爸，母婴生活好物分享官，婴儿车老司机。
-阅读原文
-
-每条大街小巷
-每个人的嘴里
-见面第一句话
-就是恭喜恭喜
-恭喜恭喜恭喜你呀
-恭喜恭喜恭喜你
-冬天已到尽头
-真是好的消息
-温暖的春风
-吹醒了大地
-恭喜恭喜恭喜你呀
-恭喜恭喜恭喜你
-恭喜恭喜恭喜你呀
-恭喜恭喜恭喜你
-皓皓冰雪溶解
-眼看梅花吐蕊
-慢慢花也活络
-听到一声鸡啼
-恭喜恭喜恭喜你呀
-恭喜恭喜恭喜你
-经过多少困难
-经历多少磨练
-多少心儿盼望
-春天的消息
-恭喜恭喜恭喜你呀
-恭喜恭喜恭喜你
-恭喜恭喜恭喜你呀
-恭喜恭喜恭喜你
-
-
-
-阅读原文]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fast and Furious 6 2013 EXTENDED BD 2Audio MiniSD-TLF[速度与激情6 [tt1905041][国英双语]][997.16 MB]]]></title>
         <id>2db88437c5684cc1c9c2df1e2b36896fe1fcf345</id>
         <link href="https://pt.eastgame.org/details.php?id=44360"/>
@@ -950,128 +1172,6 @@ Thank you: @LooperXX.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[有哪些电视剧让你觉得是真的国产之光？]]></title>
-        <id>https://daily.zhihu.com/story/9736187</id>
-        <link href="https://daily.zhihu.com/story/9736187"/>
-        <updated>2021-05-22T23:06:24.000Z</updated>
-        <summary type="html"><![CDATA[小吕同学，日常厌学的研究僧，喜欢泡在电影与好奇中
-阅读原文
-
-当之无愧就是《武林外传》
-大家好，这里是小吕同学
-之前在武林外传上映 15 周年时，曾经写过文章抒发过对于《武林外传》的喜爱
-武林外传外传播出 15 周年，你有什么感触？
-近段时间又刷了一次武林外传，让我对这部剧集的热爱又加深了几分！
-天啊，它真的无愧于我心目中的——国产剧之神！！！
-
-再次刷完这部剧集，我对它的剧作进行了认真的分析，发现它的剧作中充满后现代主义色彩
-且听我慢慢道来
-武林外传充满后现代主义的剧作手法
-首先我们先来解释一下什么是“后现代主义”
-
-后现代主义是一个非常庞杂的概念， 它是 20 世纪中叶出现的世界性文化思潮。
-后现代主义是对西方传统哲学与现代社会的批判。后现代主义注重对于一切的反叛与批判，具有强烈的否定精神，主张冲出旧范式。后现代主义的代表思想包括解构主义、后工业社会理论等。而《武林外传》就是以反叛为基础，饱含对传统武侠精神的解构，作品中含有强烈的后现代主义性。
-
-戏仿
-
-戏仿本是一种文学创作手法，指对经典作品、经典人物等进行借用，以达到调侃、嘲讽或是向前作进行致敬
-塞万提斯的《堂吉诃德》
-文学作品中，我们熟知的《堂吉诃德》就是使用了戏仿手法，塞万提斯借用骑士小说的写作套路对骑士小说进行了的讽刺。
-英俊气质 007油腻邋遢凌凌漆
-在影视作品中，我们也有熟人。周星驰可谓对戏仿技法使用到纯熟的地步，比如《国产零零漆》就是对英国知名谍战片《007》的戏仿，原本英俊多金的邦德化身成为外表邋遢、一事无成的猪肉贩子。
-
-《武林外传》首先制造了一个架空的武侠世界，熟读武侠小说的财神依托对“武林与江湖”的了解，对传统武侠世界进行了全方位的戏仿，剧内人物的塑造、剧情走向、故事背景都是按照武侠小说的套路进行书写。
-而《武林外传》中其内核呢却又是反对暴力，消解传统武林世界的。
-先来讲一讲，这个外型的戏仿是如何…]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[香水要做出中式茶香，技术上很困难吗？]]></title>
-        <id>https://daily.zhihu.com/story/9736202</id>
-        <link href="https://daily.zhihu.com/story/9736202"/>
-        <updated>2021-05-22T23:06:20.000Z</updated>
-        <summary type="html"><![CDATA[RitaW，L'Elysium des Parfums
-阅读原文
-
-不请自来
-我也曾经有过这样的疑惑，问过人也做了不少相关的阅读。总体来看有两种方向的解释：1. 茶的种类以及对于茶的认识与东方人有明显差别。2.原材料的局限性。
-1. 茶的种类以及对于茶的认识与东方人有明显差别
-西方人对于茶的理解和中国人对于茶的理解差别很大。西方主流香水里的茶香主要以下几种：
-1）阿根廷马黛茶：我遇见过的茶香香水中，多数的茶香都来自马黛茶。有些草本和烟熏的感觉，偏绿，经常和馥奇调、皮革调调和在一起。
-比如祖马龙的 Jade Leaf Tea、Fueguia 1833 的 Thays、Annick Goutal 的 Duel、Memo 的 Inle、阿蒂仙的 The Pour un Ete 等等。
-
-2）红茶：外国常见的是大吉岭红茶、阿萨姆红茶以及伯爵红茶（佛手柑味的红茶）在外国调香师的手中常常被表达成木质调，有时候偏清冷、有时候偏辛辣烟熏、有时候偏皮革。
-比如：Le Labo 的 Thé Noir、宝格丽大吉岭茶
-
-3）绿茶：严重怀疑那些欧洲调香师到底有没有喝过真正中国绿茶，好像在他们眼里绿茶只要是偏绿调、带点白花香、感觉又淡又清新就可以了，至于闻起来能不能形成茶意象的投射完全不在考虑范围内。
-比如：伊丽莎白雅顿的绿茶、宝格丽绿茶、爱马仕丹桂云南、Creed 银色山泉
-
-（配图里是外国人喜欢的喝绿茶的方式，我们中国人根本不这么喝绿茶）
-4）印度香料茶：这个也是欧洲调香师老生常谈的主题，闻起来暖而辛辣，或偏东方调、或偏美食调。
-比如，Serge Lutens 的 Five O'clock Au Gingembre（东方调香料茶）、阿蒂仙的 Tea For Two（masala chai tea）。
-
-5）其它：
-无花果茶（尼古莱的 fig tea）、花茶（kilian 的帝国茗茶、CB 的薰衣草茶）、日本抹茶（MMM 的绿茶逃逸）、南非国宝茶（Vanilla Rooibos）等等。
-
-2. 原材料
-茶香精主要是从干茶叶（camellia sinensis）里通过不同的方法萃取出来的，不论是高度浓缩的还是稀释过的香精，其本身的扩散力都很弱，是一种很精巧微妙的干叶子的气味。茶叶只有在沸水冲泡的过程中才能真正展现馥郁的香气，想要在香水中达到冲泡时茶香的效果其实很难。更别说让香水使用者闻了之后产生茶的意象。
-目前主要用来营造出“茶”香意象的香精里，有的来自天然茶叶，有的来自于别的植物和花。
-1）来自天然茶
-绿茶香精
-状态：深色、半固态、粘。使用于香水中会使衣服上留下深色斑块。
-味道：微甜、略带果香、干燥的木质调。不论稀释与否，扩散力都很弱。
-液态二氧化碳萃取的茶香精
-状态：像是用抹茶粉加水和成的糊糊，淡绿色。但是配成香水后会使香水里有沉淀物。
-味道：最接近真实的茶香，扩散比前者要好，有一些草本和坚果的香味。
-例子：还没有发现这种香精使用在香水里的例子。
-红茶香精
-状态：浓稠粘腻如黑色的蜜
-味道：比绿茶要强烈一点，但依然属于相对 subtle 的味道。闻起来不那么像冲泡出来的红茶。
-例子：ProvidencePerfume 的桂花乌龙
-
-马黛茶香精
-状态：与绿茶香精类似
-味道：闻起来不那么像茶，苦而浓烈、有干草垛的气味，可以和馥奇调、皮革调很好的调和在一起。
-非洲国宝茶香精
-状态：没有找到相关记录
-味道：甜而丰满，有卷烟一般的烟草味，但是整体而言香精香味很轻微。
-2）来自于其它植物或花，可以营造类似茶香氛围的
-香柠檬（bergamote）
-Earl Grey 的主要香调，一闻到香柠檬味就会想起 earl grey。
-茉莉（Jasmin Sambac）、薰衣草（Lavender）以及桂花。
-根据原材料的局限性来看，调香师用萃取的精华几乎调不出最拟真的绿茶香（用气色相谱或液色相谱法进行成份分析得出的结果不在这篇回答讨论的范围内，毕竟用这两种方法，常见的气味几乎都能被分析配制出来）、广泛爱用马黛茶香精的市场表现也确实合理。
-阅读原文]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[给定剧本后，演员发挥的余地在哪里？]]></title>
-        <id>https://daily.zhihu.com/story/9736234</id>
-        <link href="https://daily.zhihu.com/story/9736234"/>
-        <updated>2021-05-22T23:06:17.000Z</updated>
-        <summary type="html"><![CDATA[瑾臻，满目山河空念远
-阅读原文
-
-这是常常被忽略的一个小细节。在影视环节中，编剧的工作可以称为剧本创作，导演的工作可以称为视听创作；而到了演员这里，我们往往会概括为：演戏。但是演员在戏中的发挥，文雅的称谓其实是表演创作。演员通过形体、台词、神态传达的过程，也是一种创作。
-前几天看到一位演员针对自己的角色做了很多功课，建议导演、编剧一起多次修改剧本，却被评价为不敬业，认为他“不听导演的话”。这个问题和本题有相似之处，都是在试图去界定『演员』和『导演』『编剧』之间工作的关系。而在三者当中，演员的创作是最容易被忽视掉的。
-刚才提到的演员可以称为『创作型演员』。他们拿到剧本后会针对角色思考极多，给角色融入很多自己的理解。剧本中给定的动作、眼神不能满足甚至有悖于他们的创作需求，他们会为了自己的艺术想法主动和创作团队沟通。这当然是非常好的正常工作状态，但由于表演创作的边缘化，创作型演员反而被认为不够敬业。
-先说演员和剧本之间的关系。国内并没有完全统一格式的剧本，所以演员每部戏拿到的本子未必完全一致，有详有略。编剧的工作是将人物的命运走向，性格特质打好铺垫，看似框得非常严格，但个中的发挥空间非常之大，即使是两个同角色非常相近的演员，演起来也不会是一个效果。
-艺术是可以超脱出创作者认知的。某次制作广播剧，当我听到某位其貌不扬的男演员用极其贴合角色的声音念白、展现优质演技的时候，甚至产生了一种陌生感——原来我写的台词还可以这样被呈现出来。很惊喜，很意外。创作过程中的动力往往来源于预期以外的收获。
-那么演员在这个过程中究竟承担了什么工作呢？可以理解为一种将剧情再度合理化的过程。举一个例子，同一场戏：A 打了 B 一下，B 生气地把 A 推进河里。这类中性的戏份能否让观众感到合理，很大程度就取决于演员的创作。我们假设演员 A 轻飘飘打了演员 B，B 登时火冒三丈，视如仇寇一般把 A 推进河里，观众接收到的信息则是①A 的脾气非常暴躁；②二人或许还有其他的隐含矛盾。
-另一种情况，A 狠狠甩了 B 一个耳光，B 愣了，反应过来后生气地顺势把气冲冲的 A 推进了河里。这时观众接收到的信息就简单多了：你打我，我就还击。很合理的剧情嘛。
-这就好比，一个拍摄一双脚缓缓上楼梯的跟镜头，如果配乐是紧张诡异的，那么观众便会跟着脚步揪起心，猜测这双脚的主人是否可能遇到危险或行凶盗窃；但如果配乐是舒缓的，则会想，这大抵是个去赴约的情人或想念孩子的父亲？
-所以，演员和剧本之间往往是相互成就的。一些优秀的体验派演员一旦入戏，往往会呈现出意想不到的合理演法。
-再说演员和导演。有的导演比较佛系，追求本真的艺术效果，会更希望看到演员给自己带来意外之喜；有的导演执着于自己脑海中的画面，恨不得连演员发丝飘飞的幅度都控制好。所以演员的表演和导演的特点确实是有关系的，但对于创作型的演员来说，对于导演的依附是没有那么强的，也就很少出现换个导演演技就大幅升降的情况。演员和导演在作品面前完全平等。
-当我第一次同时担任编剧 / 演员的时候，我的剧本字数比以往长了很多。多的是标点符号。因为编剧对台词的断句是『意断』，演员则是『声断』。意断只需要依赖于语法，但演员的断句讲究就很多了。我想在某处哽咽一下，我就顿一顿；我想通过连读表现急迫，我就一口气读个十句话。演员的断句在语法的基础上依赖于人物的感情与性格。所以我在撰写自己台词的时候，往往会在不该加标点的地方加一个以示停顿。检查的时候才发现了这个问题，即时做出了修改。包括多糅进去的神态动作，同样是属于模糊了剧本创作和表演创作的界限，剧本就冗长了。
-阅读原文]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[5G、物联网、自动驾驶，这些领域都有这家公司的身影]]></title>
         <id>https://www.ifanr.com/?p=1418327&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
         <link href="https://www.ifanr.com/1418327?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
@@ -1085,22 +1185,6 @@ Earl Grey 的主要香调，一闻到香柠檬味就会想起 earl grey。
 新浪微博]]></summary>
         <author>
             <name>王志劭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[帮助 14 亿人吃饱饭的他，今天走了]]></title>
-        <id>https://www.ifanr.com/?p=1418338&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
-        <link href="https://www.ifanr.com/1418338?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
-        <updated>2021-05-22T09:26:13.000Z</updated>
-        <summary type="html"><![CDATA[感谢您。
-#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博]]></summary>
-        <author>
-            <name>周宇</name>
         </author>
     </entry>
     <entry>
@@ -1707,63 +1791,6 @@ SHA1：D23346C36626FEB0E0254E57987ADF254EF0DABE]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zack Snyders Justice League 2021 BD HEVC 10bit MiniFHD-TLF[扎克·施奈德版正义联盟 / 欧版原盘压制 / [豆瓣8.3]][13.71 GB]]]></title>
-        <id>0e01c6947c555e6ed8d3507770c811a2675f7d77</id>
-        <link href="https://pt.eastgame.org/details.php?id=44288"/>
-        <updated>2021-05-20T03:34:49.000Z</updated>
-        <summary type="html"><![CDATA[引用 
-
-
-◎制　　作　zuimeng1997 @ TLF HALFCD TeaM
-
- 引用 
-本作品是欧版原盘双碟切割压制，导致在 02:21:49 会有一秒的音轨戛然而止，但是字幕和音轨都是经过微调保证了完美契合的，并不影响观看。特此申明，不喜勿喷
-
-
-
-
-◎译　　名　扎克·施奈德版正义联盟/查克·史奈德之正义联盟(台)/正义联盟 扎克·施奈德导演剪辑版/正义联盟：扎克·施耐德版/正义联盟导演剪辑版/Justice League Snyder Cut
-
-◎片　　名　Zack Snyder's Justice League
-
-◎年　　代　2021
-
-◎产　　地　美国
-
-◎类　　别　动作/科幻/奇幻/冒险
-
-◎语　　言　英语
-
-◎上映日期　2021-03-18(美国)/2021-05-03(中国大陆网络)
-
-◎IMDb链接  https://www.imdb.com/title/tt12361974/
-
-◎豆瓣评分　8.3/10 from 188286 users
-
-◎豆瓣链接　https://douban.com/subject/35076714/
-
-◎片　　长　242分钟
-
-◎导　　演　扎克·施奈德 Zack Snyder
-
-◎编　　剧　扎克·施奈德 Zack Snyder / 克里斯·特里奥 Chris Terrio / 威尔·比尔 Will Beall / 杰里·西格尔 Jerry Siegel / 乔·舒斯特 Joe Shuster
-
-◎主　　演　本·阿弗莱克 Ben Affleck
-
-　　　　  　亨利·卡维尔 Henry Cavill
-
-　　　　  　盖尔·加朵 Gal Gadot
-
-　　　　  　杰森·莫玛 Jason Momoa
-
-　　　　  　埃兹拉·米勒 Ezra Miller
-
-　　　　  　雷·费舍尔…]]></summary>
-        <author>
-            <name>zuimeng1997@pt.eastgame.org (zuimeng1997)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[中国经济的数字逻辑]]></title>
         <id>http://www.ruanyifeng.com/blog/2021/05/china-economy-explanation.html</id>
         <link href="http://www.ruanyifeng.com/blog/2021/05/china-economy-explanation.html"/>
@@ -1865,19 +1892,6 @@ Chore: Excluded testing files from repo.]]></summary>
 Fixed: Error logging from XML parser.
 Fixed: Typo in docs.
 Thank you: @dym-sh, @tabokie, @cheese1]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.3.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.0"/>
-        <updated>2021-05-05T05:19:26.000Z</updated>
-        <summary type="html"><![CDATA[Added: Customize cache lifespan with cacheMaxDays property in osmosfeed.yaml.
-Added: Documentation for osmosfeed.yaml.
-Fixed: More intuitive logging during build.
-Chore: Refactored parameter passing for enrich step.]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
         </author>
