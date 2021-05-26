@@ -103,12 +103,21 @@
       "siteUrl": "https://www.ifanr.com?utm_source=rss&utm_medium=rss&utm_campaign=",
       "articles": [
         {
+          "id": "https://www.ifanr.com/?p=1419261&utm_source=rss&utm_medium=rss&utm_campaign=",
+          "author": "李华",
+          "description": "今天给大家分享几个 Apple Watch 的小配件。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
+          "link": "https://www.ifanr.com/1419261?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedOn": "2021-05-26T10:56:16.000Z",
+          "wordCount": 325,
+          "title": "Apple Watch 配件分享：这才是 Apple Watch 的完全体"
+        },
+        {
           "id": "https://www.ifanr.com/?p=1419230&utm_source=rss&utm_medium=rss&utm_campaign=",
           "author": "李华",
           "description": "假如我们的电动汽车可以边跑边充电……\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
           "link": "https://www.ifanr.com/1419230?utm_source=rss&utm_medium=rss&utm_campaign=",
           "publishedOn": "2021-05-26T08:51:30.000Z",
-          "wordCount": 270,
+          "wordCount": 280,
           "title": "有关电动汽车充电慢的问题，这家公司有了一个新方案"
         },
         {
@@ -153,7 +162,7 @@
           "description": "坚持视觉识别的马斯克要改变主意了吗？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
           "link": "https://www.ifanr.com/1418935?utm_source=rss&utm_medium=rss&utm_campaign=",
           "publishedOn": "2021-05-25T09:17:18.000Z",
-          "wordCount": 256,
+          "wordCount": 258,
           "title": "特斯拉开始测试激光雷达？答案可能没这么简单"
         },
         {
@@ -162,7 +171,7 @@
           "description": "Android 12 已经发布，新一代的 Google Pixel 还会远吗？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
           "link": "https://www.ifanr.com/1418876?utm_source=rss&utm_medium=rss&utm_campaign=",
           "publishedOn": "2021-05-25T07:36:00.000Z",
-          "wordCount": 303,
+          "wordCount": 308,
           "title": "Pixel 6 相机配置曝光，Google 或将使用自研芯片"
         },
         {
@@ -243,7 +252,7 @@
           "description": "未来的会议室，会是这样子吗？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
           "link": "https://www.ifanr.com/1418639?utm_source=rss&utm_medium=rss&utm_campaign=",
           "publishedOn": "2021-05-24T06:47:09.000Z",
-          "wordCount": 222,
+          "wordCount": 227,
           "title": "微软眼中的未来会议室：数字与物理世界的新桥梁"
         },
         {
@@ -272,15 +281,6 @@
           "publishedOn": "2021-05-24T00:35:16.000Z",
           "wordCount": 581,
           "title": "iOS 14.5.1 出现「随机降频」，固件更新可能是一把「双刃剑」"
-        },
-        {
-          "id": "https://www.ifanr.com/?p=1417917&utm_source=rss&utm_medium=rss&utm_campaign=",
-          "author": "制糖工厂",
-          "description": "来听属于大自然的好声音\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
-          "link": "https://www.ifanr.com/1417917?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedOn": "2021-05-23T10:30:18.000Z",
-          "wordCount": 248,
-          "title": "听说，这里有好声音？| 糖会沙龙"
         }
       ]
     },
@@ -304,7 +304,7 @@
           "description": "重庆市前市长黄奇帆退休以后，受聘担任复旦大学特聘教授，定期给师生做讲座，介绍他对中国经济的看法。...",
           "link": "http://www.ruanyifeng.com/blog/2021/05/china-economy-explanation.html",
           "publishedOn": "2021-05-19T12:54:48.000Z",
-          "wordCount": 378,
+          "wordCount": 387,
           "title": "中国经济的数字逻辑"
         },
         {
@@ -481,6 +481,20 @@
       "siteUrl": "https://pt.eastgame.org",
       "articles": [
         {
+          "id": "ad39870a212e137cde2de510d1fcf22fc5e3006d",
+          "author": "anonymous@pt.eastgame.org (anonymous)",
+          "description": "◎制　　作　Fixxxer @ TLF HALFCD TeaM\n\r\n\n\r\n◎英 文 名　Fantasia\n\r\n◎中 文 名　幻想曲\n\r\n◎导　　演　詹姆斯·阿尔加 James Algar\n\r\n◎主　　演　利奥博特·斯托科维基 Leopold Stokowski\n\r\n　　　　　　 Deems Taylor\n\r\n　　　　　　 Julietta Novis\n\r\n　　　　　　柯瑞·伯顿 Corey Burton\n\r\n　　　　　　沃尔特·迪斯尼 Walt Disney\n\r\n　　　　　　 James MacDonald\n\r\n◎年　　代　1940年\n\r\n◎国　　家　美国\n\r\n◎语　　言　英语\n\r\n◎IMDb评分　7.8/10\n\r\n◎IMDb链接　http://www.imdb.com/title/tt0032455/\n\r\n◎片　　长　124 mins\n\r\n◎类　　别　动画 / 家庭 / 奇幻 / 音乐\n\r\n\r\n◎简　　介　\n\r\n　　影片故事情节由音乐推动,通过一系列动画对古典音乐中的杰作进行解读。除了第一段“魔法师的学徒”其它六个段落都无剧情,纯粹在表现影像与音乐的巧妙配合而已,一团色彩或线条可能暗喻某些概念。“魔法师的学徒”的主角是米奇,它是一位上进的魔术师,讲述了他如何超越自己极限,当学徒学习魔法的故事。“春之祭”描述的是进化的过程,从单细胞生物的形成讲到恐龙的灭亡。“时光之舞”是一出喜剧芭蕾舞剧,由驼鸟、大象、鳄鱼等动物演出。“荒山之夜”和“圣母颂”则讲述了黑暗与光明之间的斗争,最终黑暗邪恶势力的反抗随着清晨的到来而结束。\n\r\n\r\n　　幻想曲是一部非常独特的动画影片，它是影坛首次尝试将音乐和美术所作的一次伟大的结合，以美术来诠译音乐。沃特·迪斯尼于1940年完成这部旷世巨作，50年来这部影片成为收藏家及儿童和大人们最喜爱的影片，它的艺术成就至今尚无任何一部音乐片可超越！本片获第14…",
+          "link": "https://pt.eastgame.org/details.php?id=44409",
+          "publishedOn": "2021-05-26T10:52:17.000Z",
+          "wordCount": 71,
+          "title": "Fantasia 1940 BD 2Audio MiniSD-TLF[幻想曲 [tt0032455][国英双语]][856.28 MB]",
+          "enclosure": {
+            "url": "https://pt.eastgame.org/download.php?id=44409",
+            "length": "897876338",
+            "type": "application/x-bittorrent"
+          }
+        },
+        {
           "id": "3541de3f6f4c7684daa3b16551a2dbbffef7c8af",
           "author": "anonymous@pt.eastgame.org (anonymous)",
           "description": "◎制　　作　郸行客 @ TLF HALFCD TeaM\n\r\n\n\r\n◎译　　名　假戏真做\n\r\n◎片　　名　\n\r\n◎又　　名　\n\r\n◎年　　代　1936年\n\r\n◎国家/地区 美国\n\r\n◎类　　别  喜剧 / 爱情\n\r\n◎语　　言  英语\n\r\n◎上映日期  1936-10-09\n\r\n◎豆瓣评分　7.6/10 (450 users)\n\r\n◎豆瓣链接  https://movie.douban.com/subject/1298982/\n\r\n◎片　　长　98 分钟\n\r\n◎导　　演　杰克·康威 Jack Conway\n\r\n◎编　　剧　莫里纳·达拉斯·沃特金斯 Maurine Dallas Watkins\n\r\n　　　　　　Wallace Sullivan\n\r\n　　　　　　乔治·奥本海默 George Oppenheimer\n\r\n　　　　　　霍华德·埃米特·罗杰斯 Howard Emmett Rogers\n\r\n◎主　　演　珍·哈露 Jean Harlow\n\r\n　　　　　　威廉·鲍威尔 William Powell\n\r\n　　　　　　玛娜·洛伊 Myrna Loy\n\r\n　　　　　　斯宾塞·屈塞 Spencer Tracy\n\r\n　　　　　　William Newell\n\r\n　　　　　　Barnett Parker\n\r\n　　　　　　Inez Palange\n\r\n　　　　　　Buster Phelps\n\r\n　　　　　　杰克·茂豪尔 Jack Mulhall\n\r\n　　　　　　Thomas Pogue\n\r\n　　　　　　Franklin Parker\n\r\n　　　　　　Greta Meyer\n\r\n　　　　　　Wally Maher\n\r\n　　　　　　Alphonse Martell\n\r\n　　　　　　Myra Marsh\n\r\n　　　　　　Tom Mahoney\n\r\n　　　　　　Eddie Shubert\n\r\n　　…",
@@ -603,20 +617,6 @@
           "enclosure": {
             "url": "https://pt.eastgame.org/download.php?id=44302",
             "length": "2079820225",
-            "type": "application/x-bittorrent"
-          }
-        },
-        {
-          "id": "adf46e64e7556ead0ace8606d43ed671b6053fea",
-          "author": "anonymous@pt.eastgame.org (anonymous)",
-          "description": "◎制　　作　Francis\n\r\n\r\n◎发　　行　TLF HALFCD TeaM\n\r\n\r\n\n\r\n\r\n◎英 文 名　The Fast and the Furious 3\n\r\n\r\n◎中 文 名　速度与激情3：东京漂移/玩命开头3：东京甩尾/狂野时速3\n\r\n\r\n◎导　　演　林诣彬 Justin Lin\n\r\n\r\n◎主　　演　卢卡斯·布莱克 Lucas Black\n\r\n\r\n　　　　　　Damien Marzette\n\r\n\r\n　　　　　　 Trula M. Marcus\n\r\n\r\n　　　　　　 Zachery Ty Bryan\n\r\n\r\n　　　　　　Brandon Brendel\n\r\n\r\n　　　　　　 Daniel Booko\n\r\n\r\n◎年　　代　2006年6月16日\n\r\n\r\n◎国　　家　美国\n\r\n\r\n◎语　　言　日语\n\r\n\r\n◎IMDb评分　5.6/10\n\r\n\r\n◎IMDb链接　http://www.imdb.com/title/tt0463985/\n\r\n\r\n◎片　　长　104 mins\n\r\n\r\n◎类　　别　动作 / 犯罪 / 剧情 / 惊怵\n\r\n\r\n\r\n\r\n◎简　　介　\n\r\n\r\n　　本片将日本山道上“飘移超车”出神入化的震撼绝技作为了表现的重点。台湾裔导演林诣彬大胆启用全新阵容，“嘻哈小天王”宝娃所饰的主人公是一名在美国惹麻烦、为避免身陷囹圄而不得不躲到日本的热血少年，在当地为赛车所深深着迷，于是向有“飘移之王”名号的地下车手大胆叫板。 为了避免再度惹事生非，街头赛车手尚恩\n\r\n\r\n\r\n\r\n　　卢卡斯布莱克\n\r\n\r\n\r\n\r\n　　被送回东京与父亲同住，在那他发现了「飘移」的技术。奇逢对手初尝败绩后，尚恩被迫必须进入东京底层社会想尽办法还债。 尚恩似乎注定是个失败者，在家里他郁郁寡欢，在学校里也是形单影只，唯一能够带给他乐趣的，就是非法的街头赛车，速度带来刹那的激情，让他感受到这个世界赋予自…",
-          "link": "https://pt.eastgame.org/details.php?id=44296",
-          "publishedOn": "2021-05-20T11:28:30.000Z",
-          "wordCount": 71,
-          "title": "The Fast And The Furious III 2006 BD 2Audio MiniSD-TLF[速度与激情3 [tt0463985][国英双语]][781.06 MB]",
-          "enclosure": {
-            "url": "https://pt.eastgame.org/download.php?id=44296",
-            "length": "819004781",
             "type": "application/x-bittorrent"
           }
         }
