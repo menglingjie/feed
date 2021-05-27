@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://menglingjie.github.io/REPO_NAME/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-27T11:42:25.986Z</updated>
+    <updated>2021-05-27T12:51:57.726Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://menglingjie.github.io/REPO_NAME/index.html"/>
     <link rel="self" href="https://menglingjie.github.io/REPO_NAME/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OPPO Enco Free2 体验：42dB 降噪黑科技，隔绝噪音是它的拿手好戏]]></title>
+        <id>https://www.ifanr.com/?p=1419053&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1419053?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-05-27T12:00:08.000Z</updated>
+        <summary type="html"><![CDATA[没想到今年的 TWS 耳机市场那么卷...
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>王志劭</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小米公布 Q1 财报，赚得多，投入也更大]]></title>
         <id>https://www.ifanr.com/?p=1419477&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
@@ -1375,22 +1391,6 @@ IE 将在 2023 年得知这一消息。
 新浪微博]]></summary>
         <author>
             <name>李华</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[认养一头牛，甚至也没能讲好一个故事]]></title>
-        <id>https://www.ifanr.com/?p=1416389&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
-        <link href="https://www.ifanr.com/1416389?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
-        <updated>2021-05-24T09:40:58.000Z</updated>
-        <summary type="html"><![CDATA[他们其实认养了一个中国乳业最平庸的故事。
-#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博]]></summary>
-        <author>
-            <name>邬宇琛</name>
         </author>
     </entry>
     <entry>
