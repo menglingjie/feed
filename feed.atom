@@ -2,10 +2,114 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://menglingjie.github.io/REPO_NAME/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-27T10:49:15.313Z</updated>
+    <updated>2021-05-27T11:42:25.986Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://menglingjie.github.io/REPO_NAME/index.html"/>
     <link rel="self" href="https://menglingjie.github.io/REPO_NAME/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[小米公布 Q1 财报，赚得多，投入也更大]]></title>
+        <id>https://www.ifanr.com/?p=1419477&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1419477?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-05-27T11:11:13.000Z</updated>
+        <summary type="html"><![CDATA[小米今年的线下策略十分激进。
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>李华</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Melody Time 1948 D9 3Audio MiniSD-TLF[旋律时光 [tt0040580][国英双语]][611.60 MB]]]></title>
+        <id>b19ac0d66fc7672af5268aaaa45a0624afdc7eee</id>
+        <link href="https://pt.eastgame.org/details.php?id=44424"/>
+        <updated>2021-05-27T11:10:10.000Z</updated>
+        <summary type="html"><![CDATA[◎制　　作　Fixxxer @ TLF HALFCD TeaM
+
+
+
+◎英 文 名　Melody Time
+
+◎中 文 名　旋律时光
+
+◎导　　演　汉密尔顿·卢斯克 Hamilton Luske
+
+◎主　　演　Roy Rogers
+
+　　　　　　Trigger
+
+　　　　　　Dennis Day
+
+　　　　　　Laverne Andrews
+
+　　　　　　Maxene Andrews
+
+　　　　　　Patty Andrews
+
+◎年　　代　1948年05月27日
+
+◎国　　家　美国
+
+◎语　　言　英语
+
+◎IMDb评分　6.6/10
+
+◎IMDb链接　http://www.imdb.com/title/tt0040580/
+
+◎片　　长　72 mins
+
+◎类　　别　家庭 / 动画 / 音乐剧
+
+◎简　　介
+
+　　由几个小故事组成的一组优美的动画音乐故事。
+
+
+◎文件名称　旋律时光.Melody.Time.1948.D9.3Audio.MiniSD-TLF.mkv
+
+◎文件大小　612 MiB
+
+◎影片长度　01:12:22.059
+
+◎混合码率　1 182 kb/s
+
+◎封装时间　UTC 2021-05-27 11:00:43
+
+◎MMG版本　 mkvmerge v5.2.1 ('A Far Off Place') built on Jan  2 2012 23:21:10
+
+◎视频码率　
+
+◎视频尺寸　658 x 542
+
+◎画面比例　4:3
+
+◎帧 率　　 25.000 FPS
+
+◎数据密度　
+
+◎音轨信息  英语 / 国语 / 粤语
+
+◎字幕信息  简体中文 / 繁体中文 / 英文
+
+◎片源采用　DVD ISO (8500Kbps)
+
+◎x264版本  x264 core 116 r2074 2641b9e
+
+◎x264参数  ref=8 / deblock=1:1:1 / me=umh / subme=9 / bframes=5 / rc=crf / mbtree=1 / crf=21.5 / qpmin=10 / qpmax=51
+
+
+◎检验MD5 ：5C46935FB8402D79EC7DE73312A14A94
+
+◎检验SHA1：113BBC5DD8DB3B45D2A33E79F4EA5447D8FA162E
+
+◎文件大小：641310786]]></summary>
+        <author>
+            <name>anonymous@pt.eastgame.org (anonymous)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在朋友圈被嫌弃的「微商」，已经成为东南亚新的「财富密码」]]></title>
         <id>https://www.ifanr.com/?p=1419358&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
@@ -176,7 +280,7 @@ SHA1: 769411413907D94E7055525639A2B545B815EE82]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[马斯克的地下隧道通车了，尽管并它没有达到预期]]></title>
+        <title type="html"><![CDATA[马斯克的地下隧道通车了，尽管它并没有达到预期]]></title>
         <id>https://www.ifanr.com/?p=1419350&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
         <link href="https://www.ifanr.com/1419350?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
         <updated>2021-05-27T06:04:46.000Z</updated>
@@ -1290,22 +1394,6 @@ IE 将在 2023 年得知这一消息。
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[vivo 金耳朵团队专访：为了实现 TWS 2 上的好音质，他们都做了什么？]]></title>
-        <id>https://www.ifanr.com/?p=1418488&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
-        <link href="https://www.ifanr.com/1418488?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
-        <updated>2021-05-24T09:14:07.000Z</updated>
-        <summary type="html"><![CDATA[TWS 2 背后的故事。
-#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博]]></summary>
-        <author>
-            <name>江翁翁</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fast and Furious 6 2013 EXTENDED BD 2Audio MiniSD-TLF[速度与激情6 [tt1905041][国英双语]][997.16 MB]]]></title>
         <id>2db88437c5684cc1c9c2df1e2b36896fe1fcf345</id>
         <link href="https://pt.eastgame.org/details.php?id=44360"/>
@@ -1626,138 +1714,6 @@ SHA1：AB3D853B8A785ECDF6D0858F6E4DDD277088A45F]]></summary>
 　　　　　　艾米·亚当斯 Amy Adams
 
 　　　　…]]></summary>
-        <author>
-            <name>fixxxer@pt.eastgame.org (fixxxer)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Land.2021.BD.MiniSD-TLF[大地[6.6][tt10265034]][580.65 MB]]]></title>
-        <id>5d85d131f5fa458ae995c31a5283b8992a28c460</id>
-        <link href="https://pt.eastgame.org/details.php?id=44312"/>
-        <updated>2021-05-21T04:29:58.000Z</updated>
-        <summary type="html"><![CDATA[◎制　　作　Fixxxer @ TLF HALFCD TeaM
-
-
-
-◎译　　名　大地
-
-◎片　　名　
-
-◎又　　名　着陆 / 勇抱大地(台)
-
-◎年　　代　2021年
-
-◎国家/地区 美国
-
-◎类　　别  剧情
-
-◎语　　言  英语
-
-◎上映日期  2021-02-12(美国)
-
-◎IMDB评分　6.6/10 (3200 votes)
-
-◎IMDB链接  https://www.imdb.com/title/tt10265034/
-
-◎豆瓣评分　6.9/10 (827 users)
-
-◎豆瓣链接  https://movie.douban.com/subject/33433405/
-
-◎片　　长　89分钟
-
-◎导　　演　罗宾·怀特 Robin Wright
-
-◎编　　剧　杰西·查塔姆 Jesse Chatham
-
-　　　　　　艾琳·迪格纳穆 Erin Dignam
-
-　　　　　　丽兹·汉娜 Liz Hannah
-
-◎主　　演　罗宾·怀特 Robin Wright
-
-　　　　　　德米安·比齐尔 Demián Bichir
-
-　　　　　　莎拉·道恩·普莱奇 Sarah Dawn Pledge
-
-　　　　　　金·迪肯斯 Kim Dickens
-
-　　　　　　沃伦·克里斯蒂 Warren Christie
-
-　　　　　　芬莱·沃杰塔克-希松 Finlay Wojtak-Hissong
-
-　　　　　　布拉德·利兰 Brad Leland
-
-　　　　　　戴夫·特里布尔 Dave Trimble
-
-　　　　　　巴布·米切尔 Barb Mitchell
-
-　　　　　　劳拉·延加 Laura Yenga
-
-
-◎标　　签　剧情 | 美国 | 2021 | 女性 | 文艺 | 女导演 | 电影 | 圣丹斯电影节
-
-
-◎简　　介
-
-
-　　罗宾·怀特饰演的律师Edee Mathis满怀悲伤，决定把自己的痕迹从社会中抹去。咨询了网络上的求生专家后，她“消失”去了美国最人迹罕至的地带之一：怀俄明州的肖松尼族国家森林。Mathis住在木屋里，学习自己打猎、捕鱼、种植，对抗当地严寒的冬天和残酷的地貌，以及会杀人的野兽。此时，她遇到了印第安人Joseph，为此，她开始直面内心的恶魔，并惊讶地发现，自己的求生意志其实比想象的强烈。
-
-                        
-
-
-
-◎文件名称　大地.Land.2021.BD.MiniSD-TLF.mkv
-
-◎文件大小　581 MiB
-
-◎影片长度　01:28:51.326
-
-◎混合码率　914 kb/s
-
-◎封装时间　UTC 2021-05-21 04:27:07
-
-◎MMG 版本　mkvmerge v42.0.0 ('Overtime') 64-bit
-
-◎视频码率　829 kb/s
-
-◎视频尺寸　854 x 512
-
-◎画面比例　5:3
-
-◎帧    率　23.976 (24000/1001) FPS
-
-◎位    深　8 bits
-
-◎数据密度　0.079
-
-◎音频码率  82.3 kb/s
-
-◎音频编码  AAC LC SBR
-
-◎音轨声道  2 声道
-
-◎音轨信息  英语
-
-◎字幕信息  简体中文 / 繁体中文 / 英文 / 简英双语 / 繁英双语
-
-◎字幕采用  
-
-◎片源采用  Land.2021.720p.BluRay.x264.DTS-MT
-
-◎x264版本  x264 core 158 r2984 3759fcb
-
-◎x264参数  ref=9 / deblock=1:-1:-1 / me=umh / subme=9 / psy=1 / psy_rd=1.00:0.15 / bframes=5 / rc=crf / mbtree=1 / crf=21.0 / qcomp=0.60 / aq=3:1.00
-
-
-◎检验
-
-大地.Land.2021.BD.MiniSD-TLF.mkv
-
-大小：608855548
-
-MD5 ：2521F7ED4D533EB9B4463D9F653DC181
-
-SHA1：D23346C36626FEB0E0254E57987ADF254EF0DABE]]></summary>
         <author>
             <name>fixxxer@pt.eastgame.org (fixxxer)</name>
         </author>
