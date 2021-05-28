@@ -295,7 +295,7 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
           "link": "http://www.ruanyifeng.com/blog/2021/05/weekly-issue-160.html",
           "publishedOn": "2021-05-28T00:20:22.000Z",
-          "wordCount": 793,
+          "wordCount": 823,
           "title": "科技爱好者周刊（第 160 期）：中年码农的困境"
         },
         {
@@ -304,7 +304,7 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
           "link": "http://www.ruanyifeng.com/blog/2021/05/weekly-issue-159.html",
           "publishedOn": "2021-05-21T00:17:00.000Z",
-          "wordCount": 959,
+          "wordCount": 968,
           "title": "科技爱好者周刊（第 159 期）：游戏开发者的年薪"
         },
         {
@@ -481,6 +481,20 @@
       "siteUrl": "https://pt.eastgame.org",
       "articles": [
         {
+          "id": "5132f432c2f6eece7edb892f97a16496e800d3da",
+          "author": "anonymous@pt.eastgame.org (anonymous)",
+          "description": "◎制　　作　奈落之夜 @ TLF HALFCD TeaM\n\r\n\n\r\n◎英 文 名　Peter Pan\n\r\n◎中 文 名　彼得潘/Les aventures de Peter Pan/As Aventuras de Peter Pan/小飞侠\n\r\n◎导　　演　汉密尔顿·卢斯科\n\r\n◎主　　演　希瑟·安吉尔\n\r\n　　　　　　汤姆·康威\n\r\n　　　　　　汉斯·康拉德\n\r\n　　　　　　比尔·汤普森\n\r\n　　　　　　保罗·科林斯\n\r\n◎年　　代　1953-02-05\n\r\n◎国　　家　美国\n\r\n◎语　　言　英语/美国手语\n\r\n◎IMDb评分　7.3/10\n\r\n◎IMDb链接　http://www.imdb.com/title/tt0046183/\n\r\n◎片　　长　77 分钟\n\r\n◎类　　别　动画 / 冒险 / 家庭 / 奇幻 / 音乐\n\r\n◎简　　介　\n\r\n\r\n小飞侠皮特.潘是梦幻岛上永远不会长大的小精灵，这天，忍不住寂寞的他飞到了伦敦，飞入了小女孩温蒂的家。温蒂做梦也没有想到这世界上真的有小精灵存在，而且自己还被邀请前往梦幻作客。兴奋不已的她带上两个弟弟，三人一起跟随小飞侠飞往了那个想象中的世界。\n\r\n梦幻岛上有温蒂他们从来没有见过的各种各样的东西，印第安酋长、美丽的公主、童话中的人鱼等等，让三人玩得十分开心，小飞侠还帮他们在这里安了家。这时，坏蛋海盗船长来到了岛上，小飞侠必须去战斗了！\n\r\n\r\n◎文件名称　小飞侠.Peter.Pan.1953.BD.4Audio.MiniSD-TLF.mkv\n\r\n◎文件大小　685 MiB\n\r\n◎影片长度　01:17:19.873\n\r\n◎混合码率　1 238 kb/s\n\r\n◎封装时间　UTC 2021-05-28 10:30:20\n\r\n◎MMG版本　 mkvmerge v5.2.1 ('A Far Off Place') built on Jan  2 2012 23:21:10\n\r\n◎视频码率　\n\r\n◎视频尺寸　720 x 540\n\r\n◎画面比例　4:3\n\r\n◎帧 率　　 23.976 (24000/1001) FPS\n\r\n◎数据密度　0.107\n\r\n◎音轨信息  英语 / 国语(北影) / 国语(台配) / 粤语\n\r\n◎字幕信息  简体中文 / 繁体中文\n\r\n◎片源采用　Peter.Pan.1953.720p.Bluray.DD5.1.x264-DON\n\r\n◎x264版本  x264 core 125 r2200 999b753\n\r\n◎x264参数  ref=8 / deblock=1:1:1 / me=umh / subme=9 / bframes=5 / rc=2pass / mbtree=1 / bitrate=1000 / qpmin=0 / qpmax=69\n\r\n\r\n◎检验MD5 ：6DEC38E7687436615BDEB56554E1101B\n\r\n◎检验SHA1：649B3F156F8CF6EE4C5037F387566053C4C59FA3\n\r\n◎文件大小：718168966",
+          "link": "https://pt.eastgame.org/details.php?id=44440",
+          "publishedOn": "2021-05-28T10:38:10.000Z",
+          "wordCount": 71,
+          "title": "Peter Pan 1953 BD 4Audio MiniSD-TLF[小飞侠 [tt0046183][国英双语]][684.90 MB]",
+          "enclosure": {
+            "url": "https://pt.eastgame.org/download.php?id=44440",
+            "length": "718168966",
+            "type": "application/x-bittorrent"
+          }
+        },
+        {
           "id": "e8cf1eb54159681ec928feaaf44c54a5d675e029",
           "author": "anonymous@pt.eastgame.org (anonymous)",
           "description": "◎译　　名　老友记重聚特辑/Friends Reunion Special/Friends Special/六人行：当我们又在一起(台)\n\r\n◎片　　名　Friends: The Reunion\n\r\n◎年　　代　2021\n\r\n◎产　　地　美国\n\r\n◎类　　别　喜剧 / 爱情\n\r\n◎语　　言　英语\n\r\n◎上映日期　2021-05-27(美国网络)\n\r\n◎IMDb评分  8.9/10 from 7147 users\n\r\n◎IMDb链接  https://www.imdb.com/title/tt11337862/\n\r\n◎豆瓣评分　9.5/10 from 13615 users\n\r\n◎豆瓣链接　https://movie.douban.com/subject/34908189/\n\r\n◎片　　长　104分钟\n\r\n◎导　　演　本·温斯顿 Ben Winston\n\r\n◎编　　剧　大卫·克拉尼 David Crane / 玛尔塔·考夫曼 Marta Kauffman\n\r\n◎主　　演　詹妮弗·安妮斯顿 Jennifer Aniston\n\r\n　　　　  　柯特妮·考克斯 Courteney Cox\n\r\n　　　　  　马修·派瑞 Matthew Perry\n\r\n　　　　  　大卫·休默 David Schwimmer\n\r\n　　　　  　丽莎·库卓 Lisa Kudrow\n\r\n　　　　  　马特·勒布朗 Matt LeBlanc\n\r\n　　　　  　瑞茜·威瑟斯彭 Reese Witherspoon\n\r\n　　　　  　Lady Gaga\n\r\n　　　　  　大卫·贝克汉姆 David Beckham\n\r\n　　　　  　贾斯汀·比伯 Justin Bieber\n\r\n　　　　  　詹姆斯·柯登 James Corden\n\r\n　　　　  　辛迪·克劳馥 Cindy Crawford\n\r\n　　　　  　卡拉·迪瓦伊 Cara Delevingne\n\r\n　　　　  　埃利奥特·古尔德 Elliott Gould\n\r\n　　　　  　基特·哈灵顿 Kit Harington\n\r\n　　　　  　拉里·哈金 Larry Hankin\n\r\n　　　　  　敏迪·卡灵 Mindy Kaling\n\r\n　　　　  　托马斯·列农 Thomas Lennon\n\r\n　　　　  　克里斯蒂娜·皮克勒斯 Christina Pickles\n\r\n　　　　  　汤姆·塞立克 Tom Selleck\n\r\n　　　　  　詹姆斯·迈克尔·泰勒 James Michael Tyler\n\r\n　　　　  　玛姬·惠勒 Maggie Wheeler\n\r\n　　　　  　马拉拉·尤萨夫扎伊 Malala Yousafzai\n\r\n\r\n◎标　　签　老友记 | Friends | 美剧 | 经典 | 喜剧 | 青春 | 成长 | 温情\n\r\n\r\n◎简　　介\n\r\n\r\n　　美国经典喜剧《老友记》的六位主演詹妮弗·安妮斯顿、柯特妮·考克斯、丽莎·库卓、大卫·休默、马特·勒布朗、马修·派瑞在剧集完结的17年后重新聚首，接受主持人James Corden的采访，回忆拍摄趣事和电视剧对他们的人生影响。\n\r\n\r\n◎文件名称　老友记重聚特辑.Friends.The.Reunion.2021.WEB-DL.MiniHD-TLF.mkv\n\r\n◎文件大小　1.857 GiB\n\r\n◎影片长度　01:43:50.624\n\r\n◎混合码率　2 561 Kbps\n\r\n◎封装时间　UTC 2021-05-28 08:20:39\n\r\n◎MMG版本　mkvmerge v7.3.0 ('Nouages') 32bit built on Oct 22 2014 18:44:01\n\r\n◎视频码率　2 366 Kbps\n\r\n◎视频尺寸　1280 x 672\n\r\n◎画面比例　1.905\n\r\n◎帧　　率　29.970 (30000/1001) fps\n\r\n◎数据密度　0.092\n\r\n◎音轨信息　英语\n\r\n◎字幕信息　CHS / CHT / ENG\n\r\n◎片源采用　Friends.The.Reunion.2021.1080p.HMAX.WEB-DL.DD+5.1.x264-cfandora (1).mkv\n\r\n◎X265版本　x265 3.4+14-gd419c7152:[Windows][GCC 10.2.0][64 bit] 10bit\n\r\n◎X265参数　crf=20.5 / deblock=-3:-3 / ref=6 / bframes=6 / subme=6 / me=3 / merange=48 / cutree /",
@@ -603,20 +617,6 @@
           "enclosure": {
             "url": "https://pt.eastgame.org/download.php?id=44347",
             "length": "1139729182",
-            "type": "application/x-bittorrent"
-          }
-        },
-        {
-          "id": "ad8d37504396ad603b06f2d70733155a81e83c39",
-          "author": "anonymous@pt.eastgame.org (anonymous)",
-          "description": "◎制　　作　onetwothreel @ TLF HALFCD TeaM\n\r\n\n\r\n◎译　　名　速度与激情4/赛车风云/狂野时速4/玩命关头4/Fast and Furious 4\n\r\n◎片　　名　Fast & Furious\n\r\n◎年　　代　2009\n\r\n◎国　　家　美国\n\r\n◎类　　别　动作 / 犯罪\n\r\n◎语　　言　英语\n\r\n◎上映日期　2009-04-03(美国)/2009-04-15(中国大陆)\n\r\n◎IMDb评分　6.6/10 (219,483 votes)\n\r\n◎IMDb链接　http://www.imdb.com/title/tt1013752/\n\r\n◎豆瓣评分　7.6/10 (75,871 votes)\n\r\n◎豆瓣链接　https://movie.douban.com/subject/2132930/\n\r\n◎片　　长　107 分钟\n\r\n◎导　　演　林诣彬 Justin Lin\n\r\n◎主　　演　范·迪塞尔 Vin Diesel\n\r\n　　　　　　保罗·沃克 Paul Walker\n\r\n　　　　　　米歇尔·罗德里格兹 Michelle Rodriguez\n\r\n　　　　　　乔丹娜·布鲁斯特 Jordana Brewster\n\r\n　　　　　　盖尔·加朵 Gal Gadot\n\r\n　　　　　　约翰·奥提兹 John Ortiz\n\r\n　　　　　　拉兹·阿隆索 Laz Alonso\n\r\n　　　　　　谢伊·惠格姆 Shea Whigham\n\r\n　　　　　　莉萨·拉皮拉 Liza Lapira\n\r\n　　　　　　姜成镐 Sung Kang\n\r\n　　　　　　格雷格·西佩斯 Greg Cipes\n\r\n◎简　　介　\n\r\n\r\n　　在《速度与激情1》中，为了逃避警察的追捕，多米尼克（范·迪塞尔 Vin Diesel 饰）离开洛杉矶一直流亡于多米尼加共和国。而一车价值140万美金的石油装载车让蛰伏多年的多米尼克再次驾车驰骋起来。而这时，却传来红颜知己莉迪（米歇尔·罗德里格兹 Michelle Rodriguez 饰）惨死的消息。为了查明真相，满腔怒火的多米尼克再次孤身赶回美国。原来，莉迪是为了获得赦免多米尼克的机会，而协助警局抓捕大毒枭坎波斯（约翰·奥提兹 John Ortiz 饰）。不过出于习惯，坎波斯将运送毒品后的莉迪杀人灭口。这样，一边是为女友报仇的多米尼克，一边是历练多年的警探布莱恩（保罗·沃克 Paul Walker 饰），两人再次携手，目标直指大毒枭巴尔加。一场急速复仇就此展开……\n\r\n\r\n　　《速度与激情4》沿用了第三部东京漂移的华裔导演林诣彬，剧情上跳过第三部，直接承袭第二部，可以说是不折不扣的正统续作。\n\r\n\r\n◎文件名称　速度与激情4.Fast.And.Furious.2009.BD.3Audio.MiniSD-TLF.mkv\n\r\n◎文件大小　774 MiB\n\r\n◎影片长度　01:46:52.459\n\r\n◎混合码率　1 013 kb/s\n\r\n◎封装时间　UTC 2021-05-21 11:24:25\n\r\n◎MMG 版本　mkvmerge v5.2.1 ('A Far Off Place') built on Jan  2 2012 23:21:10\n\r\n◎视频码率　\n\r\n◎视频尺寸　768 x 352\n\r\n◎画面比例　2.40:1\n\r\n◎帧    率　23.976 FPS\n\r\n◎位    深　8 bits\n\r\n◎数据密度　\n\r\n◎音频码率  \n\r\n◎音频编码  AAC LC SBR / AAC LC SBR / AAC LC SBR\n\r\n◎音轨声道  2 声道 / 2 声道 / 2 声道\n\r\n◎音轨信息  国语(北影公映) / 国语(东影上译)\n\r\n◎字幕信息  chs / cht / eng\n\r\n◎字幕采用  \n\r\n◎片源采用  TLF HALFCD TEAM - onetwothreel\n\r\n◎x264版本  x264 core 68 r1179M 96e2229\n\r\n◎x264参数  ref=16 / deblock=1:-2:-1 / me=umh / subme=9 / psy_rd=0.6:0.0 / bframes=4 / rc=crf / crf=22.5 / qcomp=0.60 / aq=1:1.00\n\r\n\r\n◎检验\n\r\n速度与激情4.Fast.And.Furious.2009.BD.3Audio.MiniSD-TLF.mkv\n\r\n大小：811910677\n\r\nMD5 ：1224F5296955A657CE93A31685FB2EF4\n\r\nSHA1：AB3D853B8A785ECDF6D0858F6E4DDD277088A45F",
-          "link": "https://pt.eastgame.org/details.php?id=44331",
-          "publishedOn": "2021-05-21T11:32:29.000Z",
-          "wordCount": 71,
-          "title": "Fast And Furious 2009 BD 3Audio MiniSD-TLF[速度与激情4 [tt1013752][国英双语]][774.30 MB]",
-          "enclosure": {
-            "url": "https://pt.eastgame.org/download.php?id=44331",
-            "length": "811910677",
             "type": "application/x-bittorrent"
           }
         }
