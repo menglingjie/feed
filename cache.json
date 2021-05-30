@@ -103,12 +103,21 @@
       "siteUrl": "https://www.ifanr.com?utm_source=rss&utm_medium=rss&utm_campaign=",
       "articles": [
         {
+          "id": "https://www.ifanr.com/?p=1419807&utm_source=rss&utm_medium=rss&utm_campaign=",
+          "author": "冷思真",
+          "description": "什么是 Manner 咖啡？我现在就带你研究。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
+          "link": "https://www.ifanr.com/1419807?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedOn": "2021-05-30T15:23:24.000Z",
+          "wordCount": 488,
+          "title": "开一家店让附近星巴克客流量减三成，在上海「杀疯了」的 Manner 咖啡到底哪里好？"
+        },
+        {
           "id": "https://www.ifanr.com/?p=1419898&utm_source=rss&utm_medium=rss&utm_campaign=",
           "author": "王志劭",
           "description": "流媒体的下半场较量，拉开帷幕。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
           "link": "https://www.ifanr.com/1419898?utm_source=rss&utm_medium=rss&utm_campaign=",
           "publishedOn": "2021-05-30T13:14:53.000Z",
-          "wordCount": 452,
+          "wordCount": 457,
           "title": "亚马逊与米高梅结合，吹响流媒体下半场较量的号角"
         },
         {
@@ -272,15 +281,6 @@
           "publishedOn": "2021-05-25T13:55:47.000Z",
           "wordCount": 537,
           "title": "2021 款理想 ONE 发布：续航突破 1000km，辅助驾驶大升级，理想的「理想」还有多远？"
-        },
-        {
-          "id": "https://www.ifanr.com/?p=1418893&utm_source=rss&utm_medium=rss&utm_campaign=",
-          "author": "换新言",
-          "description": "Apple Music 里的杜比全景声很有意思。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
-          "link": "https://www.ifanr.com/1418893?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedOn": "2021-05-25T10:13:18.000Z",
-          "wordCount": 477,
-          "title": "iOS 14.6 正式版来了！性能恢复正常，Apple Music 迎来重磅更新"
         }
       ]
     },

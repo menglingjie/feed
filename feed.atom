@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://menglingjie.github.io/REPO_NAME/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-30T14:42:04.761Z</updated>
+    <updated>2021-05-30T15:37:22.201Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://menglingjie.github.io/REPO_NAME/index.html"/>
     <link rel="self" href="https://menglingjie.github.io/REPO_NAME/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[开一家店让附近星巴克客流量减三成，在上海「杀疯了」的 Manner 咖啡到底哪里好？]]></title>
+        <id>https://www.ifanr.com/?p=1419807&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1419807?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-05-30T15:23:24.000Z</updated>
+        <summary type="html"><![CDATA[什么是 Manner 咖啡？我现在就带你研究。
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>冷思真</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[亚马逊与米高梅结合，吹响流媒体下半场较量的号角]]></title>
         <id>https://www.ifanr.com/?p=1419898&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
@@ -1670,22 +1686,6 @@ Thank you @Zenigata]]></summary>
 新浪微博]]></summary>
         <author>
             <name>李超凡</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS 14.6 正式版来了！性能恢复正常，Apple Music 迎来重磅更新]]></title>
-        <id>https://www.ifanr.com/?p=1418893&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
-        <link href="https://www.ifanr.com/1418893?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
-        <updated>2021-05-25T10:13:18.000Z</updated>
-        <summary type="html"><![CDATA[Apple Music 里的杜比全景声很有意思。
-#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博]]></summary>
-        <author>
-            <name>换新言</name>
         </author>
     </entry>
     <entry>
