@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://menglingjie.github.io/REPO_NAME/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-31T12:01:35.423Z</updated>
+    <updated>2021-05-31T14:16:16.579Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://menglingjie.github.io/REPO_NAME/index.html"/>
     <link rel="self" href="https://menglingjie.github.io/REPO_NAME/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OPPO Reno6 Pro 系列体验：让你每张自拍都自带裸妆]]></title>
+        <id>https://www.ifanr.com/?p=1420136&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1420136?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-05-31T13:01:05.000Z</updated>
+        <summary type="html"><![CDATA[一份 OPPO 献给年轻人的夏日毕业礼。
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>王志劭</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Detective.Chinatown.3.2021.BD.MiniSD-TLF[唐人街探案3[5.4][tt10370822]][1.26 GB]]]></title>
         <id>9febacca00a52cbc06d75435d5d0d0e4318a6f69</id>
@@ -1680,23 +1696,6 @@ TRX 划船，可能是价值最高的 TRX 动作，对于完不成引体的人�
 新浪微博]]></summary>
         <author>
             <name>梁梦麟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[早报 | 新 MacBook Pro 或于 6 月推出 / 网易云音乐「人格主导色」刷屏 / 亚马逊收购米高梅]]></title>
-        <id>https://www.ifanr.com/?p=1419290&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
-        <link href="https://www.ifanr.com/1419290?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
-        <updated>2021-05-27T00:53:38.000Z</updated>
-        <summary type="html"><![CDATA[‍• 网易云音乐向港交所提交上市申请书
-• 拼多多年活跃买家数达 8.24 亿
-#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博]]></summary>
-        <author>
-            <name>方嘉文</name>
         </author>
     </entry>
     <entry>
