@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://menglingjie.github.io/REPO_NAME/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-02T13:23:53.445Z</updated>
+    <updated>2021-06-02T15:05:01.582Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://menglingjie.github.io/REPO_NAME/index.html"/>
     <link rel="self" href="https://menglingjie.github.io/REPO_NAME/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[华为 HarmonyOS 正式发布！P50 惊喜亮相，新款 MatePad Pro 还有高通版本]]></title>
+        <id>https://www.ifanr.com/?p=1420533&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1420533?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-06-02T14:23:56.000Z</updated>
+        <summary type="html"><![CDATA[鸿蒙时代开启。
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>换新言</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为新 MatePad Pro 体验：搭载 HarmonyOS 2，体验有何不同？]]></title>
+        <id>https://www.ifanr.com/?p=1420534&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1420534?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-06-02T14:20:38.000Z</updated>
+        <summary type="html"><![CDATA[硬件和系统都焕然一新的 MatePad Pro 是生产力还是「爱奇艺」？
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>爱范儿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Seinfeld.S05.1993.WEB-DL.MiniSD-TLF[宋飞正传 第五季][3.17 GB]]]></title>
         <id>3a8a4c9f322d058f3af12ccdbde14f9589b430f5</id>
@@ -1700,38 +1732,6 @@ SHA1：1756F09FBB14A55AA6D324F7B6B7DC494054D96F]]></summary>
 新浪微博]]></summary>
         <author>
             <name>冷思真</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚马逊与米高梅结合，吹响流媒体下半场较量的号角]]></title>
-        <id>https://www.ifanr.com/?p=1419898&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
-        <link href="https://www.ifanr.com/1419898?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
-        <updated>2021-05-30T13:14:53.000Z</updated>
-        <summary type="html"><![CDATA[流媒体的下半场较量，拉开帷幕。
-#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博]]></summary>
-        <author>
-            <name>王志劭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果 WWDC 最全预测：五大系统齐更新，新 MacBook Pro 马上来了！]]></title>
-        <id>https://www.ifanr.com/?p=1419633&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
-        <link href="https://www.ifanr.com/1419633?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
-        <updated>2021-05-30T02:20:55.000Z</updated>
-        <summary type="html"><![CDATA[新耳机还不来嘛？
-#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博]]></summary>
-        <author>
-            <name>换新言</name>
         </author>
     </entry>
     <entry>
