@@ -295,7 +295,7 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
           "link": "http://www.ruanyifeng.com/blog/2021/05/weekly-issue-160.html",
           "publishedOn": "2021-05-28T00:20:22.000Z",
-          "wordCount": 910,
+          "wordCount": 921,
           "title": "科技爱好者周刊（第 160 期）：中年码农的困境"
         },
         {
@@ -481,6 +481,20 @@
       "siteUrl": "https://pt.eastgame.org",
       "articles": [
         {
+          "id": "dcd682021e56d90f6a1fc484db1a8ed57b272823",
+          "author": "anonymous@pt.eastgame.org (anonymous)",
+          "description": "◎制　　作　Fixxxer @ TLF HALFCD TeaM\n\r\n\n\r\n◎译　　名　海洋奇缘/莫阿娜/摩阿娜/摩瓦娜\n\r\n◎片　　名　Moanadi'si'ni'jing'di\n\r\n◎年　　代　2016\n\r\n◎国　　家　美国\n\r\n◎类　　别　喜剧 / 动画 / 奇幻\n\r\n◎语　　言　英语\n\r\n◎上映日期　2016-11-23(美国)/2016-11-25(中国大陆)\n\r\n◎IMDb评分　7.9/10 (55,464 votes)\n\r\n◎IMDb链接　http://www.imdb.com/title/tt3521164/\n\r\n◎豆瓣评分　7.7/10 (36,456 votes)\n\r\n◎豆瓣链接　https://movie.douban.com/subject/25793398/\n\r\n◎片　　长　107分钟\n\r\n◎导　　演　罗恩·克莱蒙兹 Ron Clements\n\r\n　　　　　　约翰·马斯克 John Musker\n\r\n◎主　　演　奥莉·卡瓦洛 Auli'i Cravalho\n\r\n　　　　　　道恩·强森 Dwayne Johnson\n\r\n　　　　　　艾伦·图代克 Alan Tudyk\n\r\n　　　　　　杰梅奈·克莱门特 Jemaine Clement\n\r\n　　　　　　尼可·斯彻金格 Nicole Scherzinger\n\r\n　　　　　　特穆拉·莫里森 Temuera Morrison\n\r\n　　　　　　瑞切尔·豪斯 Rachel House\n\r\n　　　　　　奥斯卡·凯特利 Oscar Kightley\n\r\n　　　　　　Troy Polamalu\n\r\n◎简　　介　\n\r\n\r\n　　故事最早始于住在风和海的半神毛伊（道恩·强森 Dwayne Johnson 配音），他偷走了女神的特菲堤之心，导致岩浆魔鬼厄卡陷入疯狂的状态，南太平洋各小岛也面临着毁灭的威胁。一千多年后，某座小岛上的酋长女儿莫阿娜（奥丽依·卡拉瓦霍 Auli'i Cravalho 配音）在父母的呵护下渐渐长大，童年时她曾偶然捡到特菲堤之心，亦曾受到大海的召唤，然而父亲却严厉禁止莫阿娜出海，即使小岛正遭受着死亡的威胁。从奶奶那里，莫阿娜知晓了他们这一族人的历史，于是为了拯救小岛，她依然出海去寻找被困在某地的毛伊，好让他归还特菲堤之心。历经千辛万苦，莫阿娜终于见到了这个传说中的高傲自大的半神。而毛伊则担心特菲堤之心带来霉运拒绝前往。\n\r\n\r\n　　只不过在命运的指引下，毛伊还是随着莫阿娜踏上未知的征途……\n\r\n\r\n◎文件名称　海洋奇缘.Moana.2016.BD.4Audio.MiniSD-TLF.mkv\n\r\n◎文件大小　1.26 GiB\n\r\n◎影片长度　01:47:12.939\n\r\n◎混合码率　1 679 kb/s\n\r\n◎封装时间　UTC 2021-06-02 10:44:15\n\r\n◎MMG版本　 mkvmerge v5.2.1 ('A Far Off Place') built on Jan  2 2012 23:21:10\n\r\n◎视频码率　\n\r\n◎视频尺寸　854 x 358\n\r\n◎画面比例　2.40:1\n\r\n◎帧 率　　 23.976 (24000/1001) FPS\n\r\n◎数据密度　\n\r\n◎音轨信息  英语 / 国语(中影公映) / 国语(台配) / 粤语\n\r\n◎字幕信息  简体中文 / 繁体中文 / 英文 / 简英双语 / 繁英双语\n\r\n◎片源采用　Moana.2016.720p.BluRay.x264-SPARKS\n\r\n◎x264版本  x264 core 148 r2638 7599210\n\r\n◎x264参数  ref=8 / deblock=1:0:0 / me=umh / subme=9 / bframes=5 / rc=crf / mbtree=1 / crf=21.0 / qpmin=0 / qpmax=69\n\r\n\r\n◎检验MD5 ：725DFC628D0F6F4229714771AE70A799\n\r\n◎检验SHA1：7DBD19FB800DAEC6EBE6FF5BF14CBA6F895DBE10\n\r\n◎文件大小：1350061515",
+          "link": "https://pt.eastgame.org/details.php?id=44549",
+          "publishedOn": "2021-06-02T10:54:11.000Z",
+          "wordCount": 71,
+          "title": "Moana 2016 BD 4Audio MiniSD-TLF[海洋奇缘 [tt3521164][国英双语]][1.26 GB]",
+          "enclosure": {
+            "url": "https://pt.eastgame.org/download.php?id=44549",
+            "length": "1350061515",
+            "type": "application/x-bittorrent"
+          }
+        },
+        {
           "id": "32245b598f17ef554f745c35d5857351e739ba3c",
           "author": "fixxxer@pt.eastgame.org (fixxxer)",
           "description": "◎制　　作　Fixxxer @ TLF HALFCD TeaM\n\r\n\n\r\n◎译　　名　唐人街探案2\n\r\n◎片　　名　Detective Chinatown 2\n\r\n◎又　　名　唐探2 / Detective Chinatown Vol 2\n\r\n◎年　　代　2018年\n\r\n◎国家/地区 中国大陆\n\r\n◎类　　别  喜剧 / 动作 / 悬疑\n\r\n◎语　　言  汉语普通话 / 英语 / 日语 / 粤语\n\r\n◎上映日期  2018-02-16(中国大陆)\n\r\n◎豆瓣评分　6.6/10 (802424 users)\n\r\n◎豆瓣链接  https://movie.douban.com/subject/26698897/\n\r\n◎IMDb评分　6.1/10 from 1,956 votes\n\r\n◎IMDb链接  https://www.imdb.com/title/tt7752454\n\r\n◎IMDB时长　121 min\n\r\n◎烂 番 茄　54%\n\r\n◎Metascore 48\n\r\n◎分　　级　R\n\r\n◎票　　房　$1,983,984\n\r\n◎片　　长　121分钟\n\r\n◎导　　演　陈思诚 Sicheng Chen\n\r\n◎编　　剧　陈思诚 Sicheng Chen\n\r\n　　　　　　程佳客 Jiake Cheng\n\r\n　　　　　　莲舟 Lianzhou\n\r\n◎主　　演　王宝强 Baoqiang Wang\n\r\n　　　　　　刘昊然 Haoran Liu\n\r\n　　　　　　肖央 Yang Xiao\n\r\n　　　　　　刘承羽 Natasha Liu Bordizzo\n\r\n　　　　　　尚语贤 Yuxian Shang\n\r\n　　　　　　王迅 Xun Wang\n\r\n　　　　　　妻夫木聪 Satoshi Tsumabuki\n\r\n　　　　　　迈克尔·皮特 Michael Pitt\n\r\n　　　　　　白灵 Ling Bai…",
@@ -603,20 +617,6 @@
           "enclosure": {
             "url": "https://pt.eastgame.org/download.php?id=44492",
             "length": "3365194360",
-            "type": "application/x-bittorrent"
-          }
-        },
-        {
-          "id": "2a7b979842317be15d27eb0bb1e88198e8a7f485",
-          "author": "anonymous@pt.eastgame.org (anonymous)",
-          "description": "◎制　　作　GuaiGudu @ TLF HALFCD TeaM\n\r\n\n\r\n◎译　　名　破坏王拉尔夫 / 破坏王大冒险\n\r\n◎片　　名　Wreck-It Ralph\n\r\n◎年　　代　2012\n\r\n◎国　　家　美国\n\r\n◎类　　别　喜剧 / 动画\n\r\n◎语　　言　英语\n\r\n◎IMDB评分 8.0/10 from 42,697 users \n\r\n◎IMDB链接 http://www.imdb.com/title/tt1772341\n\r\n◎片　　长　101 Mins\n\r\n◎导　　演　 瑞奇·摩尔\n\r\n◎主　　演　 简·林奇 / 约翰·C·赖利 / 萨拉·丝沃曼 / 杰克·麦克布瑞尔 / 斯戴芬妮·斯考特 / 贾米·埃曼\n\r\n◎简　　介\n\r\n\r\n　　无敌破坏王（约翰·C·赖利 John C. Reilly 配音）生活在一个80年代出品的低精度游戏中。他的设定身份是一个反派，每天的生活就是在游戏《快手阿修》中大搞破坏，其后由玩家操作的英雄人物快手阿修（杰克·麦克布瑞尔 Jack McBrayer 配音） 会及时赶到进行修补，赢得奖牌，包揽一切荣耀。身为反派，破坏王厌倦了自己的生活，眼看阿修被胜利者的光环围绕，自己却日复一日在无趣中过活，他终于决定改变。单纯的他以为只要自己也能得到一枚奖牌，就可以摆脱反派的身份，于是某日在游戏厅歇业后，破坏王偷偷离开了自己的游戏，前去闯荡其他电子游戏的世界。\n\r\n\r\n　　在途中，破坏王结识了来自《英雄使命》的冷酷队长（简·林奇 Jane Lynch 配音）和来自90年代糖果赛车游戏《甜蜜冲刺》的小女孩云妮（萨拉·丝沃曼 Sarah Silverman 配音）。后者梦想着能上场比赛，但其身份也不允许她梦想成真。破坏王所属的游戏《快手阿修》由于失去了他被认定为系统错误，如不尽快返回，则游戏就会被永久删除；而《甜蜜冲刺》的游戏世界则在悄悄酝酿着一场巨大的、威…",
-          "link": "https://pt.eastgame.org/details.php?id=44477",
-          "publishedOn": "2021-05-30T11:08:28.000Z",
-          "wordCount": 71,
-          "title": "wreck-it ralph 2012 BD 4Audio MniSD-TLF[无敌破坏王 [tt1772341][国英双语]][776.84 MB]",
-          "enclosure": {
-            "url": "https://pt.eastgame.org/download.php?id=44477",
-            "length": "814571927",
             "type": "application/x-bittorrent"
           }
         }
