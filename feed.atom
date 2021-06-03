@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://menglingjie.github.io/REPO_NAME/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-03T13:06:46.192Z</updated>
+    <updated>2021-06-03T14:41:17.164Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://menglingjie.github.io/REPO_NAME/index.html"/>
     <link rel="self" href="https://menglingjie.github.io/REPO_NAME/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HarmonyOS 并不想替代 Android，它的野心比你想象中更大]]></title>
+        <id>https://www.ifanr.com/?p=1420782&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1420782?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-06-03T13:29:40.000Z</updated>
+        <summary type="html"><![CDATA[一文看懂 HarmonyOS。
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>换新言</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Skins.S07.2013.WEB-DL.MiniSD-TLF[皮囊 第七季][1.82 GB]]]></title>
         <id>b251ab06bdafda07d9dce35c3612dcf3b09fc355</id>
@@ -1616,22 +1632,6 @@ wj2，喜欢deadline的女程序猿
 新浪微博]]></summary>
         <author>
             <name>艾 梵</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们还需要 iPod 吗？]]></title>
-        <id>https://www.ifanr.com/?p=1419952&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
-        <link href="https://www.ifanr.com/1419952?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
-        <updated>2021-05-31T05:06:01.000Z</updated>
-        <summary type="html"><![CDATA[好似空穴来风。
-#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博]]></summary>
-        <author>
-            <name>杜沅傧</name>
         </author>
     </entry>
     <entry>
