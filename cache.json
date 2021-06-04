@@ -295,7 +295,7 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
           "link": "http://www.ruanyifeng.com/blog/2021/06/weekly-issue-161.html",
           "publishedOn": "2021-06-04T00:29:26.000Z",
-          "wordCount": 1169,
+          "wordCount": 1183,
           "title": "科技爱好者周刊（第 161 期）：再见了，学术硕士"
         },
         {
@@ -481,6 +481,20 @@
       "siteUrl": "https://pt.eastgame.org",
       "articles": [
         {
+          "id": "5bf5534bfb7755a581ef7dd4177b2d2ce4459928",
+          "author": "wqsyy213@pt.eastgame.org (wqsyy213)",
+          "description": "BBS链接：https://bbs.eastgame.org/viewthread.php?tid=165852\n\r\n◎制　　作　南瓜 @ TLF HALFCD TeaM\n\r\n\n\r\n◎译　　名　宋飞正传  第六季/宋飞外传 第六季\n\r\n◎片　　名　Seinfeld\n\r\n◎年　　代　1994\n\r\n◎国　　家　美国\n\r\n◎类　　别　喜剧\n\r\n◎语　　言　英语\n\r\n◎上映日期　1994-09-22(美国)\n\r\n◎IMDb评分　8.9/10 (222,681 votes)\n\r\n◎IMDb链接　http://www.imdb.com/title/tt0098904/\n\r\n◎豆瓣评分　9.2/10 (916 votes)\n\r\n◎豆瓣链接　https://movie.douban.com/subject/4203791/\n\r\n◎片　　长　22分钟\n\r\n◎导　　演　Art Wolff\n\r\n　　　　　　Tom Cherones\n\r\n　　　　　　安迪·阿克曼 Andy Ackerman\n\r\n　　　　　　David Steinberg\n\r\n◎主　　演　杰瑞·宋飞 Jerry Seinfeld\n\r\n　　　　　　茱莉亚·路易斯-德瑞弗斯 Julia Louis-Dreyfus\n\r\n　　　　　　迈克尔·理查兹 Michael Richards\n\r\n　　　　　　杰森·亚历山大 Jason Alexander\n\r\n◎简　　介　\n\r\n　　A stand-up comedian and his three offbeat friends weather the pitfalls and payoffs of life in New York City in the '90s.\n\r\n\r\n 引用 \n◎文件名称　宋飞正传.Seinfeld.S06E01.1994.WEB-DL.MiniSD-TLF.mkv\n\r\n◎文…",
+          "link": "https://pt.eastgame.org/details.php?id=44604",
+          "publishedOn": "2021-06-04T11:50:17.000Z",
+          "wordCount": 71,
+          "title": "Seinfeld.S06.1994.WEB-DL.MiniSD-TLF[宋飞正传 第六季][3.62 GB]",
+          "enclosure": {
+            "url": "https://pt.eastgame.org/download.php?id=44604",
+            "length": "3885992330",
+            "type": "application/x-bittorrent"
+          }
+        },
+        {
           "id": "16a525e45e257f41ba247185978293504e04768a",
           "author": "anonymous@pt.eastgame.org (anonymous)",
           "description": "◎制　　作　风云潜龙 @ TLF HALFCD TeaM\n\r\n\n\r\n◎译　　名　心灵奇旅\n\r\n◎片　　名　Soul\n\r\n◎又　　名　灵魂奇遇记(港) / 灵魂急转弯(台) / 灵魂 / 心灵\n\r\n◎年　　代　2020年\n\r\n◎国家/地区 美国\n\r\n◎类　　别  动画 / 音乐 / 奇幻\n\r\n◎语　　言  英语\n\r\n◎上映日期  2020-12-25(中国大陆/美国网络) / 2020-10-11(伦敦电影节)\n\r\n◎豆瓣评分　8.8/10 (627912 users)\n\r\n◎豆瓣链接  https://movie.douban.com/subject/24733428/\n\r\n◎IMDb评分　8.1/10 from 183,844 votes\n\r\n◎IMDb链接  https://www.imdb.com/title/tt2948372\n\r\n◎IMDB时长　100 min\n\r\n◎烂 番 茄　\n\r\n◎Metascore 83\n\r\n◎分　　级　PG\n\r\n◎票　　房　N/A\n\r\n◎片　　长　101分钟\n\r\n◎导　　演　彼特·道格特 Pete Docter\n\r\n　　　　　　凯普·鲍尔斯 Kemp Powers\n\r\n◎编　　剧　彼特·道格特 Pete Docter\n\r\n　　　　　　麦克·琼斯 Mike Jones\n\r\n　　　　　　凯普·鲍尔斯 Kemp Powers\n\r\n◎主　　演　杰米·福克斯 Jamie Foxx\n\r\n　　　　　　蒂娜·菲 Tina Fey\n\r\n　　　　　　菲利西亚·拉斯海德 Phylicia Rashad\n\r\n　　　　　　阿米尔-卡利布·汤普森 Ahmir-Khalib Thompson\n\r\n　　　　　　戴维德·迪格斯 Daveed Diggs\n\r\n　　　　　　格拉汉姆·诺顿 Graham Norton\n\r\n　　　　　　瑞切尔·豪斯 Rachel House\n\r\n…",
@@ -603,20 +617,6 @@
           "enclosure": {
             "url": "https://pt.eastgame.org/download.php?id=44549",
             "length": "1350061515",
-            "type": "application/x-bittorrent"
-          }
-        },
-        {
-          "id": "32245b598f17ef554f745c35d5857351e739ba3c",
-          "author": "fixxxer@pt.eastgame.org (fixxxer)",
-          "description": "◎制　　作　Fixxxer @ TLF HALFCD TeaM\n\r\n\n\r\n◎译　　名　唐人街探案2\n\r\n◎片　　名　Detective Chinatown 2\n\r\n◎又　　名　唐探2 / Detective Chinatown Vol 2\n\r\n◎年　　代　2018年\n\r\n◎国家/地区 中国大陆\n\r\n◎类　　别  喜剧 / 动作 / 悬疑\n\r\n◎语　　言  汉语普通话 / 英语 / 日语 / 粤语\n\r\n◎上映日期  2018-02-16(中国大陆)\n\r\n◎豆瓣评分　6.6/10 (802424 users)\n\r\n◎豆瓣链接  https://movie.douban.com/subject/26698897/\n\r\n◎IMDb评分　6.1/10 from 1,956 votes\n\r\n◎IMDb链接  https://www.imdb.com/title/tt7752454\n\r\n◎IMDB时长　121 min\n\r\n◎烂 番 茄　54%\n\r\n◎Metascore 48\n\r\n◎分　　级　R\n\r\n◎票　　房　$1,983,984\n\r\n◎片　　长　121分钟\n\r\n◎导　　演　陈思诚 Sicheng Chen\n\r\n◎编　　剧　陈思诚 Sicheng Chen\n\r\n　　　　　　程佳客 Jiake Cheng\n\r\n　　　　　　莲舟 Lianzhou\n\r\n◎主　　演　王宝强 Baoqiang Wang\n\r\n　　　　　　刘昊然 Haoran Liu\n\r\n　　　　　　肖央 Yang Xiao\n\r\n　　　　　　刘承羽 Natasha Liu Bordizzo\n\r\n　　　　　　尚语贤 Yuxian Shang\n\r\n　　　　　　王迅 Xun Wang\n\r\n　　　　　　妻夫木聪 Satoshi Tsumabuki\n\r\n　　　　　　迈克尔·皮特 Michael Pitt\n\r\n　　　　　　白灵 Ling Bai…",
-          "link": "https://pt.eastgame.org/details.php?id=44539",
-          "publishedOn": "2021-06-02T04:56:49.000Z",
-          "wordCount": 71,
-          "title": "Detective.Chinatown.2.2018.BD.MiniSD-TLF[唐人街探案2[6.1][tt7752454]][1.01 GB]",
-          "enclosure": {
-            "url": "https://pt.eastgame.org/download.php?id=44539",
-            "length": "1080796755",
             "type": "application/x-bittorrent"
           }
         }
