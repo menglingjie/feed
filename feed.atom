@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://menglingjie.github.io/REPO_NAME/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-06T10:56:11.617Z</updated>
+    <updated>2021-06-06T11:49:58.259Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://menglingjie.github.io/REPO_NAME/index.html"/>
     <link rel="self" href="https://menglingjie.github.io/REPO_NAME/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[迪士尼又要造新乐园了，这次是在海上]]></title>
+        <id>https://www.ifanr.com/?p=1421235&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1421235?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-06-06T11:30:05.000Z</updated>
+        <summary type="html"><![CDATA[「愿望号」邮轮来了。
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>吴志奇</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wonder 2017 BD 4Audio MiniSD-TLF[奇迹男孩 [tt2543472][国英双语]][865.86 MB]]]></title>
         <id>64fc72e3890bc274064794aa62a923ff78f56494</id>
@@ -1499,22 +1515,6 @@ SHA1：EC04B5238D3BE8D31E558E19C2377706891AE0D3]]></summary>
 新浪微博]]></summary>
         <author>
             <name>方嘉文</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[万物皆可造的 3D 打印，这次盯上了森林]]></title>
-        <id>https://www.ifanr.com/?p=1420184&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
-        <link href="https://www.ifanr.com/1420184?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
-        <updated>2021-06-01T13:20:44.000Z</updated>
-        <summary type="html"><![CDATA[3D 打印的木桌、木椅、木碗来了
-#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博]]></summary>
-        <author>
-            <name>吴志奇</name>
         </author>
     </entry>
     <entry>
