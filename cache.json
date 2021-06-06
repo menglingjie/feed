@@ -304,7 +304,7 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
           "link": "http://www.ruanyifeng.com/blog/2021/05/weekly-issue-160.html",
           "publishedOn": "2021-05-28T00:20:22.000Z",
-          "wordCount": 980,
+          "wordCount": 992,
           "title": "科技爱好者周刊（第 160 期）：中年码农的困境"
         },
         {
@@ -481,6 +481,20 @@
       "siteUrl": "https://pt.eastgame.org",
       "articles": [
         {
+          "id": "64fc72e3890bc274064794aa62a923ff78f56494",
+          "author": "anonymous@pt.eastgame.org (anonymous)",
+          "description": "◎制　　作　Fixxxer @ TLF HALFCD TeaM\n\r\n\n\r\n◎译　　名　奇迹男孩\n\r\n◎片　　名　Wonder\n\r\n◎年　　代　2017\n\r\n◎国　　家　美国 / 中国香港\n\r\n◎类　　别　剧情 / 儿童 / 家庭\n\r\n◎语　　言　英语\n\r\n◎上映日期　2017-11-17(美国)/2018-01-19(中国大陆)\n\r\n◎IMDb评分　8.0/10 (33,203 votes)\n\r\n◎IMDb链接　http://www.imdb.com/title/tt2543472/\n\r\n◎豆瓣评分　8.6/10 (80,846 votes)\n\r\n◎豆瓣链接　https://movie.douban.com/subject/26787574/\n\r\n◎片　　长　113分钟/114分钟(中国大陆)\n\r\n◎导　　演　斯蒂芬·卓博斯基 Stephen Chbosky\n\r\n◎主　　演　雅各布·特伦布莱 Jacob Tremblay\n\r\n　　　　　　朱莉娅·罗伯茨 Julia Roberts\n\r\n　　　　　　伊扎贝拉·维多维奇 Izabela Vidovic\n\r\n　　　　　　欧文·威尔逊 Owen Wilson\n\r\n　　　　　　诺亚·尤佩 Noah Jupe\n\r\n　　　　　　丹妮尔·罗丝·拉塞尔 Danielle Rose Russell\n\r\n　　　　　　纳吉·杰特 Nadji Jeter\n\r\n　　　　　　戴维德·迪格斯 Daveed Diggs\n\r\n　　　　　　曼迪·帕廷金 Mandy Patinkin\n\r\n　　　　　　布莱斯·吉扎尔 Bryce Gheisar\n\r\n　　　　　　艾尔·麦金农 Elle McKinnon\n\r\n　　　　　　泰·孔西利奥 Ty Consiglio\n\r\n　　　　　　詹姆斯·休斯 James A Hughes\n\r\n　　　　　　凯尔·布瑞特科夫 Kyle Bre…",
+          "link": "https://pt.eastgame.org/details.php?id=44646",
+          "publishedOn": "2021-06-06T10:27:56.000Z",
+          "wordCount": 71,
+          "title": "Wonder 2017 BD 4Audio MiniSD-TLF[奇迹男孩 [tt2543472][国英双语]][865.86 MB]",
+          "enclosure": {
+            "url": "https://pt.eastgame.org/download.php?id=44646",
+            "length": "907917007",
+            "type": "application/x-bittorrent"
+          }
+        },
+        {
           "id": "54a46c0552dadc654b53a434815cf8e6807a8cc7",
           "author": "anonymous@pt.eastgame.org (anonymous)",
           "description": "◎译　　名　招魂3/The Conjuring 3/厉阴宅3：是恶魔逼我的(台)/招魂3：鬼使神差/诡屋惊凶实录3：魔旨(港)\n\r\n◎片　　名　The Conjuring: The Devil Made Me Do It\n\r\n◎年　　代　2021\n\r\n◎产　　地　美国\n\r\n◎类　　别　悬疑 / 惊悚 / 恐怖\n\r\n◎语　　言　葡萄牙语,英语\n\r\n◎上映日期　2021-05-26(英国) / 2021-06-04(美国)\n\r\n◎IMDb评分  7.1/10 from 2434 users\n\r\n◎IMDb链接  https://www.imdb.com/title/tt7069210/\n\r\n◎豆瓣评分　7.7/10 from 348 users\n\r\n◎豆瓣链接　https://movie.douban.com/subject/27077479/\n\r\n◎片　　长　112分钟\n\r\n◎导　　演　迈克尔·查维斯 Michael Chaves\n\r\n◎编　　剧　大卫·莱斯利·约翰逊-麦戈德里克 David Leslie Johnson-McGoldrick / 温子仁 James Wan\n\r\n◎主　　演　维拉·法米加 Vera Farmiga\n\r\n　　　　  　帕特里克·威尔森 Patrick Wilson\n\r\n　　　　  　朱利安·希威德 Julian Hilliard\n\r\n　　　　  　山农·库克 Shannon Kook\n\r\n　　　　  　欧根妮·邦杜兰特 Eugenie Bondurant\n\r\n　　　　  　斯特林·杰里斯 Sterling Jerins\n\r\n　　　　  　夏洛林·阿莫亚 Charlene Amoia\n\r\n　　　　  　卢瑞·奥康纳 Ruairi O'Connor\n\r\n　　　　  　米切尔·霍格 Mitchell Hoog\n\r\n　　　　  　英格丽·比苏 Ingri…",
@@ -603,20 +617,6 @@
           "enclosure": {
             "url": "https://pt.eastgame.org/download.php?id=44606",
             "length": "2211294104",
-            "type": "application/x-bittorrent"
-          }
-        },
-        {
-          "id": "5bf5534bfb7755a581ef7dd4177b2d2ce4459928",
-          "author": "wqsyy213@pt.eastgame.org (wqsyy213)",
-          "description": "BBS链接：https://bbs.eastgame.org/viewthread.php?tid=165852\n\r\n◎制　　作　南瓜 @ TLF HALFCD TeaM\n\r\n\n\r\n◎译　　名　宋飞正传  第六季/宋飞外传 第六季\n\r\n◎片　　名　Seinfeld\n\r\n◎年　　代　1994\n\r\n◎国　　家　美国\n\r\n◎类　　别　喜剧\n\r\n◎语　　言　英语\n\r\n◎上映日期　1994-09-22(美国)\n\r\n◎IMDb评分　8.9/10 (222,681 votes)\n\r\n◎IMDb链接　http://www.imdb.com/title/tt0098904/\n\r\n◎豆瓣评分　9.2/10 (916 votes)\n\r\n◎豆瓣链接　https://movie.douban.com/subject/4203791/\n\r\n◎片　　长　22分钟\n\r\n◎导　　演　Art Wolff\n\r\n　　　　　　Tom Cherones\n\r\n　　　　　　安迪·阿克曼 Andy Ackerman\n\r\n　　　　　　David Steinberg\n\r\n◎主　　演　杰瑞·宋飞 Jerry Seinfeld\n\r\n　　　　　　茱莉亚·路易斯-德瑞弗斯 Julia Louis-Dreyfus\n\r\n　　　　　　迈克尔·理查兹 Michael Richards\n\r\n　　　　　　杰森·亚历山大 Jason Alexander\n\r\n◎简　　介　\n\r\n　　A stand-up comedian and his three offbeat friends weather the pitfalls and payoffs of life in New York City in the '90s.\n\r\n\r\n 引用 \n◎文件名称　宋飞正传.Seinfeld.S06E01.1994.WEB-DL.MiniSD-TLF.mkv\n\r\n◎文…",
-          "link": "https://pt.eastgame.org/details.php?id=44604",
-          "publishedOn": "2021-06-04T11:50:17.000Z",
-          "wordCount": 71,
-          "title": "Seinfeld.S06.1994.WEB-DL.MiniSD-TLF[宋飞正传 第六季][3.62 GB]",
-          "enclosure": {
-            "url": "https://pt.eastgame.org/download.php?id=44604",
-            "length": "3885992330",
             "type": "application/x-bittorrent"
           }
         }
