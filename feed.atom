@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://menglingjie.github.io/REPO_NAME/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-07T11:55:13.524Z</updated>
+    <updated>2021-06-07T13:14:35.240Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://menglingjie.github.io/REPO_NAME/index.html"/>
     <link rel="self" href="https://menglingjie.github.io/REPO_NAME/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[利路修代言、生椰拿铁断货……慢下来的瑞幸活得还挺好？]]></title>
+        <id>https://www.ifanr.com/?p=1420904&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1420904?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-06-07T13:02:01.000Z</updated>
+        <summary type="html"><![CDATA[瑞幸当然不算一个好榜样，但它展示了一种新消费品牌的典型。
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>张成晨</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[特斯拉宣布 Model S Plaid Plus 已被取消，理由竟是 Plaid 太强大了？]]></title>
         <id>https://www.ifanr.com/?p=1421500&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
@@ -1699,22 +1715,6 @@ Ollie 平时长这样（ins：@khan_amon_ra）
 新浪微博]]></summary>
         <author>
             <name>方嘉文</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华为 HarmonyOS 正式发布！P50 惊喜亮相，新款 MatePad Pro 还有高通版本]]></title>
-        <id>https://www.ifanr.com/?p=1420533&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
-        <link href="https://www.ifanr.com/1420533?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
-        <updated>2021-06-02T14:23:56.000Z</updated>
-        <summary type="html"><![CDATA[鸿蒙时代开启。
-#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博]]></summary>
-        <author>
-            <name>换新言</name>
         </author>
     </entry>
     <entry>

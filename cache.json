@@ -94,12 +94,21 @@
       "siteUrl": "https://www.ifanr.com?utm_source=rss&utm_medium=rss&utm_campaign=",
       "articles": [
         {
+          "id": "https://www.ifanr.com/?p=1420904&utm_source=rss&utm_medium=rss&utm_campaign=",
+          "author": "张成晨",
+          "description": "瑞幸当然不算一个好榜样，但它展示了一种新消费品牌的典型。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
+          "link": "https://www.ifanr.com/1420904?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedOn": "2021-06-07T13:02:01.000Z",
+          "wordCount": 450,
+          "title": "利路修代言、生椰拿铁断货……慢下来的瑞幸活得还挺好？"
+        },
+        {
           "id": "https://www.ifanr.com/?p=1421500&utm_source=rss&utm_medium=rss&utm_campaign=",
           "author": "李华",
           "description": "马斯克：「它没有存在的必要。」\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
           "link": "https://www.ifanr.com/1421500?utm_source=rss&utm_medium=rss&utm_campaign=",
           "publishedOn": "2021-06-07T11:43:58.000Z",
-          "wordCount": 300,
+          "wordCount": 301,
           "title": "特斯拉宣布 Model S Plaid Plus 已被取消，理由竟是 Plaid 太强大了？"
         },
         {
@@ -263,15 +272,6 @@
           "publishedOn": "2021-06-03T00:56:32.000Z",
           "wordCount": 594,
           "title": "早报 | 华为发布正式版 HarmonyOS 2 / 苹果是美国最赚钱的公司 / 特斯拉开通法务部微博"
-        },
-        {
-          "id": "https://www.ifanr.com/?p=1420533&utm_source=rss&utm_medium=rss&utm_campaign=",
-          "author": "换新言",
-          "description": "鸿蒙时代开启。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
-          "link": "https://www.ifanr.com/1420533?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedOn": "2021-06-02T14:23:56.000Z",
-          "wordCount": 680,
-          "title": "华为 HarmonyOS 正式发布！P50 惊喜亮相，新款 MatePad Pro 还有高通版本"
         }
       ]
     },
