@@ -94,12 +94,21 @@
       "siteUrl": "https://www.ifanr.com?utm_source=rss&utm_medium=rss&utm_campaign=",
       "articles": [
         {
+          "id": "https://www.ifanr.com/?p=1421500&utm_source=rss&utm_medium=rss&utm_campaign=",
+          "author": "李华",
+          "description": "马斯克：「它没有存在的必要。」\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
+          "link": "https://www.ifanr.com/1421500?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedOn": "2021-06-07T11:43:58.000Z",
+          "wordCount": 300,
+          "title": "特斯拉宣布 Model S Plaid Plus 已被取消，理由竟是 Plaid 太强大了？"
+        },
+        {
           "id": "https://www.ifanr.com/?p=1421460&utm_source=rss&utm_medium=rss&utm_campaign=",
           "author": "李华",
           "description": "你还在用Firefox吗？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
           "link": "https://www.ifanr.com/1421460?utm_source=rss&utm_medium=rss&utm_campaign=",
           "publishedOn": "2021-06-07T08:53:56.000Z",
-          "wordCount": 287,
+          "wordCount": 300,
           "title": "Firefox 89 发布，UI 设计成升级重点"
         },
         {
@@ -180,7 +189,7 @@
           "description": "甚至还能空翻？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
           "link": "https://www.ifanr.com/1420813?utm_source=rss&utm_medium=rss&utm_campaign=",
           "publishedOn": "2021-06-04T08:41:03.000Z",
-          "wordCount": 231,
+          "wordCount": 234,
           "title": "旋转、跳跃，腾讯这款机器人都能做到，就差闭着眼了"
         },
         {
@@ -189,7 +198,7 @@
           "description": "下一代 Windows 会变得更好看吗？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
           "link": "https://www.ifanr.com/1421065?utm_source=rss&utm_medium=rss&utm_campaign=",
           "publishedOn": "2021-06-04T08:31:06.000Z",
-          "wordCount": 303,
+          "wordCount": 313,
           "title": "新一代 Windows 即将发布，或将命名为 Windows 11"
         },
         {
@@ -234,7 +243,7 @@
           "description": "这半年来，苹果的日子貌似不太好过。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
           "link": "https://www.ifanr.com/1420754?utm_source=rss&utm_medium=rss&utm_campaign=",
           "publishedOn": "2021-06-03T07:54:00.000Z",
-          "wordCount": 248,
+          "wordCount": 255,
           "title": "多名高管离职，苹果汽车何时才能面世？"
         },
         {
@@ -263,15 +272,6 @@
           "publishedOn": "2021-06-02T14:23:56.000Z",
           "wordCount": 680,
           "title": "华为 HarmonyOS 正式发布！P50 惊喜亮相，新款 MatePad Pro 还有高通版本"
-        },
-        {
-          "id": "https://www.ifanr.com/?p=1420534&utm_source=rss&utm_medium=rss&utm_campaign=",
-          "author": "爱范儿",
-          "description": "硬件和系统都焕然一新的 MatePad Pro 是生产力还是「爱奇艺」？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
-          "link": "https://www.ifanr.com/1420534?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedOn": "2021-06-02T14:20:38.000Z",
-          "wordCount": 409,
-          "title": "华为新 MatePad Pro 体验：搭载 HarmonyOS 2，体验有何不同？"
         }
       ]
     },
@@ -472,6 +472,20 @@
       "siteUrl": "https://pt.eastgame.org",
       "articles": [
         {
+          "id": "8753f9510a747c6be1bde7c51640800247f1a865",
+          "author": "anonymous@pt.eastgame.org (anonymous)",
+          "description": "◎制　　作　lu90 @ TLF HALFCD TeaM\n\r\n\n\r\n◎译　　名　P与JK / Policeman and Me / 警察与女子高生 / 警察和我\n\r\n◎片　　名　PとJK\n\r\n◎年　　代　2017\n\r\n◎产　　地　日本\n\r\n◎类　　别　喜剧 / 爱情\n\r\n◎语　　言　日语\n\r\n◎上映日期　2017-03-25(日本)\n\r\n◎IMDb评分  5.5/10 from 172 users\n\r\n◎IMDb链接  http://www.imdb.com/title/tt5701132\n\r\n◎豆瓣评分　5.1/10 from 4466 users\n\r\n◎豆瓣链接　https://movie.douban.com/subject/26788605/\n\r\n◎片　　长　124分钟\n\r\n◎导　　演　广木隆一 Ryuichi Hiroki\n\r\n◎编　　剧　吉川菜美 Nami Yoshikawa / 三次真纪 Maki Miyoshi\n\r\n◎主　　演　龟梨和也 Kazuya Kamenashi\n\r\n　　　　　　土屋太凤 Tao Tsuchiya\n\r\n　　　　　　高杉真宙 Mahiro Takasugi\n\r\n　　　　　　玉城蒂娜 Tina Tamashiro\n\r\n　　　　　　西畑大吾 Daigo Nishihata\n\r\n　　　　　　村上淳 Jun Murakami\n\r\n　　　　　　友坂理惠 Rie Tomosaka\n\r\n　　　　　　大政绚 Aya Ohmasa\n\r\n　　　　　　田口智朗 Tomorowo Taguchi\n\r\n\r\n\r\n◎标　　签　日本 | 爱情 | 漫画改编 | 2017 | 青春 | 校园 | 纯爱 | 真人化\n\r\n\r\n◎简　　介  \n\r\n\r\n　　女高中生本谷歌子（土屋太凤 饰）天真烂漫，有一次她虚报年龄和好友矢口三门（玉城蒂娜 饰）及其他姐妹参加了联谊活动。酒席上，不善言辞的冷面帅哥佐贺野功太（龟梨和也 饰）帮她解了围，事后借着酒劲儿，功太向身边的女孩表达了希望更进一步交往的想法。可当歌子把真实年龄说出来时，攻太却转热为冷，扬长而去。次日，歌子和好友遭到一名警察的盘问。令歌子她们惊讶的是，对方居然正是佐贺野功太。功太现年23岁，是音尾警察局地域课的巡查长。他刻意和未成年的歌子保持距离，并且警告女孩们要注意附近出没的变态。未过多久，歌子果然遭到变态纠缠。危机时刻，功太出手相助。似乎借着这件事，歌子开始转变对功太无情冷漠的看法，她无可救药落入了爱河之中。\n\r\n本片根据三次真纪的同名漫画改编。\n\r\n\r\n◎文件名称　P与JK.Policeman.and.Me.2017.BD.2Audio.MiniSD-TLF.mkv\n\r\n◎文件大小　890 MiB\n\r\n◎影片长度　02:04:16.982\n\r\n◎混合码率　1 001 kb/s\n\r\n◎封装时间　UTC 2021-06-07 11:06:58\n\r\n◎MMG版本　 mkvmerge v5.2.1 ('A Far Off Place') built on Jan  2 2012 23:21:10\n\r\n◎视频码率　\n\r\n◎视频尺寸　854 x 462\n\r\n◎画面比例　1.85:1\n\r\n◎帧 率　　 23.976 (24000/1001) FPS\n\r\n◎数据密度　\n\r\n◎音轨信息  国语(台配)\n\r\n◎字幕信息  简体中文 chs / 繁體中文 cht / 英文 eng\n\r\n◎片源采用　\n\r\n◎x264版本  x264 core 157 r2935 545de2f\n\r\n◎x264参数  ref=8 / deblock=1:-1:-1 / me=umh / subme=10 / bframes=8 / rc=crf / mbtree=1 / crf=21.0 / qpmin=0 / qpmax=69\n\r\n\r\n◎检验MD5 ：D1B3526C22AC007B107F856C0D78A9BD\n\r\n◎检验SHA1：DBE35BCA87B5D53A45D20C58CB1B34C439473BB0\n\r\n◎文件大小：933447867",
+          "link": "https://pt.eastgame.org/details.php?id=44673",
+          "publishedOn": "2021-06-07T11:17:47.000Z",
+          "wordCount": 71,
+          "title": "Policeman and Me 2017 BD 2Audio MiniSD-TLF[P与JK [tt5701132][国日双语]][890.21 MB]",
+          "enclosure": {
+            "url": "https://pt.eastgame.org/download.php?id=44673",
+            "length": "933447867",
+            "type": "application/x-bittorrent"
+          }
+        },
+        {
           "id": "19beaf895e86c2a84fd697fef804f3aca594d406",
           "author": "fixxxer@pt.eastgame.org (fixxxer)",
           "description": "◎制　　作　Fixxxer @ TLF HALFCD TeaM\n\r\n\n\r\n◎译　　名　行骗天下JP：公主篇\n\r\n◎片　　名　The Confidence Man JP: Princess\n\r\n◎又　　名　信用欺詐師JP：公主篇(港) / 行骗天下 剧场版：公主篇 / コンフィデンスマンJP 続編\n\r\n◎年　　代　2020年\n\r\n◎国家/地区 日本\n\r\n◎类　　别  剧情 / 喜剧\n\r\n◎语　　言  日语\n\r\n◎上映日期  2020-07-23(日本)\n\r\n◎豆瓣评分　7.3/10 (26229 users)\n\r\n◎豆瓣链接  https://movie.douban.com/subject/33476040/\n\r\n◎IMDb评分　6.6/10 from 615 votes\n\r\n◎IMDb链接  https://www.imdb.com/title/tt12767996\n\r\n◎IMDB时长　124 min\n\r\n◎烂 番 茄　\n\r\n◎Metascore N/A\n\r\n◎分　　级　N/A\n\r\n◎票　　房　N/A\n\r\n◎片　　长　124分钟\n\r\n◎导　　演　田中亮 Ryô Tanaka\n\r\n◎编　　剧　古泽良太 Ryota Kosawa\n\r\n◎主　　演　长泽雅美 Masami Nagasawa\n\r\n　　　　　　东出昌大 Masahiro Higashide\n\r\n　　　　　　小日向文世 Fumiyo Kohinata\n\r\n　　　　　　白滨亚岚 Alan Shirahama\n\r\n　　　　　　关水渚 Nagisa Sekimizu\n\r\n　　　　　　古川雄大 Yuta Furukawa\n\r\n　　　　　　柴田恭兵 Kyôhei Shibata\n\r\n　　　　　　北大路欣也 Kinya Kitaoji\n\r\n　　　　　　三浦春马 Haruma Miura\n\r\n　　　　　　竹内结子 Yûko Take…",
@@ -594,20 +608,6 @@
           "enclosure": {
             "url": "https://pt.eastgame.org/download.php?id=44651",
             "length": "1069728603",
-            "type": "application/x-bittorrent"
-          }
-        },
-        {
-          "id": "64fc72e3890bc274064794aa62a923ff78f56494",
-          "author": "anonymous@pt.eastgame.org (anonymous)",
-          "description": "◎制　　作　Fixxxer @ TLF HALFCD TeaM\n\r\n\n\r\n◎译　　名　奇迹男孩\n\r\n◎片　　名　Wonder\n\r\n◎年　　代　2017\n\r\n◎国　　家　美国 / 中国香港\n\r\n◎类　　别　剧情 / 儿童 / 家庭\n\r\n◎语　　言　英语\n\r\n◎上映日期　2017-11-17(美国)/2018-01-19(中国大陆)\n\r\n◎IMDb评分　8.0/10 (33,203 votes)\n\r\n◎IMDb链接　http://www.imdb.com/title/tt2543472/\n\r\n◎豆瓣评分　8.6/10 (80,846 votes)\n\r\n◎豆瓣链接　https://movie.douban.com/subject/26787574/\n\r\n◎片　　长　113分钟/114分钟(中国大陆)\n\r\n◎导　　演　斯蒂芬·卓博斯基 Stephen Chbosky\n\r\n◎主　　演　雅各布·特伦布莱 Jacob Tremblay\n\r\n　　　　　　朱莉娅·罗伯茨 Julia Roberts\n\r\n　　　　　　伊扎贝拉·维多维奇 Izabela Vidovic\n\r\n　　　　　　欧文·威尔逊 Owen Wilson\n\r\n　　　　　　诺亚·尤佩 Noah Jupe\n\r\n　　　　　　丹妮尔·罗丝·拉塞尔 Danielle Rose Russell\n\r\n　　　　　　纳吉·杰特 Nadji Jeter\n\r\n　　　　　　戴维德·迪格斯 Daveed Diggs\n\r\n　　　　　　曼迪·帕廷金 Mandy Patinkin\n\r\n　　　　　　布莱斯·吉扎尔 Bryce Gheisar\n\r\n　　　　　　艾尔·麦金农 Elle McKinnon\n\r\n　　　　　　泰·孔西利奥 Ty Consiglio\n\r\n　　　　　　詹姆斯·休斯 James A Hughes\n\r\n　　　　　　凯尔·布瑞特科夫 Kyle Bre…",
-          "link": "https://pt.eastgame.org/details.php?id=44646",
-          "publishedOn": "2021-06-06T10:27:56.000Z",
-          "wordCount": 71,
-          "title": "Wonder 2017 BD 4Audio MiniSD-TLF[奇迹男孩 [tt2543472][国英双语]][865.86 MB]",
-          "enclosure": {
-            "url": "https://pt.eastgame.org/download.php?id=44646",
-            "length": "907917007",
             "type": "application/x-bittorrent"
           }
         }
