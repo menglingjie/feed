@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://menglingjie.github.io/REPO_NAME/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-07T13:14:35.240Z</updated>
+    <updated>2021-06-07T14:48:23.392Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://menglingjie.github.io/REPO_NAME/index.html"/>
     <link rel="self" href="https://menglingjie.github.io/REPO_NAME/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[USB-C 接口支持 240W 供电后，它会一统快充江湖吗？]]></title>
+        <id>https://www.ifanr.com/?p=1421179&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1421179?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-06-07T14:12:12.000Z</updated>
+        <summary type="html"><![CDATA[未来接口押宝在 USB-C 上了。
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>杜沅傧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[利路修代言、生椰拿铁断货……慢下来的瑞幸活得还挺好？]]></title>
         <id>https://www.ifanr.com/?p=1420904&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
@@ -1698,23 +1714,6 @@ Ollie 平时长这样（ins：@khan_amon_ra）
 新浪微博]]></summary>
         <author>
             <name>周宇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[早报 | 华为发布正式版 HarmonyOS 2 / 苹果是美国最赚钱的公司 / 特斯拉开通法务部微博]]></title>
-        <id>https://www.ifanr.com/?p=1420629&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
-        <link href="https://www.ifanr.com/1420629?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
-        <updated>2021-06-03T00:56:32.000Z</updated>
-        <summary type="html"><![CDATA[‍• 世卫用希腊字母命名变异病毒，避免污名化
-• TOP TOY 上海环球港潮玩梦工厂店单日营业额超百万
-#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博]]></summary>
-        <author>
-            <name>方嘉文</name>
         </author>
     </entry>
     <entry>
