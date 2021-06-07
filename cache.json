@@ -94,12 +94,21 @@
       "siteUrl": "https://www.ifanr.com?utm_source=rss&utm_medium=rss&utm_campaign=",
       "articles": [
         {
+          "id": "https://www.ifanr.com/?p=1421460&utm_source=rss&utm_medium=rss&utm_campaign=",
+          "author": "李华",
+          "description": "你还在用Firefox吗？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
+          "link": "https://www.ifanr.com/1421460?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedOn": "2021-06-07T08:53:56.000Z",
+          "wordCount": 287,
+          "title": "Firefox 89 发布，UI 设计成升级重点"
+        },
+        {
           "id": "https://www.ifanr.com/?p=1421110&utm_source=rss&utm_medium=rss&utm_campaign=",
           "author": "王志劭",
           "description": "新品不多，但惊喜不少。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
           "link": "https://www.ifanr.com/1421110?utm_source=rss&utm_medium=rss&utm_campaign=",
           "publishedOn": "2021-06-07T02:03:32.000Z",
-          "wordCount": 717,
+          "wordCount": 723,
           "title": "Computex 2021 首周新品汇总：N 卡出新，AMD 全面开花，英特尔继续挤牙膏"
         },
         {
@@ -171,7 +180,7 @@
           "description": "甚至还能空翻？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
           "link": "https://www.ifanr.com/1420813?utm_source=rss&utm_medium=rss&utm_campaign=",
           "publishedOn": "2021-06-04T08:41:03.000Z",
-          "wordCount": 228,
+          "wordCount": 231,
           "title": "旋转、跳跃，腾讯这款机器人都能做到，就差闭着眼了"
         },
         {
@@ -225,7 +234,7 @@
           "description": "这半年来，苹果的日子貌似不太好过。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
           "link": "https://www.ifanr.com/1420754?utm_source=rss&utm_medium=rss&utm_campaign=",
           "publishedOn": "2021-06-03T07:54:00.000Z",
-          "wordCount": 249,
+          "wordCount": 248,
           "title": "多名高管离职，苹果汽车何时才能面世？"
         },
         {
@@ -263,15 +272,6 @@
           "publishedOn": "2021-06-02T14:20:38.000Z",
           "wordCount": 409,
           "title": "华为新 MatePad Pro 体验：搭载 HarmonyOS 2，体验有何不同？"
-        },
-        {
-          "id": "https://www.ifanr.com/?p=1420497&utm_source=rss&utm_medium=rss&utm_campaign=",
-          "author": "李华",
-          "description": "当游戏本越来越轻薄。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
-          "link": "https://www.ifanr.com/1420497?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedOn": "2021-06-02T07:24:57.000Z",
-          "wordCount": 351,
-          "title": "Alienware 新一代 X 系列游戏本发布，「轻薄」是其一大亮点"
         }
       ]
     },
@@ -286,7 +286,7 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
           "link": "http://www.ruanyifeng.com/blog/2021/06/weekly-issue-161.html",
           "publishedOn": "2021-06-04T00:29:26.000Z",
-          "wordCount": 1455,
+          "wordCount": 1465,
           "title": "科技爱好者周刊（第 161 期）：再见了，学术硕士"
         },
         {
@@ -472,6 +472,20 @@
       "siteUrl": "https://pt.eastgame.org",
       "articles": [
         {
+          "id": "19beaf895e86c2a84fd697fef804f3aca594d406",
+          "author": "fixxxer@pt.eastgame.org (fixxxer)",
+          "description": "◎制　　作　Fixxxer @ TLF HALFCD TeaM\n\r\n\n\r\n◎译　　名　行骗天下JP：公主篇\n\r\n◎片　　名　The Confidence Man JP: Princess\n\r\n◎又　　名　信用欺詐師JP：公主篇(港) / 行骗天下 剧场版：公主篇 / コンフィデンスマンJP 続編\n\r\n◎年　　代　2020年\n\r\n◎国家/地区 日本\n\r\n◎类　　别  剧情 / 喜剧\n\r\n◎语　　言  日语\n\r\n◎上映日期  2020-07-23(日本)\n\r\n◎豆瓣评分　7.3/10 (26229 users)\n\r\n◎豆瓣链接  https://movie.douban.com/subject/33476040/\n\r\n◎IMDb评分　6.6/10 from 615 votes\n\r\n◎IMDb链接  https://www.imdb.com/title/tt12767996\n\r\n◎IMDB时长　124 min\n\r\n◎烂 番 茄　\n\r\n◎Metascore N/A\n\r\n◎分　　级　N/A\n\r\n◎票　　房　N/A\n\r\n◎片　　长　124分钟\n\r\n◎导　　演　田中亮 Ryô Tanaka\n\r\n◎编　　剧　古泽良太 Ryota Kosawa\n\r\n◎主　　演　长泽雅美 Masami Nagasawa\n\r\n　　　　　　东出昌大 Masahiro Higashide\n\r\n　　　　　　小日向文世 Fumiyo Kohinata\n\r\n　　　　　　白滨亚岚 Alan Shirahama\n\r\n　　　　　　关水渚 Nagisa Sekimizu\n\r\n　　　　　　古川雄大 Yuta Furukawa\n\r\n　　　　　　柴田恭兵 Kyôhei Shibata\n\r\n　　　　　　北大路欣也 Kinya Kitaoji\n\r\n　　　　　　三浦春马 Haruma Miura\n\r\n　　　　　　竹内结子 Yûko Take…",
+          "link": "https://pt.eastgame.org/details.php?id=44672",
+          "publishedOn": "2021-06-07T09:14:55.000Z",
+          "wordCount": 71,
+          "title": "The.Confidence.Man.JP.Princess.2020.BD.MiniSD-TLF[行骗天下JP.公主篇[6.6][tt12767996]][1.10 GB]",
+          "enclosure": {
+            "url": "https://pt.eastgame.org/download.php?id=44672",
+            "length": "1181183470",
+            "type": "application/x-bittorrent"
+          }
+        },
+        {
           "id": "e47b6a56c5005ff0dc1e0bc690740579bcd96ad6",
           "author": "wqsyy213@pt.eastgame.org (wqsyy213)",
           "description": "BBS链接：https://bbs.eastgame.org/viewthread.php?tid=165886\n\r\n◎制　　作　南瓜 @ TLF HALFCD TeaM\n\r\n\n\r\n◎译　　名　宋飞正传 第九季/宋飞外传 第九季\n\r\n◎片　　名　Seinfeld\n\r\n◎年　　代　1997\n\r\n◎国　　家　美国\n\r\n◎类　　别　喜剧\n\r\n◎语　　言　英语\n\r\n◎上映日期　1997-09-25(美国)\n\r\n◎IMDb评分　8.9/10 (222,681 votes)\n\r\n◎IMDb链接　http://www.imdb.com/title/tt0098904/\n\r\n◎豆瓣评分　9.4/10 (920 votes)\n\r\n◎豆瓣链接　https://movie.douban.com/subject/4203806/\n\r\n◎片　　长　30分钟\n\r\n◎导　　演　\n\r\n◎主　　演　杰瑞·宋飞 Jerry Seinfeld\n\r\n　　　　　　茱莉亚·路易斯-德瑞弗斯 Julia Louis-Dreyfus\n\r\n　　　　　　迈克尔·理查兹 Michael Richards\n\r\n　　　　　　杰森·亚历山大 Jason Alexander\n\r\n◎简　　介　\n\r\n　　A stand-up comedian and his three offbeat friends weather the pitfalls and payoffs of life in New York City in the '90s.\n\r\n\r\n 引用 \n◎文件名称　宋飞正传.Seinfeld.S09E01.1997.WEB-DL.MiniSD-TLF.mkv\n\r\n◎文件大小　144.3 MiB\n\r\n◎影片长度　00:22:46.175\n\r\n◎混合码率　886 Kbps\n\r\n◎封装时间　UTC 2019-05-11 04:44:54\n…",
@@ -594,20 +608,6 @@
           "enclosure": {
             "url": "https://pt.eastgame.org/download.php?id=44646",
             "length": "907917007",
-            "type": "application/x-bittorrent"
-          }
-        },
-        {
-          "id": "54a46c0552dadc654b53a434815cf8e6807a8cc7",
-          "author": "anonymous@pt.eastgame.org (anonymous)",
-          "description": "◎译　　名　招魂3/The Conjuring 3/厉阴宅3：是恶魔逼我的(台)/招魂3：鬼使神差/诡屋惊凶实录3：魔旨(港)\n\r\n◎片　　名　The Conjuring: The Devil Made Me Do It\n\r\n◎年　　代　2021\n\r\n◎产　　地　美国\n\r\n◎类　　别　悬疑 / 惊悚 / 恐怖\n\r\n◎语　　言　葡萄牙语,英语\n\r\n◎上映日期　2021-05-26(英国) / 2021-06-04(美国)\n\r\n◎IMDb评分  7.1/10 from 2434 users\n\r\n◎IMDb链接  https://www.imdb.com/title/tt7069210/\n\r\n◎豆瓣评分　7.7/10 from 348 users\n\r\n◎豆瓣链接　https://movie.douban.com/subject/27077479/\n\r\n◎片　　长　112分钟\n\r\n◎导　　演　迈克尔·查维斯 Michael Chaves\n\r\n◎编　　剧　大卫·莱斯利·约翰逊-麦戈德里克 David Leslie Johnson-McGoldrick / 温子仁 James Wan\n\r\n◎主　　演　维拉·法米加 Vera Farmiga\n\r\n　　　　  　帕特里克·威尔森 Patrick Wilson\n\r\n　　　　  　朱利安·希威德 Julian Hilliard\n\r\n　　　　  　山农·库克 Shannon Kook\n\r\n　　　　  　欧根妮·邦杜兰特 Eugenie Bondurant\n\r\n　　　　  　斯特林·杰里斯 Sterling Jerins\n\r\n　　　　  　夏洛林·阿莫亚 Charlene Amoia\n\r\n　　　　  　卢瑞·奥康纳 Ruairi O'Connor\n\r\n　　　　  　米切尔·霍格 Mitchell Hoog\n\r\n　　　　  　英格丽·比苏 Ingri…",
-          "link": "https://pt.eastgame.org/details.php?id=44641",
-          "publishedOn": "2021-06-06T05:42:25.000Z",
-          "wordCount": 71,
-          "title": "The Conjuring The Devil Made Me Do It 2021 WEBRip HEVC 10Bit MiniHD-TLF[招魂3/厉阴宅3：是恶魔逼我的(台)/招魂3：鬼使神差/诡屋惊凶实录3：魔旨(港) [7.1][tt7069210]][1.19 GB]",
-          "enclosure": {
-            "url": "https://pt.eastgame.org/download.php?id=44641",
-            "length": "1273739763",
             "type": "application/x-bittorrent"
           }
         }
