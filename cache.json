@@ -94,12 +94,30 @@
       "siteUrl": "https://www.ifanr.com?utm_source=rss&utm_medium=rss&utm_campaign=",
       "articles": [
         {
+          "id": "https://www.ifanr.com/?p=1421585&utm_source=rss&utm_medium=rss&utm_campaign=",
+          "author": "李华",
+          "description": "一台好用且价格亲民的千元机才是更真实、更广泛的需求。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
+          "link": "https://www.ifanr.com/1421585?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedOn": "2021-06-08T11:13:04.000Z",
+          "wordCount": 652,
+          "title": "Redmi Note 10 系列体验：在「加法」中诞生的千元机"
+        },
+        {
+          "id": "https://www.ifanr.com/?p=1421587&utm_source=rss&utm_medium=rss&utm_campaign=",
+          "author": "黄智健",
+          "description": "这一届 WWDC 你打几分？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
+          "link": "https://www.ifanr.com/1421587?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedOn": "2021-06-08T11:05:23.000Z",
+          "wordCount": 841,
+          "title": "苹果 WWDC 超全总结：更智能更个性的 iOS 15 来了，但 Mac 的这项新功能更亮！"
+        },
+        {
           "id": "https://www.ifanr.com/?p=1421659&utm_source=rss&utm_medium=rss&utm_campaign=",
           "author": "方嘉文",
           "description": "· 无印良品 50% 的服装将男女通穿\r\n· Google 同意对一些在线广告服务进行调整\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
           "link": "https://www.ifanr.com/1421659?utm_source=rss&utm_medium=rss&utm_campaign=",
           "publishedOn": "2021-06-08T01:14:36.000Z",
-          "wordCount": 471,
+          "wordCount": 481,
           "title": "早报 | 苹果发布 iOS 15 / 贝索斯将参加蓝色起源的太空飞行 / 广州关停中高风险地区农贸市场"
         },
         {
@@ -126,7 +144,7 @@
           "description": "马斯克：「它没有存在的必要。」\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
           "link": "https://www.ifanr.com/1421500?utm_source=rss&utm_medium=rss&utm_campaign=",
           "publishedOn": "2021-06-07T11:43:58.000Z",
-          "wordCount": 304,
+          "wordCount": 307,
           "title": "特斯拉宣布 Model S Plaid Plus 已被取消，理由竟是 Plaid 太强大了？"
         },
         {
@@ -254,24 +272,6 @@
           "publishedOn": "2021-06-04T00:48:51.000Z",
           "wordCount": 562,
           "title": "早报 | 新 MacBook Pro 疑似已备案 / 特斯拉维权车主将继续上诉 / 深圳大数据杀熟或可罚五千万元"
-        },
-        {
-          "id": "https://www.ifanr.com/?p=1420782&utm_source=rss&utm_medium=rss&utm_campaign=",
-          "author": "换新言",
-          "description": "一文看懂 HarmonyOS。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
-          "link": "https://www.ifanr.com/1420782?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedOn": "2021-06-03T13:29:40.000Z",
-          "wordCount": 442,
-          "title": "HarmonyOS 并不想替代 Android，它的野心比你想象中更大"
-        },
-        {
-          "id": "https://www.ifanr.com/?p=1420754&utm_source=rss&utm_medium=rss&utm_campaign=",
-          "author": "李华",
-          "description": "这半年来，苹果的日子貌似不太好过。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
-          "link": "https://www.ifanr.com/1420754?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedOn": "2021-06-03T07:54:00.000Z",
-          "wordCount": 255,
-          "title": "多名高管离职，苹果汽车何时才能面世？"
         }
       ]
     },
@@ -472,6 +472,34 @@
       "siteUrl": "https://pt.eastgame.org",
       "articles": [
         {
+          "id": "76761a9531e660e92d9de5c7637dd8e07ecee310",
+          "author": "anonymous@pt.eastgame.org (anonymous)",
+          "description": "◎制　　作　cp3you @ TLF HALFCD TeaM\n\r\n\n\r\n◎译　　名　爱是永恒/生之颂(港)/爱是永恒(台)/Eternity\n\r\n◎片　　名　Eternité\n\r\n◎年　　代　2016\n\r\n◎国　　家　法国\n\r\n◎类　　别　剧情 / 爱情\n\r\n◎语　　言　法语\n\r\n◎上映日期　2016-09-07(法国)\n\r\n◎IMDb评分　5.6/10 (417 votes)\n\r\n◎IMDb链接　http://www.imdb.com/title/tt3564574/\n\r\n◎豆瓣评分　5.7/10 (206 votes)\n\r\n◎豆瓣链接　https://movie.douban.com/subject/25836137/\n\r\n◎片　　长　115分钟\n\r\n◎导　　演　陈英雄 Anh Hung Tran\n\r\n◎主　　演　奥黛丽·塔图 Audrey Tautou\n\r\n　　　　　　贝热尼丝·贝乔 Bérénice Bejo\n\r\n　　　　　　梅拉尼·罗兰 Mélanie Laurent\n\r\n　　　　　　杰瑞米·雷尼耶 Jérémie Renier\n\r\n　　　　　　皮埃尔·德隆尚 Pierre de Ladonchamps\n\r\n　　　　　　伊莲娜·雅各布 Irène Jacob\n\r\n　　　　　　瓦莱丽·斯特罗 Valérie Stroh\n\r\n　　　　　　Arieh Worthalter\n\r\n　　　　　　菲丽帕·里罗伊 Philippine Leroy-Beaulieu\n\r\n　　　　　　菲利克斯·波舒哀 Félix Bossuet\n\r\n　　　　　　卢卡·梅利瓦 Louka Meliava\n\r\n　　　　　　陈女燕溪 Tran Nu Yên-Khê\n\r\n　　　　　　Juliette Lamet\n\r\n　　　　　　Noémie Morales\n\r\n　　　　　　Maxime Rennaux\n\r\n◎简　　介　\n\r\n\r\n　　《爱是永恒》改编自法国作家艾莉丝费尼的小说，描述十九世纪末，正当双十年华的范伦婷爱上朱勒斯，两人决定共组美好家庭，却遇上世界大战爆发。\n\r\n\r\n　　三代法国女人的生命历程，谱出一部跨越百年的绝美史诗。十九世纪末，正当双十年华的范伦婷爱上朱勒斯，两人决定共组美好家庭，却遇上世界大战爆 发。二十世纪末，一位法国女子不顾一切奔向爱人的怀抱，她是范伦婷的孙女，他们留下爱情的结晶与传承。百年岁月流转，男人与女人相遇、相恋、相守并生儿育女，谱成一部家庭史，战火无情，唯有爱能永恒。\n\r\n\r\n　　近代大师陈英雄以他的第一部电影「青木瓜的滋味」夺得坎城影展金摄影机奖，接著又以「三轮车伕」勇夺威尼狮影展金狮奖。这是他回归法国影坛，第三度与『华人第一摄影』李屏宾合作，集结法国当代三大女星包括奥黛莉朵杜、梅兰妮萝伦及贝芮妮丝贝乔，拍摄一部以三代女人为主题，跨越百年的史诗电影。奥黛莉朵杜饰演年轻少女、少妇到年迈的寡妇，挑战老中青三代高难度的角色。\n\r\n\r\n◎文件名称　爱是永恒.Eternity.2016.BD.2Audio.MiniSD-TLF.mkv\n\r\n◎文件大小　1.09 GiB\n\r\n◎影片长度　01:55:03.710\n\r\n◎混合码率　1 356 kb/s\n\r\n◎封装时间　UTC 2021-06-07 12:54:40\n\r\n◎MMG版本　 mkvmerge v5.2.1 ('A Far Off Place') built on Jan  2 2012 23:21:10\n\r\n◎视频码率　\n\r\n◎视频尺寸　854 x 358\n\r\n◎画面比例　2.40:1\n\r\n◎帧 率　　 24.000 FPS\n\r\n◎数据密度　\n\r\n◎音轨信息  法语 / 国语(央视)\n\r\n◎字幕信息  CHS_TW / CHT_TW / CHS_HK / CHT_HK\n\r\n◎片源采用　Eternity.2016.720p.BluRay.x264-WiKi\n\r\n◎x264版本  x264 core 148 r2744 b97ae06\n\r\n◎x264参数  ref=8 / deblock=1:-3:-4 / me=umh / subme=9 / bframes=9 / rc=crf / mbtree=0 / crf=19.0 / qpmin=0 / qpmax=69\n\r\n\r\n◎检验MD5 ：2E07BD522BE44E36887BFBA1C0ADF2C0\n\r\n◎检验SHA1：FA4DC03B0C6C957B4564DFA6F54F1A61BCC9ACAB\n\r\n◎文件大小：1169899358",
+          "link": "https://pt.eastgame.org/details.php?id=44710",
+          "publishedOn": "2021-06-08T11:08:58.000Z",
+          "wordCount": 71,
+          "title": "Eternity 2016 BD 2Audio MiniSD-TLF[爱是永恒 [tt3564574][国法双语]][1.09 GB]",
+          "enclosure": {
+            "url": "https://pt.eastgame.org/download.php?id=44710",
+            "length": "1169899358",
+            "type": "application/x-bittorrent"
+          }
+        },
+        {
+          "id": "6a6972f9f10d09de2638b88c1ea890a20d91ce0f",
+          "author": "catmark@pt.eastgame.org (catmark)",
+          "description": "https://bbs.eastgame.org/viewthread.php?tid=140929\n\r\n\r\n◎制　　作　南瓜 @ TLF HALFCD TeaM\n\r\n◎译　　名　独生子女/一个孩子/计划生育\n\r\n◎片　　名　One Child\n\r\n◎年　　代　2014\n\r\n◎国　　家　美国 / 英国\n\r\n◎类　　别　剧情\n\r\n◎语　　言　英语\n\r\n◎上映日期　2014-11-28(美国)\n\r\n◎IMDb评分　7.1/10 (43 votes)\n\r\n◎IMDb链接　http://www.imdb.com/title/tt3864896/\n\r\n◎豆瓣评分　6.1/10 (45 votes)\n\r\n◎豆瓣链接　http://movie.douban.com/subject/25977107/\n\r\n◎片　　长　\n\r\n◎导　　演　约翰·亚历山大 John Alexander\n\r\n◎主　　演　梁佩诗 Katie Leung\n\r\n　　　　　　Andy Cheung\n\r\n　　　　　　Kunjue Li\n\r\n　　　　　　Yennis Cheung\n\r\n　　　　　　伊丽莎白·帕金斯 Elizabeth Perkins\n\r\n　　　　　　唐纳德·桑普特 Donald Sumpter\n\r\n◎简　　介　\n\r\n\r\n　　《独生子女》的故事围绕着英国伦敦的一名大学生梅展开。由于中共的独生子女政策，作为一个女孩，影片的主人翁梅自小被父母遗弃，她被一对友善的英国中产积阶级领养，在英国乡村长大。一天她突然从社交媒体上收到一封来自广州的信，信的作者自称是梅从来不知情的弟弟，并表示他无罪却将被处决，向梅求援。\n\r\n\r\n◎文件名称　独生子女.One.Child.2014.EP01.WEB-DL.MiniSD-TLF.mkv\n\r\n◎文件大小　271.7 MiB\n\r\n◎影片长度　00:43:53.930\n\r\n◎混合码率　8…",
+          "link": "https://pt.eastgame.org/details.php?id=44709",
+          "publishedOn": "2021-06-08T09:43:10.000Z",
+          "wordCount": 71,
+          "title": "One Child 2014 WEB-DL MiniSD-TLF[独生子女/獨生子女/一个孩子/计划生育迷你英剧 全4集中国式悲剧/适合练英语听力/不知道是不是禁片][1.02 GB]",
+          "enclosure": {
+            "url": "https://pt.eastgame.org/download.php?id=44709",
+            "length": "1091789746",
+            "type": "application/x-bittorrent"
+          }
+        },
+        {
           "id": "bcf3f85e22d38cecd1e7e6ca31c1ee7496180c00",
           "author": "zuimeng1997@pt.eastgame.org (zuimeng1997)",
           "description": "引用 \n◎制　　作　zuimeng1997 @ TLF HALFCD TeaM\n\r\n\n\r\n\r\n◎译　　名　哆啦A梦：伴我同行2/机器猫：伴我同行2/小叮当：伴我同行2/与我同行的哆啦A梦2/Doraemon 3D: Stand by Me 2/Stand by Me Doraemon 2\n\r\n◎片　　名　STAND BY ME ドラえもん2\n\r\n◎年　　代　2020\n\r\n◎产　　地　日本\n\r\n◎类　　别　剧情/动画\n\r\n◎语　　言　日语\n\r\n◎上映日期　2020-11-20(日本)/2021-05-28(中国大陆)\n\r\n◎IMDb链接  https://www.imdb.com/title/tt13428402/\n\r\n◎豆瓣评分　7.4/10 from 44979 users\n\r\n◎豆瓣链接　https://douban.com/subject/34913671/\n\r\n◎片　　长　96分钟\n\r\n◎导　　演　八木龙一 Ryuichi Yagi / 山崎贵 Takashi Yamazaki\n\r\n◎编　　剧　山崎贵 Takashi Yamazaki / 藤子·F·不二雄 F. Fujio Fujiko\n\r\n◎主　　演　水田山葵 Wasabi Mizuta\n\r\n　　　　  　大原惠美 Megumi Oohara\n\r\n　　　　  　嘉数由美 Yumi Kakazu\n\r\n　　　　  　木村昴 Subaru Kimura\n\r\n　　　　  　关智一 Tomokazu Seki\n\r\n　　　　  　妻夫木聪 Satoshi Tsumabuki\n\r\n　　　　  　宫本信子 Nobuko Miyamoto\n\r\n　　　　  　三石琴乃 Kotono Mitsuishi\n\r\n　　　　  　松本保典 Yasunori Matsumoto\n\r\n　　　　  　笨蛋节奏 Bakarhythm\n\r\n　　　　  …",
@@ -488,7 +516,7 @@
         {
           "id": "e2e7dfddc9571113f80f1cbf30a2bebe3393e5e5",
           "author": "zuimeng1997@pt.eastgame.org (zuimeng1997)",
-          "description": "引用 \n◎制　　作　zuimeng1997 @ TLF HALFCD TeaM\n\r\n\n\r\n\r\n◎译　　名　哆啦A梦：伴我同行2/机器猫：伴我同行2/小叮当：伴我同行2/与我同行的哆啦A梦2/Doraemon 3D: Stand by Me 2/Stand by Me Doraemon 2\n\r\n◎片　　名　STAND BY ME ドラえもん2\n\r\n◎年　　代　2020\n\r\n◎产　　地　日本\n\r\n◎类　　别　剧情/动画\n\r\n◎语　　言　日语\n\r\n◎上映日期　2020-11-20(日本)/2021-05-28(中国大陆)\n\r\n◎IMDb链接  https://www.imdb.com/title/tt13428402/\n\r\n◎豆瓣评分　7.4/10 from 44979 users\n\r\n◎豆瓣链接　https://douban.com/subject/34913671/\n\r\n◎片　　长　96分钟\n\r\n◎导　　演　八木龙一 Ryuichi Yagi / 山崎贵 Takashi Yamazaki\n\r\n◎编　　剧　山崎贵 Takashi Yamazaki / 藤子·F·不二雄 F. Fujio Fujiko\n\r\n◎主　　演　水田山葵 Wasabi Mizuta\n\r\n　　　　  　大原惠美 Megumi Oohara\n\r\n　　　　  　嘉数由美 Yumi Kakazu\n\r\n　　　　  　木村昴 Subaru Kimura\n\r\n　　　　  　关智一 Tomokazu Seki\n\r\n　　　　  　妻夫木聪 Satoshi Tsumabuki\n\r\n　　　　  　宫本信子 Nobuko Miyamoto\n\r\n　　　　  　三石琴乃 Kotono Mitsuishi\n\r\n　　　　  　松本保典 Yasunori Matsumoto\n\r\n　　　　  　笨蛋节奏 Bakarhythm\n\r\n　　　　  　羽鸟慎一 Shinichi Hatori\n\r\n\r\n◎标　　签　哆啦A梦 | 温情 | 日本 | 日本动画 | 动画 | 动漫 | 剧场版 | 电影\n\r\n\r\n◎简　　介\n\r\n\r\n　　\n\r\n　　某天，大雄（大原惠美 配音）偶然发现了童年时奶奶为自己缝制的玩偶熊，于是央求哆啦A梦（水田山葵 配音）去往过去看望已不再人世的奶奶（宫本信子 配音），大雄与奶奶重逢之后，奶奶希望能看到大雄长大结婚时的样子，答应奶奶的大雄与哆啦A梦则再一次的返回了未来，婚礼如期举行的那天，所有人都到了场，但最重要的新郎成年大雄（妻夫木聪 配音）居然不在现场，情急之下，哆啦A梦让大雄假扮成年时的自己与静香结婚（嘉数由美 配音），然而真正的成年大雄究竟去了哪里呢？\n\r\n　　\n\r\n 引用 \n◎文件名称　哆啦A梦：伴我同行2.Stand.by.Me.Doraemon.2.2020.BD.MiniSD-TLF.mkv\n\r\n◎文件大小　772 MiB\n\r\n◎影片长度　01:35:48.767\n\r\n◎混合码率　1 127 kb/s\n\r\n◎封装时间　UTC 2021-06-08 08:10:51\n\r\n◎MMG 版本　mkvmerge v43.0.0 ('The Quartermaster') 64-bit\n\r\n◎视频码率　1 060 kb/s\n\r\n◎视频尺寸　854 x 460\n\r\n◎画面比例　1.85:1\n\r\n◎帧    率　23.976 (24000/1001) FPS\n\r\n◎位    深　8 bits\n\r\n◎数据密度　0.113\n\r\n◎音频码率  64.8 kb/s\n\r\n◎音频编码  AAC LC SBR\n\r\n◎音轨声道  2 声道\n\r\n◎音轨信息  日语\n\r\n◎字幕信息  简体中文 / 繁体中文 / 英文\n\r\n◎字幕采用  网络\n\r\n◎片源采用  Stand by Me Doraemon 2 2020 Blu-ray 1080p AVC TrueHD 5.1-NoTaG\n\r\n◎x264版本  x264 core 157 r2969 d4099dd\n\r\n◎x264参数  ref=9 / deblock=1:-1:-1 / me=umh / subme=9 / psy=1 / psy_rd=1.00:0.15 / bframes=5 / rc=crf / mbtree=1 / crf=21.0 / qcomp=0.60 / aq=3:1.00\n\r\n\r\n◎检验\n\r\n哆啦A梦：伴我同行2.Stand.by.Me.Doraemon.2.2020.BD.MiniSD-TLF.mkv\n\r\n大小：809620258\n\r\nMD5 ：66606FA534310BF6C20B9D30C4309697\n\r\nSHA1：CA028652A2AC2137E972E6AC90EA8AA17B8829E5",
+          "description": "引用 \n◎制　　作　zuimeng1997 @ TLF HALFCD TeaM\n\r\n\n\r\n\r\n◎译　　名　哆啦A梦：伴我同行2/机器猫：伴我同行2/小叮当：伴我同行2/与我同行的哆啦A梦2/Doraemon 3D: Stand by Me 2/Stand by Me Doraemon 2\n\r\n◎片　　名　STAND BY ME ドラえもん2\n\r\n◎年　　代　2020\n\r\n◎产　　地　日本\n\r\n◎类　　别　剧情/动画\n\r\n◎语　　言　日语\n\r\n◎上映日期　2020-11-20(日本)/2021-05-28(中国大陆)\n\r\n◎IMDb链接  https://www.imdb.com/title/tt13428402/\n\r\n◎豆瓣评分　7.4/10 from 44979 users\n\r\n◎豆瓣链接　https://douban.com/subject/34913671/\n\r\n◎片　　长　96分钟\n\r\n◎导　　演　八木龙一 Ryuichi Yagi / 山崎贵 Takashi Yamazaki\n\r\n◎编　　剧　山崎贵 Takashi Yamazaki / 藤子·F·不二雄 F. Fujio Fujiko\n\r\n◎主　　演　水田山葵 Wasabi Mizuta\n\r\n　　　　  　大原惠美 Megumi Oohara\n\r\n　　　　  　嘉数由美 Yumi Kakazu\n\r\n　　　　  　木村昴 Subaru Kimura\n\r\n　　　　  　关智一 Tomokazu Seki\n\r\n　　　　  　妻夫木聪 Satoshi Tsumabuki\n\r\n　　　　  　宫本信子 Nobuko Miyamoto\n\r\n　　　　  　三石琴乃 Kotono Mitsuishi\n\r\n　　　　  　松本保典 Yasunori Matsumoto\n\r\n　　　　  　笨蛋节奏 Bakarhythm\n\r\n　　　　  　羽鸟慎一 Shinichi Hatori\n\r\n\r\n◎标　　签　哆啦A梦 | 温情 | 日本 | 日本动画 | 动画 | 动漫 | 剧场版 | 电影\n\r\n\r\n◎简　　介\n\r\n\r\n　　\n\r\n　　某天，大雄（大原惠美 配音）偶然发现了童年时奶奶为自己缝制的玩偶熊，于是央求哆啦A梦（水田山葵 配音）去往过去看望已不再人世的奶奶（宫本信子 配音），大雄与奶奶重逢之后，奶奶希望能看到大雄长大结婚时的样子，答应奶奶的大雄与哆啦A梦则再一次的返回了未来，婚礼如期举行的那天，所有人都到了场，但最重要的新郎成年大雄（妻夫木聪 配音）居然不在现场，情急之下，哆啦A梦让大雄假扮成年时的自己与静香结婚（嘉数由美 配音），然而真正的成年大雄究竟去了哪里呢？\n\r\n　　\n\r\n 引用 \n◎文件名称　哆啦A梦：伴我同行2.Stand.by.Me.Doraemon.2.2020.BD.MiniSD-TLF.mkv\n\r\n◎文件大小　772 MiB\n\r\n◎影片长度　01:35:48.767\n\r\n◎混合码率　1 127 kb/s\n\r\n◎封装时间　UTC 2021-06-08 08:10:51\n\r\n◎MMG 版本　mkvmerge v43.0.0 ('The Quartermaster') 64-bit\n\r\n◎视频码率　1 060 kb/s\n\r\n◎视频尺寸　854 x 460\n\r\n◎画面比例　1.85:1\n\r\n◎帧    率　23.976 (24000/1001) FPS\n\r\n◎位    深　8 bits\n\r\n◎数据密度　0.113\n\r\n◎音频码率  64.8 kb/s\n\r\n◎音频编码  AAC LC SBR\n\r\n◎音轨声道  2 声道\n\r\n◎音轨信息  日语\n\r\n◎字幕信息  简体中文 / 繁体中文 / 英文\n\r\n◎字幕采用  网络\n\r\n◎片源采用  Stand by Me Doraemon 2 2020 Blu-ray 1080p AVC TrueHD 5.1-NoTaG\n\r\n◎x264版本  x264 core 157 r2969 d4099dd\n\r\n◎x264参数  ref=9 / deblock=1:-1:-1 / me=umh / subme=9 / psy=1 / psy_rd=1.00:0.15 / bframes=5 / rc=crf / mbtree=1 / crf=21.0 / qcomp=0.60 / aq=3:1.00\n\r\n\r\n◎检验\n\r\n◎检验\n\r\n哆啦A梦：伴我同行2.Stand.by.Me.Doraemon.2.2020.BD.MiniSD-TLF.mkv\n\r\n大小：809620945\n\r\nMD5 ：DC265EECA6B1EE8C1075F2E6542E2266\n\r\nSHA1：5981A357298886E3CF2052EBA3ECE916C785D521",
           "link": "https://pt.eastgame.org/details.php?id=44706",
           "publishedOn": "2021-06-08T08:32:29.000Z",
           "wordCount": 71,
@@ -580,34 +608,6 @@
           "enclosure": {
             "url": "https://pt.eastgame.org/download.php?id=44663",
             "length": "694615327",
-            "type": "application/x-bittorrent"
-          }
-        },
-        {
-          "id": "f0c1d4833cac64aa93bffd8d4fab8663df471a54",
-          "author": "fixxxer@pt.eastgame.org (fixxxer)",
-          "description": "◎制　　作　Fixxxer @ TLF HALFCD TeaM\n\r\n\n\r\n◎译　　名　招魂3\n\r\n◎片　　名　The Conjuring: The Devil Made Me Do It\n\r\n◎又　　名　招魂3：鬼使神差 / 诡屋惊凶实录3：魔旨(港) / 厉阴宅3：是恶魔逼我的(台) / The Conjuring 3\n\r\n◎年　　代　2021年\n\r\n◎国家/地区 美国\n\r\n◎类　　别  悬疑 / 惊悚 / 恐怖\n\r\n◎语　　言  葡萄牙语 / 英语\n\r\n◎上映日期  2021-05-26(英国) / 2021-06-04(美国)\n\r\n◎豆瓣评分　6.7/10 (11387 users)\n\r\n◎豆瓣链接  https://movie.douban.com/subject/27077479/\n\r\n◎IMDb评分　N/A/10 from N/A votes\n\r\n◎IMDb链接  https://www.imdb.com/title/tt7069210\n\r\n◎IMDB时长　112 min\n\r\n◎烂 番 茄　\n\r\n◎Metascore N/A\n\r\n◎分　　级　R\n\r\n◎票　　房　N/A\n\r\n◎片　　长　112分钟\n\r\n◎导　　演　迈克尔·查维斯 Michael Chaves\n\r\n◎编　　剧　大卫·莱斯利·约翰逊-麦戈德里克 David Leslie Johnson-McGoldrick\n\r\n　　　　　　温子仁 James Wan\n\r\n◎主　　演　维拉·法米加 Vera Farmiga\n\r\n　　　　　　帕特里克·威尔森 Patrick Wilson\n\r\n　　　　　　朱利安·希威德 Julian Hilliard\n\r\n　　　　　　山农·库克 Shannon Kook\n\r\n　　　　　　欧根妮·邦杜兰特 Eugenie Bondurant\n\r\n　　　　　　斯特林·杰里斯 Sterling…",
-          "link": "https://pt.eastgame.org/details.php?id=44662",
-          "publishedOn": "2021-06-07T02:07:52.000Z",
-          "wordCount": 71,
-          "title": "The.Conjuring.the.Devil.Made.Me.Do.It.2021.WEB-DL.MiniSD-TLF[招魂3[N/A][tt7069210]][544.07 MB]",
-          "enclosure": {
-            "url": "https://pt.eastgame.org/download.php?id=44662",
-            "length": "570496012",
-            "type": "application/x-bittorrent"
-          }
-        },
-        {
-          "id": "863cd5f59063965d780e18114b7190666391f322",
-          "author": "fixxxer@pt.eastgame.org (fixxxer)",
-          "description": "◎制　　作　Fixxxer @ TLF HALFCD TeaM\n\r\n\n\r\n◎译　　名　开心鬼放暑假\n\r\n◎片　　名　Happy Ghost II\n\r\n◎又　　名　开心鬼2 / Happy Ghost II\n\r\n◎年　　代　1985年\n\r\n◎国家/地区 中国香港\n\r\n◎类　　别  喜剧 / 奇幻\n\r\n◎语　　言  粤语\n\r\n◎上映日期  1985-07-18\n\r\n◎豆瓣评分　7.3/10 (22547 users)\n\r\n◎豆瓣链接  https://movie.douban.com/subject/1305915/\n\r\n◎IMDb评分　5.8/10 from 173 votes\n\r\n◎IMDb链接  https://www.imdb.com/title/tt0089395\n\r\n◎IMDB时长　100 min\n\r\n◎烂 番 茄　\n\r\n◎Metascore N/A\n\r\n◎分　　级　N/A\n\r\n◎票　　房　N/A\n\r\n◎片　　长　96分钟\n\r\n◎导　　演　高志森 Clifton Ko\n\r\n◎编　　剧　高志森 Clifton Ko\n\r\n　　　　　　黄百鸣 Raymond Wong\n\r\n◎主　　演　黄百鸣 Raymond Wong\n\r\n　　　　　　袁洁莹 Fennie Yuen\n\r\n　　　　　　罗美薇 May Lo Mei-Mei\n\r\n　　　　　　陈加玲 Charine Chan\n\r\n　　　　　　傅明宪 Gigi Fu\n\r\n　　　　　　陈曼娜 Man-Na Chan\n\r\n　　　　　　邓寄尘 Kei Chan Tang\n\r\n　　　　　　高志森 Clifton Ko\n\r\n　　　　　　黄锦燊 Melvin Wong\n\r\n　　　　　　梁柏坚 Patrick Leung\n\r\n　　　　　　黎姿 Gigi Lai\n\r\n　　　　　　潘雁英 An-Ying Poon\n\r\n　　　　　　成运安 Shing …",
-          "link": "https://pt.eastgame.org/details.php?id=44653",
-          "publishedOn": "2021-06-06T12:48:55.000Z",
-          "wordCount": 71,
-          "title": "Happy.Ghost.II.1985.BD.2Audio.MiniSD-TLF[开心鬼放暑假[5.8][tt0089395]][1.76 GB]",
-          "enclosure": {
-            "url": "https://pt.eastgame.org/download.php?id=44653",
-            "length": "1891060117",
             "type": "application/x-bittorrent"
           }
         }
