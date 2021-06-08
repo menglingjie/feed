@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://menglingjie.github.io/REPO_NAME/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-08T12:35:52.426Z</updated>
+    <updated>2021-06-08T13:38:33.324Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://menglingjie.github.io/REPO_NAME/index.html"/>
     <link rel="self" href="https://menglingjie.github.io/REPO_NAME/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mac 面向当下，iPad 未来可期？]]></title>
+        <id>https://www.ifanr.com/?p=1421735&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1421735?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-06-08T13:20:51.000Z</updated>
+        <summary type="html"><![CDATA[iPadOS 终归不是可触控的 macOS。
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>杜沅傧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[苹果 iPadOS 15 上手：全新多任务更实用，但依旧没成为触屏版 macOS]]></title>
         <id>https://www.ifanr.com/?p=1421744&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
@@ -1752,22 +1768,6 @@ Ollie 平时长这样（ins：@khan_amon_ra）
 新浪微博]]></summary>
         <author>
             <name>周宇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[被全网群嘲的「打工人休息亭」，到底错在哪了？]]></title>
-        <id>https://www.ifanr.com/?p=1420831&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
-        <link href="https://www.ifanr.com/1420831?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
-        <updated>2021-06-04T03:48:49.000Z</updated>
-        <summary type="html"><![CDATA[新型冥想空间？
-#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博]]></summary>
-        <author>
-            <name>吴志奇</name>
         </author>
     </entry>
     <entry>
