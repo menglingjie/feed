@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://menglingjie.github.io/REPO_NAME/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-08T11:23:16.429Z</updated>
+    <updated>2021-06-08T12:35:52.426Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://menglingjie.github.io/REPO_NAME/index.html"/>
     <link rel="self" href="https://menglingjie.github.io/REPO_NAME/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[苹果 iPadOS 15 上手：全新多任务更实用，但依旧没成为触屏版 macOS]]></title>
+        <id>https://www.ifanr.com/?p=1421744&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1421744?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-06-08T11:24:14.000Z</updated>
+        <summary type="html"><![CDATA[亮点颇多，但难掩失望。
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>王志劭</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Redmi Note 10 系列体验：在「加法」中诞生的千元机]]></title>
         <id>https://www.ifanr.com/?p=1421585&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
@@ -1752,23 +1768,6 @@ Ollie 平时长这样（ins：@khan_amon_ra）
 新浪微博]]></summary>
         <author>
             <name>吴志奇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[早报 | 新 MacBook Pro 疑似已备案 / 特斯拉维权车主将继续上诉 / 深圳大数据杀熟或可罚五千万元]]></title>
-        <id>https://www.ifanr.com/?p=1420876&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
-        <link href="https://www.ifanr.com/1420876?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
-        <updated>2021-06-04T00:48:51.000Z</updated>
-        <summary type="html"><![CDATA[‍• B 站测试发红包功能
-• %ARABICA 首家机场店开幕
-#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博]]></summary>
-        <author>
-            <name>方嘉文</name>
         </author>
     </entry>
     <entry>
