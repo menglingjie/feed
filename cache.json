@@ -67,15 +67,6 @@
           "publishedOn": "2021-05-16T01:42:24.000Z",
           "wordCount": 286,
           "title": "v1.7.0"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0",
-          "author": null,
-          "description": "Added: Basic theme customization: Demo | Source | Docs.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0",
-          "publishedOn": "2021-05-10T08:55:42.000Z",
-          "wordCount": 276,
-          "title": "v1.4.0"
         }
       ]
     },
@@ -85,12 +76,30 @@
       "siteUrl": "https://www.ifanr.com?utm_source=rss&utm_medium=rss&utm_campaign=",
       "articles": [
         {
+          "id": "https://www.ifanr.com/?p=1421918&utm_source=rss&utm_medium=rss&utm_campaign=",
+          "author": "谢东成",
+          "description": "索尼终于带来了一款没有短板的真无线降噪耳机。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
+          "link": "https://www.ifanr.com/1421918?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedOn": "2021-06-09T03:12:07.000Z",
+          "wordCount": 500,
+          "title": "索尼 WF-1000XM4 首发评测：补全前代短板，全能型真无线降噪耳机"
+        },
+        {
+          "id": "https://www.ifanr.com/?p=1421877&utm_source=rss&utm_medium=rss&utm_campaign=",
+          "author": "方嘉文",
+          "description": "‍• 美国 Z 世代消费增加\r\n•「好望水」完成 A 轮融资\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
+          "link": "https://www.ifanr.com/1421877?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedOn": "2021-06-09T00:53:25.000Z",
+          "wordCount": 471,
+          "title": "早报 | 苹果或于 2022 推出 AR 头设 / 华为推出鸿蒙字体 / 小猿搜题回应「高考生搜真题」事件"
+        },
+        {
           "id": "https://www.ifanr.com/?p=1421735&utm_source=rss&utm_medium=rss&utm_campaign=",
           "author": "杜沅傧",
           "description": "iPadOS 终归不是可触控的 macOS。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
           "link": "https://www.ifanr.com/1421735?utm_source=rss&utm_medium=rss&utm_campaign=",
           "publishedOn": "2021-06-08T13:20:51.000Z",
-          "wordCount": 514,
+          "wordCount": 527,
           "title": "Mac 面向当下，iPad 未来可期？"
         },
         {
@@ -126,7 +135,7 @@
           "description": "· 无印良品 50% 的服装将男女通穿\r\n· Google 同意对一些在线广告服务进行调整\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
           "link": "https://www.ifanr.com/1421659?utm_source=rss&utm_medium=rss&utm_campaign=",
           "publishedOn": "2021-06-08T01:14:36.000Z",
-          "wordCount": 481,
+          "wordCount": 482,
           "title": "早报 | 苹果发布 iOS 15 / 贝索斯将参加蓝色起源的太空飞行 / 广州关停中高风险地区农贸市场"
         },
         {
@@ -189,7 +198,7 @@
           "description": "‍• 泡泡玛特推出 MEGA 珍藏系列\r\n• 全智贤主演《王国》外传定档 7 月\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
           "link": "https://www.ifanr.com/1421315?utm_source=rss&utm_medium=rss&utm_campaign=",
           "publishedOn": "2021-06-07T01:01:17.000Z",
-          "wordCount": 562,
+          "wordCount": 563,
           "title": "早报 | 华为称已捐献鸿蒙全部基础能力 / 人人视频 App 下架 / 奈雪的茶通过上市聆讯"
         },
         {
@@ -207,7 +216,7 @@
           "description": "时隔四年才更新的 HUAWEI WATCH，携鸿蒙系统一同归来\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
           "link": "https://www.ifanr.com/1421210?utm_source=rss&utm_medium=rss&utm_campaign=",
           "publishedOn": "2021-06-06T06:44:02.000Z",
-          "wordCount": 328,
+          "wordCount": 326,
           "title": "华为 WATCH 3 Pro 图赏：首款鸿蒙手表，钛金属表体与陶瓷材质加持"
         },
         {
@@ -245,24 +254,6 @@
           "publishedOn": "2021-06-04T08:41:03.000Z",
           "wordCount": 234,
           "title": "旋转、跳跃，腾讯这款机器人都能做到，就差闭着眼了"
-        },
-        {
-          "id": "https://www.ifanr.com/?p=1421065&utm_source=rss&utm_medium=rss&utm_campaign=",
-          "author": "李华",
-          "description": "下一代 Windows 会变得更好看吗？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
-          "link": "https://www.ifanr.com/1421065?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedOn": "2021-06-04T08:31:06.000Z",
-          "wordCount": 313,
-          "title": "新一代 Windows 即将发布，或将命名为 Windows 11"
-        },
-        {
-          "id": "https://www.ifanr.com/?p=1420250&utm_source=rss&utm_medium=rss&utm_campaign=",
-          "author": "周宇",
-          "description": "想修电脑，没那么容易。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
-          "link": "https://www.ifanr.com/1420250?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedOn": "2021-06-04T06:08:10.000Z",
-          "wordCount": 363,
-          "title": "Google、苹果、微软，大公司们是如何「阻止」你修手机、修电脑的"
         }
       ]
     },
@@ -277,7 +268,7 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
           "link": "http://www.ruanyifeng.com/blog/2021/06/weekly-issue-161.html",
           "publishedOn": "2021-06-04T00:29:26.000Z",
-          "wordCount": 1510,
+          "wordCount": 1520,
           "title": "科技爱好者周刊（第 161 期）：再见了，学术硕士"
         },
         {
@@ -286,7 +277,7 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
           "link": "http://www.ruanyifeng.com/blog/2021/05/weekly-issue-160.html",
           "publishedOn": "2021-05-28T00:20:22.000Z",
-          "wordCount": 1015,
+          "wordCount": 1025,
           "title": "科技爱好者周刊（第 160 期）：中年码农的困境"
         },
         {
@@ -305,6 +296,66 @@
       "feedUrl": "http://feeds.feedburner.com/zhihu-daily",
       "siteUrl": "https://news-at.zhihu.com/api/4/stories/latest?client=0",
       "articles": [
+        {
+          "id": "https://daily.zhihu.com/story/9736845",
+          "author": null,
+          "description": "周诗勇，知道的越多越害怕\n阅读原文\n\n刚刚改革开放，最早的中国人到工地干活喜欢穿什么？西服。\n图片来自网络\n但是 100 年前的英国人干活也很正装啊。\n吊带裤，小礼帽\n美国人也不输英国人，亨利福特时代的老照片，也没看到制服：\n\n二战时期妇女在工厂不仅没有穿工作服，工作时候穿的常服还很漂亮：\n\n不过呢，西服这玩意据说起源于当时日耳曼民族的渔民在捕鱼的时候喜欢穿着专门的“渔民装”，这种渔民装的特点是：领口散，扣子少。这种衣服只在渔民界流行，渔民在捕鱼的时候可以轻松的舒展身体。所以，西服也算一种另类的“工作服”了。\n现代工作服的出现，是重视员工安全的体现，早期的工作服，估计就是一个工作“围裙”，上班的时候，在自己腰上一围，就开始做事了：\n\n不正确的工作着装最大的危险就是会将人卷进机器（诸如头发、衣袖、下摆等）：\n这是个不幸的事故，但没有发生在中国\n因此，对于有危险设备的场合，企业开始要求员工穿由企业提供的工服，安全鞋甚至安全帽等劳保用品。这类工服是要求紧身的，下摆、袖口、裤腿都是可以扣起来的：\n怕侵权，就用安倍的吧，他的工服穿的比较标准，不足是胸牌不能用挂的，会被机器卷进去\n为什么工服一般是蓝色的？便宜呗。我们从蓝色的历史开始：\n靛蓝是人类最早使用的天然染料之一，有至少三千多年的历史。恐怕也是早期人类的为数不多的染料颜色中较为便宜和好看的（性价比高），比如胭脂虫体内提取的红色染料，紫草根制取紫色染料，紫螺分泌物提取普紫色，听上去成本都很高。靛蓝可以提取自多种植物，中国和日本的草木染多是取自蓼蓝。除了什么颜色都没有的白色（白丁所穿），蓝色首先给人的感觉应该是容易获取和价格便宜。中国古代用衣服颜色区分等级，大约是“黄 、紫、朱 、绿 、青 、黑、白”这样的顺序，青色大约就是蓝色的位置，也就是八九品官员的服装颜色。而古代西方，比如罗马紫色是王室的颜色，据说“从 25 万只染料骨螺中,只能提取约 14.17 克染料,刚好够染一条罗马长袍”。\n在古代，无法化学合成染料的时代，靛蓝是最古老的染料之一，应用范围极广并非常耐久，而且成本也低于其他染料。千百年来就给人成本低廉的颜色的认知。\n蜡染依旧使用靛蓝\n即使到了合成染料时代，普鲁士蓝也是最早被发明的蓝色染料，据说是本来想要研发红色染料却意外获得了蓝色，更意外的是“铊可置换普鲁士蓝上的铁后形成不溶性物质，使其随粪便排出，对治疗经口急慢性铊中毒有一定疗效”。（顺便一说，红色染料百浪多息 / 磺胺也是本来发明做染料，意外发现是不错的消炎药）\n\n牛仔裤也是蓝色，那时的牛仔裤可以看作一种工作服，或者可以称为劳动裤，使用的正是便宜的靛蓝染料，它拥有成为工作服的很多优点，比如坚实、美观、实用、耐穿，又价格便宜：\n\n有人会说蓝色的工服经脏，耐脏，其实原因还是便宜，耐脏属于“使用成本”的便宜，不需要投入过高的洗涤成本和费用。但是如果在车间十分干净的场合，尤其是现在工厂的环境越来越干净卫生，浅色的工作服，即使白色或是银灰色的工服，也是未尝不可的：\n\n因为一般最初的工服都是蓝色的，现在即使工人的工服大量的出现不是蓝色的情况，我们依旧会将穿工人工服从事工人岗位工作的人称之为“蓝领”。不过下面这位真的是蓝领加蓝袖（还是为经脏）。\n\n最后还有一个原因，红色是代表警告危险；黄色代表提醒注意。实际工作中，正常的车间工服可以选择的颜色并不算多，比如下面工作场合，管理安全使用红色工服，工作时需要别人注意用了黄色工服，这样很合适。但是如果一般工厂使用红色黄色的搞得整个车间神经兮兮不说，颜色反常识也是车间的扣分项了。蓝色作为工作服颜色，也是没太多选择的结果：\n\n综合以上，历史认知，经济性，实用性，心理因素，一般常识使我们通常情况下使用蓝色作为工服的颜色。\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9736845",
+          "publishedOn": "2021-06-08T23:08:08.000Z",
+          "wordCount": null,
+          "title": "为什么工厂的工服一般是蓝色的？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9736851",
+          "author": null,
+          "description": "CaesarYL，美国临床心理学博士在读；一位聆听者和洞查者\n阅读原文\n\n每个人都有占有欲。但是，如果占有欲过强 / 过度，那么亲密关系就会出现问题。\n详情如下。\n\n什么是占有欲？\n首先，占有欲是一种嫉妒（Jealousy）之心。\n\nAllport 将社会认知概念化为”对我们自己和其他人的思考过程，以理解和解释个人的思想、情感和行为如何受到他人存在（不管是实际的、想象的或暗示性的）的影响。\"人际关系 / 亲密关系的吸引力是由对“促膝长谈”的强烈愿望所推动的。对有利经验的期待会让你在与你的重要他人（significant other）保持关系时激发了兴奋的感受。\n当然，对亲密关系产生威胁的对象可能会出乎意料地出现。在这时，这种对伴侣的深厚感情可能会刺激起我们许多人熟悉的强烈情绪反应 -- 嫉妒。嫉妒可以在不同的强度下体验，这取决于实际情况。\n事实上，嫉妒这种渴望的感情可以促进关系质量。例如，你伴侣的反应可能反映了某样事物对关系的直接威胁，而他重视自己的关系并希望保护它。情感上的嫉妒与爱呈正相关。确定关系质量应该始终考虑到伴侣双方对他们的感受，以及他们的伴侣在参与他们的人际关系中的感受。只是在大多数受嫉妒情绪影响的关系中，情况并不总是这样。许多类似的情况是受误解情况的影响，或者没有强调伴侣之间沟通的重要性。\n在恋爱关系中，我们几乎都有某种程度的占有欲。例如，你有时候会对伴侣说 “你属于我”-- 这种“属于”就是一种占有的概念。此外，在行为层面上，占有性嫉妒，即占有欲，是指一个人采取措施，以防止他们的伴侣与对亲密关系有威胁的人交往。\n\n过度占有欲的征兆\n但是占有欲不仅仅是为伴侣的成就感到自豪或当某人对我们的伴侣太过轻浮时感到有点恼怒。如果过度，占有欲可以成为一个严重的问题，以至于导致其他关系问题。这其中甚至包括虐待、偏执，或跟踪。\n过度的占有欲似乎往往是以感情的延伸的要求开始，如…",
+          "link": "https://daily.zhihu.com/story/9736851",
+          "publishedOn": "2021-06-08T23:08:00.000Z",
+          "wordCount": null,
+          "title": "男生对女朋友的占有欲都很强吗？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9736859",
+          "author": null,
+          "description": "Anka Lau，服装设计/艺术留学/公众号：ELEVENTEN\n阅读原文\n\n男生复古风穿搭的学问有很多，包括款式元素、颜色、配饰等多方面都需要考虑到，而且还要考虑个人的气场是否符合复古风。有些男生穿复古风会非常有味道，而有些男生则简简单单的穿着就非常好看。\n复古风 - 颜色\n颜色是复古风首要考虑的问题，因为在选择衣服上颜色占视觉整体的部分非常的大。而复古风的色系会偏向黄色系，比如像土黄色、棕绿色、棕红色、咖啡色、米黄色等等都是非常复古的色系。除了黄色系以外，还有复古红、正绿色等都是非常复古的颜色。\n下面是一些官方的复古搭配色系供大家参考：\nVintage Blue, Yellow & BrownRetro-Vintage60s VintageVintage NeonQuirky VintageVintage AdvantageVintage BlendVintage NeutralVintage BarricadeRetro Gray And GoldVintage ChristmasVintage Freedom\n复古风 - 款式元素\n除了上述讲到的需要掌握的复古色调以外，服装款式和元素的选择也是非常重要的。像有一些款式比如牛仔，本身自身就带有复古的韵味，还有像复古的条纹、格纹、花绘等等都是热爱复古风的男生所经常选择的元素。\n1. 花衬衫\n花衬衫作为放在第一个的元素，是复古风男士们最热爱的元素，但是这也是一个比较难驾驭的复古元素，穿不好很容易就变得油腻。所以复古风还是非常挑人的，大家建议根据自身情况服用。\n\n在花纹的选择上，建议选一些稍微带点设计感的花纹，颜色选择上可以选择一些较为深色的色系。花衬衫因为花纹印花非常复杂，所以下身建议搭配纯色的西裤，这样在整体搭配上才会把视觉拉到上半身，并且让整体搭配视觉平衡。\n\n花衬衫除了单穿以外，也非常适合搭配在西装里面。作为西装的内搭，也会让整体西装穿搭更加富有复古的韵味。\n\n2. 条纹元素\n除了花卉图案以外，条纹也是一个非常复古的元素。无论是条纹衫还是条纹裤，只要穿上其中一件，都能让整体搭配富有复古的赶脚。\n\n在搭配上也是跟花衬衫一样，条纹元素在整体的穿搭上非常的出众，所以建议搭配素色纯色的半身，一半图案一半素色，这样在搭配上会更加的平衡。比如穿着条纹元素的上衣就可以搭配一条纯色的裤子，而穿着条纹的裤子则可以搭配一件纯色的上衣。\n\n3. 复古色西装\n除了以上图案元素，复古色系的西装套装也是复古风男士们的最爱。复古西装套装最重要的就是材质和颜色上的选择，在材质上可以选择比较天然的棉麻材质，而颜色上可以参考我们上面提到的复古色系卡片。\n\n在西服和西裤的选择上，可以选择同款同色的也可以选择不同款不同色的，但是颜色建议选择邻近色在整体搭配上会更加的和谐。复古色系的西装常见的有棕色、咖啡色等等。\n\n4. 牛仔服 & 牛仔裤\n牛仔元素绝对是一个非常有历史代表性的复古风的存在，穿上任何牛仔元素的单品都会让整体富有历史复古感。\n\n在牛仔穿搭上，可以选择整套牛仔或者只选择牛仔衣 / 牛仔裤单件作搭配。常见搭配有牛仔衣搭配黑色长裤，牛仔裤搭配复古色系的上衣等等。\n\n5. 高领毛衣\n高领毛衣也是一个非常复古的存在，但是高领毛衣建议当作内搭去搭配，高领毛衣搭配西装外套或者牛仔外套都会显得非常复古。而颜色上，如果想复古味十足的可以选择黄色系的毛衣。\n\n复古风 - 配饰\n讲完颜色、款式、元素之后，是看似不重要但是却是点睛之笔的配饰环节。配饰是很多人都会忽略的地方，然而一些小细节上的配饰搭配都会让你整体的搭配加不少分。常见的复古风配饰有鸭舌帽、礼帽、复古金丝眼镜、复古色系袜子等等。\n\n可能很多人都会忽略袜子上的穿搭，然而袜子现在已经成为了穿搭非常重要的一部分。很多懂穿搭的男士都喜爱穿一条露脚踝的 7-8 分裤，搭配一双复古的皮鞋，而袜子则是他们要露出的亮点。在搭配上大家可以选择复古色系的袜子或者复古图案的袜子，这样使整体搭配的细节会更耐人琢磨。\n\n鸭舌帽也是非常复古的单品之一，可能有些男生会觉得这种类型的帽子显老，其实并不然。鸭舌帽作为复古元老，会让你的整体复古搭配更有看点。\n\n礼帽和金丝眼镜就不用多说了，作为一个潮流单品能驾驭任何风格的造型，在复古风穿搭上亦是如此，不过礼帽在日常中显得稍微有点隆重了，但是金丝眼镜建议人手一副，真的非常好搭配。\n\n以上就是男生复古风穿搭的总结，建议大家结合自身情况服用，风格大胆的可以选择图案类型和颜色夸张的复古风，而比较低调的男生则建议选择一些低调色系和比较日常的复古风。\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9736859",
+          "publishedOn": "2021-06-08T23:07:53.000Z",
+          "wordCount": null,
+          "title": "男生应该怎么搭配复古风的衣装？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9736800",
+          "author": null,
+          "description": "赵泠，遗迹是曾经讴歌繁荣的生命留下的缺页的梦。\n阅读原文\n\n2012 年，纪念弗朗西斯•克里克的“意识大会”上宣布的“剑桥宣言”主张自我意识的产生并不依赖特定的大脑构造（可参照附录），实现意识状态重要的是神经复杂性，只要突触的数量足够多，神经系统是什么形状都可以。自我意识可能是具有一定复杂度的神经系统对自身的非概念性理论，很可能是通过经验获得的一项功能，比如在学习和与自身·世界·他人互动后产生。\n意识存在的目的可能是简化关于自身生存与行为的一些判断、在神经系统做好动作准备时行使否决权等，也可能是各脑区互相联系时附带产生的功能、没有特殊的目的。\n\n对睡眠及全身麻醉的研究[1]证明，睡眠、全身麻醉和意识障碍的共同特点是大脑各区域间的功能连接中断、一系列功能状态受到限制，网络效率降低并增加孤立的模块化，为信息传输和集成创造了不适宜的条件。\n这意味着产生意识需要的可能是对信息的传输和集成。\n\n和题目误解的不同，人们目前并不知道“自我意识的功能是什么”，甚至不知道自我意识到底有没有功能。题目里所谓“有了自我意识，生物才有了趋利避害的本能”“一个简单的草履虫都有最基本的自我意识”的叙述是反事实的，还体现出“根本就不知道计算机早就做到了什么事情，闭眼瞎吹一通”的特征，从这样糟糕的前提出发，你指望能得出什么像话的结论呢。\n从蚂蚁的情况看，自我认知对神经系统的要求是很低的：\n蚂蚁那 25 万个神经元的脑就有视觉自我认知能力[2]和脑的偏侧化[3]。蚂蚁很可能有自我意识。\n那么，想要让计算机有自我意识的话，用计算机去模拟蚂蚁的脑就可以了，目前人类已经可以很好地模拟有 300 个神经元、7000 多个突触的秀丽隐杆线虫的整个连接组，从 300 到 25 万的计算力问题远没有大众刻板印象里“模拟人脑”那么可怕。\n即使你对我们的机器加工技术缺乏信心，我们还可以动用神经细胞。人类已经让 25000 个…",
+          "link": "https://daily.zhihu.com/story/9736800",
+          "publishedOn": "2021-06-08T23:07:47.000Z",
+          "wordCount": null,
+          "title": "生物的自我意识是如何产生的？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9736863",
+          "author": null,
+          "description": "艾艾艾小艾，户外/旅行干货分享 私人微信278113179\n阅读原文\n\n每年会长线徒步几次，前两天刚从川西登山回来，因为之前不少人问过我关于出行要带装备问题，所以来聊聊高海拔户外长线所需装备\n每次出行前会先用表格列出需要的装备，比如这是前几年去尼泊尔 EBC 小半个月徒步时所列举的清单\n\n下面是前几天登雪山前拍的装备\n\n以上装备也作为我在下半年为期半个月的徒步和 6000 以下雪山攀登的基础装备\n户外装备：顾名思义，是加持户外活动时需要配置的设备，按照携带背负情况，分为轻装和负重。\n轻装图重装图\n轻装：\n一般登雪山和成熟的徒步线路都有专门的背夫或马帮、骆驼帮、牦牛帮驮行李，每天的住宿和营地都是在一起的，你只需要背着小包装着一天的必需品，比如路餐、水、行走过程中需要添减的衣物，相机之类的就可以。其他所有行走过程用不到的东西均交给背夫和马帮带。\n重装：\n探险级未经开发的线路，没有成熟的商业环境或者觉得有背夫不自由则需要由自己负重。\n按照重装来说，以下列举我认为按照装备的重要性排名：\n1.背包\n2.鞋子\n3.睡袋、防潮垫和帐篷\n4.冲锋衣裤\n如果一开始预算不多，这四样能力范围买最好，虽然不至于一劳永逸，至少可以保证用多年不被淘汰，即使不用转卖也能卖个不错的价钱。\n装备相比于其他生活用品来说最是一分价钱一分货，只有经历过各种恶劣环境，亲身经历明白好装备的重要性，一定会庆幸当初对装备的投资。\n背包：\n一般来说，登山者和轻装长线徒步都配有两个背包，一个日用小包，大小可装一天来回所需的登山物品，一个是大容量背包，大小可以容纳野外过夜的装备；如果是重装的话只需要一个重装大包就可以，不用准备小包。\n没有任何一款包可以适合所有人所有线路，但是按照自己走长线的经验和身边人的使用看来，女生 60 - 70L 和男生 70L - 80L 的适用性最高。\n在选择背包上我们首先考虑的是背包的容量。看线路…",
+          "link": "https://daily.zhihu.com/story/9736863",
+          "publishedOn": "2021-06-08T23:07:38.000Z",
+          "wordCount": null,
+          "title": "户外徒步登山，应该具有哪些基础的装备？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9736836",
+          "author": null,
+          "description": "如何优雅地拒绝他人的表白？\n\nVincent Miniz，一只松鼠\n阅读原文\n\n你适合更好的，而不是我这种最好的。\n阅读原文\n\n设计师如何在中间人太多的情况下，琢磨到需求方真正想要的东西?\n\n画画的花噎菜，自由茬话师，微博同名，鉴定科群号在微博置顶里\n阅读原文\n\n你要是能琢磨出来，那你就是设计界的豌豆公主了。\n阅读原文\n\n单排到底该怎么打野?\n\n知乎用户，万二火舞 万一貂蝉 万战干将｜56段中单（干货收藏夹自取）\n阅读原文\n\n进游戏先屏蔽中单。\n阅读原文\n\n如何一句话惹怒游戏《摩尔庄园》玩家？\n\n怡宝\n阅读原文\n\n圆脸耗子锄大地\n阅读原文\n\n如何以「我喜欢上了一个暗卫」为开头写一个故事？\n\n杨过，敌人不信你的解释，朋友无须你的解释。\n阅读原文\n\n我喜欢上了一个暗卫，后来装修改造成了明卫后我更喜欢了。（完）\n\n\n我以为暗卫说的是没有窗户的卫生间………\n我觉得暗卫不透气，我还是喜欢明卫\n\n\n\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9736836",
+          "publishedOn": "2021-06-08T23:07:34.000Z",
+          "wordCount": null,
+          "title": "瞎扯 · 如何正确地吐槽",
+          "itunes": {}
+        },
         {
           "id": "https://daily.zhihu.com/story/9736828",
           "author": null,
@@ -394,66 +445,6 @@
           "wordCount": null,
           "title": "为什么岩浆可以流动？",
           "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9736794",
-          "author": null,
-          "description": "BK声学与振动，世界声学与振动专家\n阅读原文\n\n我们的听觉系统的显著能力之一是可以确定声源的位置。\n这在生活中的许多情况下都是至关重要的，例如交通的安全导航。但声音的空间属性对于在游戏和家庭影院配置中实现真实的声学环境也很重要。\n我们如何定位声音？\n我们的听力使用的第一个线索是双耳时差（图 1a）。来自我们正前方或正后方的声音会同时到达双耳。如果信号源向左或向右移动，我们的听觉系统会识别出来自同一信号源的声音分别到达双耳，但是会有一定的延迟，或者从另一个角度看，两只耳朵接收到同一个信号的不同相位。\n\n两耳时差图 1a：当声音来自前方，双耳时差为零（左）。当声音来自侧面，头的尺寸约为 20 厘米，声速为 340 米 / 秒，最大时差为 0.58 毫秒（右）\n在低频下可以最佳地解密相位差。在较高的频率下，与头部的尺寸相比，波长可能太短，以至于信号制式自身重复，两只耳朵可能碰巧接收到相同的相位（图 1b）。\n\n两耳相位差图 1b：通常耳朵会感测到相位差（左），根据频率和入射角度，它们可以检测到虚假相位匹配（右）。\n幸运的是，听觉系统可以借助另一个线索：当声音从侧面到达时，我们的头部会产生声影区，并随频率上升而扩大。\n在非常低的频率下，我们头部的尺寸与空气中的声音的波长相比是小的。因此，无论声音从哪个方向到达，左耳和右耳的声压基本相同。\n然而，随着频率的增加，波长减小，此时我们的头部尺寸不能再被忽略了。它成为屏蔽和反射声音的障碍物，使得与面向声源的耳朵相比，当其到达头部另一侧的耳朵时，较高频率的成分将被衰减。\n我们的耳廓的形状还可提供丰富的频谱（频率依赖）线索。像头部的声影区一样，耳廓起到一个屏蔽层的作用，使不是从前面直接进入的较高频率的声音衰减。你可以通过转离再转向一个声源来体验这一点。这样做的时候，你应该能感受到高频率的微小变化，而这种变化你通常是不会注意到的。\n另外，根据频率和入射方向，声音在耳廓内反射到耳道时，耳廓的形状会影响声音，从而增强某些频率并衰减其他频率。\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9736794",
-          "publishedOn": "2021-06-06T23:06:37.000Z",
-          "wordCount": null,
-          "title": "人是如何听出声音的位置的？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9736740",
-          "author": null,
-          "description": "假如相声纳入高考考试科目会出现哪些题型？\n\n章鱼哥，别看我说什么，要看我做什么。\n阅读原文\n\n于谦父亲是谁？（90分）\n阅读原文\n\n星巴克有哪些奇葩顾客提的要求，让你目瞪口呆？\n\n金克丝\n阅读原文\n\n在星巴克兼职一年半，现已辞职。\n1.一个五十多岁的大叔过来跟我说，给我来一杯浓情化不开。我：？？？？不好意思了我们这里没有浓情化不开。大叔中气十足一吼：热巧克力啊你不知道吗？行，那没事了马上给您整。\n2.一个外国客人看着饼柜好久，我面带微笑等他点单，他说：epinsui.我：？？这是什么单词，脑子里搜索一遍，查无此词，当机。然后外国客人重复了好多遍，都开始着急了我还是不明白。然后旁边伙伴过来说，一瓶水啊！憨憨。\n \n阅读原文\n\n老师会对长得好看的学生有想法吗？\n\n倔强先生，天与地\n阅读原文\n\n看到长得好又努力的孩子，我会想：真好！真对得起这张脸!\n看到长得好不努力的孩子，我会想：白瞎了那张脸!\n看到长得不好努力的孩子，我会想：做得好!这世上大部分人都是张平凡的脸，努力比什么都重要。\n看到长得不好又不努力的孩子，我会想：回家照照镜子，你还不努力点!\n阅读原文\n\n有哪些让人瞬间就想笑的笑话？\n\n假装在成都，携程经理 跟团定制旅游产品砍价 微信yk243353625\n阅读原文\n\n去加油，加油站的大姐说:“四百三十五”\n老婆问:“抹个零，四百三行不行?”\n我对她说:“别丢人，你以为买菜啊，还讲价。”\n她说“不问问怎么知道行不行?”\n我说“不用问，加油站能讲价我裸奔回家”。\n大姐笑着看看我说“行，就收四百三。”\n \n评论区@钢管：\n五块钱看个裸奔，我掏钱也看啊\n阅读原文\n\n一直关注一个知乎大神，看他的各种问题回答，今天突然发现对他很有好感怎么办?\n\n知乎用户，省直机关公务员，私信：tuobayuelinger。\n阅读原文\n\n破案了，大神是 @知乎日报\n\n妹妹，知乎日报不是一个人，手动狗头。\n \n（注：小李已辟谣，见回答链接 doge.jpg）\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9736740",
-          "publishedOn": "2021-06-06T23:06:30.000Z",
-          "wordCount": null,
-          "title": "瞎扯 · 如何正确地吐槽",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9736610",
-          "author": null,
-          "description": "知乎用户，一个圣骑士成熟的标志是不再向盲人解释阳光\n阅读原文\n\n按我的经验，会有心理压力，但是与一般人理解的不同。可能存在这三方面的压力：\n1、对于一个新手法官，最大的压力不在于作出判决，而在于执行。\n我国的法官制度很有问题，它决定一个人能不能作出死刑判决的标准不在于这个人的业务经验、阅历以及心理的成熟程度，而在于他在部队的级别，或者他报考公务员时选择的报考单位。\n所以经常会有三十岁不到的法官作为法官来决定一个案件是否需要适用死刑。\n有些案件的死刑是毫无争议的，比如最常见的死刑案件就是以特别残忍手段杀人，绑架后撕票，多次抢劫杀人，贩卖毒品几十公斤，只要事实确定，那基本上没有死刑立即执行之外的第二个选项。作出死刑判决时，法官的心理是没有太大压力的。\n但是，一审法官要参与死刑的执行。让一个三十岁不到的年轻人亲自参与死刑的执行过程，要见证一个死囚犯生命中最后的时刻，要签名确认死刑执行的整个流程，如果是军转可能还好，但现在更多的是刚硕士毕业（有些地方甚至是本科毕业）就进法院的大学生，这是很沉重很有压力的过程。\n2、案件的证据能否支持事实的认定。\n知乎上一谈到“刑辩律师是否应该为坏人辩护”时，总有回答会说“法律事实不能等同于客观事实，客观事实无法重现，而法律事实是不确定的，你无法保证确实是这个人实施犯罪”。但实际上，有些案件根据一般人的生活经验等等，都足以判断事实；但是在证据上却未必能够认定。\n一般人总以为刑事诉讼的“证据确实充分”和“证据不足”是一条线的两边。但实际上，在这两者之间还存在一条边界很宽的“证据单薄”。即有证据证明事实，并且根据一般人的阅历也足以判断事实是真实的，但是总是缺那么一根压死被告人的稻草，心里有些没底。\n比如杭州保姆纵火案，大家都可以确信就是那个保姆放的火。哪怕毫无证据，这也是一种接近客观事实的认知。但是，万一那个案件的取证程序有问题呢？比如，只有保姆自己的有罪 供述，但是没有任何直接的客观证据（或者因为取证程序不合法而导致客观证据不能作为证据使用），还能认定“保姆纵火”这个事实吗？\n前几天正好和同学讨论一个问题：“如果非法取证的杀人视频是唯一的有罪证据，你作为法官会看这份视频吗？”同学群里虽然多个同学都是法官，但作出的选择也并不是一致的。\n有些案件的证据很单薄，或者证据存疑，只凭证据不足以完全认定有罪 事实；但是仅凭生活阅历就可推断眼前这人是犯罪者。由于死刑案件的证据标准比一般的刑事案件更加严格（事实上证据标准与案件的最终量刑成正比，量刑十年以上的案件证据标准肯定会比量刑一年的案件更严格）。\n这时候如果认定事实，就必须判处死刑立即执行；如果不认定事实，就是无罪。在面临这种两难选择之时，法官就会很有压力。\n例如，有大量的间接证据表明这个人实施了犯罪，但是没有直接证据；或者有大量的言辞证据，但缺少有力的客观证据；或者存在一定的量刑因素，但是证据不足以证明（比如被告人辩解是因为遭受家暴才杀人，并且根据阅历也确实有这个可能，但是没有证据来证明）。这些情况下，法官作出有罪 与无罪 的选择时，往往要经历内心痛苦的煎熬。\n3、案件本身存在死与不死的争议\n有些案件是明显判不了死刑的，有些案件是明显要判死刑（立即执行）的，但是也有很多案件处于两者的边缘，可死可不死。这种情况下，法官要作出选择也是很痛苦的。\n就比如故意杀人罪 ，基础量刑其实就是死刑，法官要在此基础上根据具体案件细节（包括证据细节）来确定是死缓还是死立执。比如上面说的，如果证据上存在一些问题，或者认定犯罪的关键证据在取证程序上存在瑕疵（有个同学认为非法取证的杀人视频属于可以补正的取证程序瑕疵），那就判处死缓；如果有明显偏离社会道德的细节，如反伦理（阿尔萨斯那种）、手段残忍等，那就死立执。\n但是如果是非常标准的杀人，没有太多可供量刑的细节；或者既有重判又有轻判的细节（如因为被害人有轻微过错的矛盾，以不算太残忍的手段杀人）。这些情况下，到底是死缓还是死立执，也是很困难的选择，当然也会有压力。\n至于社会舆论、被害方家属或被告方家属的情绪等等，一个合格的法官不能仅仅因为这些内容就作出死或不死的选择。\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9736610",
-          "publishedOn": "2021-06-05T23:07:49.000Z",
-          "wordCount": null,
-          "title": "法官在死刑的量刑与审核中会有心理压力吗?",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9736687",
-          "author": null,
-          "description": "猫研所，猫咪知识精准科普平台\n阅读原文\n\n喵星人都喜欢呆在高高的地方，是因为这是它们的捕猎本能。\n大多数猫科动物在野外，都喜欢爬到高高的地方隐蔽起来，这让它们处于优势地位，对于观察环境、捕捉猎物很有用，还可以躲避天敌和其他猫，避免被攻击。\n图自：ペットライン\n但是在家里，明明没有猎物可捕捉，也没有天敌啊，为什么喵星人还喜欢待在高处？\n因为家里还是可能会有令它们不喜欢的东西，比如吵闹的小孩和傻乎乎的狗。\n以及偶尔很令喵烦恼的你……\n又来了又来了……图自：网络\n一，高的地方，是猫咪的安全空间\n其实也不一定只是讨厌谁啦，猫咪是喜欢安静空间，讨厌吵闹的地方。为了避免干扰，猫咪会选择柜顶、冰箱顶、架子等高地待着，这让它们感到安心。\n但其实冰箱上不够安全。图自：Pinterest\n如果家里来了陌生人，又或者与铲屎官发生了不愉快，这种躲避行为就更明显。\n讨厌的家伙什么时候离开啊。图自：Yahoo! JAPAN\n而当猫咪之间发生了摩擦，它们通常也会选择先往高处躲避，所以家里的垂直落差空间越大，也就对缓和多猫家庭的紧张关系更有利。\n\n高，有时也代表等级高\n\n对于多猫家庭来说，等级地位高的猫往往能够占据最高的位置，因为这个地方往往进可攻退可守，纵观全局，全面观察到其他的人和动物。\n世界尽在本喵掌握中。图自：istockphoto\n所以喵星人总是会想着得到最高的位置，比如猫爬架最顶层，甚至有时不惜小打出手。\n上面是我的！打洗你！图自：peppynet\n不过猫咪之间顶级争夺战往往不会太激烈，并且位置也不固定，偶尔还愿意轮流分享 “高级办公室”工位，前提是可供选择的地方够多。\n\n而且，越高就越暖和鸭\n\n众所周知喵星人是喜欢温暖的动物，而热气流往上层空间走，这让喵星人越是在寒冷的天气，越喜欢寻找高的地方睡觉和休息。\n温暖、舒服、安心。图自：peppynet\n所以在冬天，如果你突然找不到你的猫了。可以找…",
-          "link": "https://daily.zhihu.com/story/9736687",
-          "publishedOn": "2021-06-05T23:07:40.000Z",
-          "wordCount": null,
-          "title": "你家猫猫喜欢站在高处吗？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9736620",
-          "author": null,
-          "description": "住范儿石乐天，家装服务请私联，其他 w: zhufanzh\n阅读原文\n\n餐厅是家中的高频使用区，在餐厅中最重要的一个物件就是餐桌。然而在购买餐桌的时候，大多数人都是看看样子就决定了，却很少考虑到餐桌的形状也是有很多讲究的。\n简单来说需要先确定几个问题：\n家里常住几口人？\n餐厅在哪里？面积多大？\n需要多大的餐边储物空间？\n确定完之后才正式进入选购餐桌的阶段。\n一、关于餐桌的刻板印象\n市面上的餐桌有很多种，圆的、方的、圆的折叠成方的、圆的折叠成半圆的、异形的、木头整板 freestyle 形的……但是家用餐桌常见的就两种：圆桌、方桌。\n\n▲ 整块木板做的桌面。图源：pinterest\n不得不承认我们对于餐桌的形状是存在刻板印象的。\n提到圆桌就能联想到年夜饭、阖家团圆这类中国文化色彩浓重的场景，圆形餐桌让大家距离更近，聊天也都能看到对方的表情，有和气之美。\n\n▲ 电影《饮食男女》中的餐桌就是大圆桌，\n 图源：http://www.1905.com\n提到方桌就是刀叉圆盘葡萄酒、烛台礼服排排坐，觥筹交错间流露出“资本主义的腐朽”，排排坐更是显露出森严的等级制度。\n\n▲ 《唐顿庄园》中的晚宴餐桌为长椭圆形，图源：ins\n其实以上都属于过度解读，不管是在中国还是在西方的餐桌礼仪中，关于座位排次都是有严格要求的，圆桌也同样能分主座、客座。\n造成“中国人更喜欢圆桌，西方人更偏爱方桌”的唯一原因是饮食习惯的不同。西方人是分餐，每人吃自己餐盘中的食物，中国人则是合餐，大家一起吃桌上的菜，要是排排坐的话，就会出现看得见吃不着的尴尬。\n慢慢的到了现在，家庭用餐已经没有那么多需要遵循的规矩了，一般家庭是 3-6 人用餐的情况居多，那么到底选择方桌还是圆桌呢？\n二、方桌和圆桌\n我们从餐桌形状与空间的关系、餐桌摆放两方面来比较圆桌和方桌的利用率。\n以 4 人桌为例子（直径 90cm），圆形餐桌和方形的餐桌…",
-          "link": "https://daily.zhihu.com/story/9736620",
-          "publishedOn": "2021-06-05T23:07:31.000Z",
-          "wordCount": null,
-          "title": "餐桌的挑选方法有哪些？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9736731",
-          "author": null,
-          "description": "麦文学，学习秘笈, 传里不传外传男不传 bit.ly/3wVOitZ\n阅读原文\n\n您挑出来的东西叫 “软垢”。\n软垢实际上就是个细菌的培养基。臭臭的味道就对了， 但不会恶臭。同样的臭味还可见于大肠（正常的粪便）臭臭的味道来自微生物分解碳水化合物（糖）、脂肪和蛋白质以后产生的各种产物包括气体。\n没错， 大家的口腔里十分常见大肠杆菌以及正常菌群包含的细菌。口腔正常菌群有链球菌、表皮葡萄球菌、奈瑟氏菌、乳杆菌、螺旋体、假丝酵母等等。据美国微生物学会（American Society of Microbiology）的说法，口腔微生物群落有 700 多种常见细菌。 引起滴虫病或者腹泻的阿米巴， 引起沙眼或者非淋病尿道炎的衣原体支原体同样可能在口腔里面发现。\n口腔基本恒温，有缓冲性的唾液、食物残渣，为培养正常菌群提供了十分适宜的条件。最常见的菌群是甲型链球菌和厌氧链球菌，其次是表皮葡萄球菌、奈瑟氏菌（Neisseria）、乳杆菌（Lactobacillus）、螺旋体（Spirochaeta）、假丝酵母（Candida）等。厌氧链球菌中有一种变异链球菌（Streptococcus mutans），与龋齿的发生关系密切。\n刷牙的重点部位在牙齿本身（临床牙冠）、牙龈与牙齿之间的浅沟（龈沟）以及牙齿与牙齿之间的牙龈缝隙(龈乳头上方的邻间隙和外展隙)，刷牙要将口腔内特别是以上三个主要区域的牙垢和食物残渣清除干净。一般来说，早晚刷牙 2 次（24 小时内）即可达到较好的效果。牙齿之间不容易进入的地方可以使用牙线（带或不带把手均可）。\n** 在两牙接触区周围均有向四周展开的呈 V 字形的空隙，称为楔状隙或外展隙。在唇（颊）、舌侧的空隙分别称为唇（颊）楔状隙和舌楔状隙；在切、（牙合）方的空隙，分别称为切楔状隙和（牙合）楔状隙；在龈方的空隙称为邻间隙。\n刷牙是去除菌斑的最有效的办法。但是在去除以后，菌…",
-          "link": "https://daily.zhihu.com/story/9736731",
-          "publishedOn": "2021-06-05T23:07:22.000Z",
-          "wordCount": null,
-          "title": "为什么掏牙缝会有臭臭的味道？",
-          "itunes": {}
         }
       ]
     },
@@ -462,6 +453,76 @@
       "feedUrl": "https://pt.eastgame.org/torrentrss.php?rows=10&tea1=1&ismalldescr=1&isize=1",
       "siteUrl": "https://pt.eastgame.org",
       "articles": [
+        {
+          "id": "7634a42308f529030824b609c952d249f899cbec",
+          "author": "zuimeng1997@pt.eastgame.org (zuimeng1997)",
+          "description": "引用 \n◎制　　作　zuimeng1997 @ TLF HALFCD TeaM\n\r\n\n\r\n\r\n◎译　　名　明日传奇 第五季/DC's Legends of Tomorrow/DC明日传奇\n\r\n◎片　　名　Legends of Tomorrow Season 5\n\r\n◎年　　代　2020\n\r\n◎产　　地　美国\n\r\n◎类　　别　剧情/动作/科幻/冒险\n\r\n◎语　　言　英语\n\r\n◎上映日期　2020-01-21(美国)\n\r\n◎IMDb评分  7.5/10 from 1175 users\n\r\n◎IMDb链接  https://www.imdb.com/title/tt9695566/\n\r\n◎豆瓣评分　8.3/10 from 1365 users\n\r\n◎豆瓣链接　https://douban.com/subject/30450388/\n\r\n◎集　　数　15\n\r\n◎片　　长　43分钟\n\r\n◎导　　演　大卫·盖迪斯 David Geddes / 格里高利·史密斯 Gregory Smith / 亚历山德拉·拉罗什 Alexandra La Roche / 凯蒂·洛茨 Caity Lotz\n\r\n◎编　　剧　格里格·伯兰蒂 Greg Berlanti / 马克·古根海姆 Marc Guggenheim / 安德鲁·克雷斯伯格 Andrew Kreisberg / 菲尔·柯尔摩 Phil Klemmer / Morgan Faust / 马克·布鲁纳 Mark Bruner\n\r\n◎主　　演　布兰登·罗斯 Brandon Routh\n\r\n　　　　  　凯蒂·洛茨 Caity Lotz\n\r\n　　　　  　艾米·彭伯顿 Amy Pemberton\n\r\n　　　　  　多米尼克·珀塞尔 Dominic Purcell\n\r\n　　　　  　麦茜·理查森·塞勒斯 Maisie Richardson-Selle…",
+          "link": "https://pt.eastgame.org/details.php?id=44722",
+          "publishedOn": "2021-06-09T06:07:07.000Z",
+          "wordCount": 71,
+          "title": "DCs Legends of Tomorrow S05 2020 BD HEVC 10bit MiniHD-TLF[明日传奇 第五季  | 全季15集][8.66 GB]",
+          "enclosure": {
+            "url": "https://pt.eastgame.org/download.php?id=44722",
+            "length": "9293461799",
+            "type": "application/x-bittorrent"
+          }
+        },
+        {
+          "id": "2f527d5c5a7cd70a22055c74a30aa7f7917982fc",
+          "author": "zuimeng1997@pt.eastgame.org (zuimeng1997)",
+          "description": "引用 \n◎制　　作　zuimeng1997 @ TLF HALFCD TeaM\n\r\n\n\r\n\r\n◎译　　名　明日传奇 第四季/DC's Legends of Tomorrow/DC明日传奇\n\r\n◎片　　名　Legends of Tomorrow Season 4\n\r\n◎年　　代　2018\n\r\n◎产　　地　美国\n\r\n◎类　　别　剧情/动作/科幻/冒险\n\r\n◎语　　言　英语\n\r\n◎上映日期　2018-10-22(美国)\n\r\n◎IMDb评分  8.2/10 from 1654 users\n\r\n◎IMDb链接  https://www.imdb.com/title/tt8227100/\n\r\n◎豆瓣评分　7.7/10 from 1860 users\n\r\n◎豆瓣链接　https://douban.com/subject/30280073/\n\r\n◎集　　数　16\n\r\n◎片　　长　42分钟\n\r\n◎导　　演　德莫特·唐斯 Dermott Downs / 格里高利·史密斯 Gregory Smith\n\r\n◎编　　剧　格里格·伯兰蒂 Greg Berlanti / 马克·古根海姆 Marc Guggenheim / 安德鲁·克雷斯伯格 Andrew Kreisberg / 菲尔·柯尔摩 Phil Klemmer / Morgan Faust\n\r\n◎主　　演　布兰登·罗斯 Brandon Routh\n\r\n　　　　  　凯蒂·洛茨 Caity Lotz\n\r\n　　　　  　塔拉·阿什 Tala Ashe\n\r\n　　　　  　杰斯·麦卡兰 Jes Macallan\n\r\n　　　　  　艾米·彭伯顿 Amy Pemberton\n\r\n　　　　  　尼克·扎诺 Nick Zano\n\r\n　　　　  　多米尼克·珀塞尔 Dominic Purcell\n\r\n　　　　  　马特·瑞安 Matt Ryan\n\r\n　　　　  　…",
+          "link": "https://pt.eastgame.org/details.php?id=44721",
+          "publishedOn": "2021-06-09T06:03:30.000Z",
+          "wordCount": 71,
+          "title": "DCs Legends of Tomorrow S04 2018 BD HEVC 10bit MiniHD-TLF[明日传奇 第四季  | 全季16集][9.92 GB]",
+          "enclosure": {
+            "url": "https://pt.eastgame.org/download.php?id=44721",
+            "length": "10649783709",
+            "type": "application/x-bittorrent"
+          }
+        },
+        {
+          "id": "03922680c8a16087d65fbfd70313bc97872a8af0",
+          "author": "zuimeng1997@pt.eastgame.org (zuimeng1997)",
+          "description": "引用 \n◎制　　作　zuimeng1997 @ TLF HALFCD TeaM\n\r\n\n\r\n\r\n◎译　　名　明日传奇 第三季/DC's Legends of Tomorrow/DC明日传奇\n\r\n◎片　　名　Legends of Tomorrow Season 3\n\r\n◎年　　代　2017\n\r\n◎产　　地　美国\n\r\n◎类　　别　剧情/动作/科幻/冒险\n\r\n◎语　　言　英语\n\r\n◎上映日期　2017-10-10(美国)\n\r\n◎IMDb评分  7.9/10 from 1848 users\n\r\n◎IMDb链接  https://www.imdb.com/title/tt6403446/\n\r\n◎豆瓣评分　7.4/10 from 2192 users\n\r\n◎豆瓣链接　https://douban.com/subject/26952097/\n\r\n◎集　　数　18\n\r\n◎编　　剧　马克·古根海姆 Marc Guggenheim / 菲尔·柯尔摩 Phil Klemmer\n\r\n◎主　　演　塔拉·阿什 Tala Ashe\n\r\n　　　　  　维克多·加博 Victor Garber\n\r\n　　　　  　布兰登·罗斯 Brandon Routh\n\r\n　　　　  　凯蒂·洛茨 Caity Lotz\n\r\n　　　　  　弗朗茨·德拉姆 Franz Drameh\n\r\n　　　　  　艾米·彭伯顿 Amy Pemberton\n\r\n　　　　  　尼克·扎诺 Nick Zano\n\r\n　　　　  　多米尼克·珀塞尔 Dominic Purcell\n\r\n　　　　  　亚瑟·达维尔 Arthur Darvill\n\r\n　　　　  　尼尔·麦克唐纳 Neal McDonough\n\r\n　　　　  　杰斯·麦卡兰 Jes Macallan\n\r\n　　　　  　麦茜·理查森·塞勒斯 Maisie Richardson-Sellers\n…",
+          "link": "https://pt.eastgame.org/details.php?id=44718",
+          "publishedOn": "2021-06-09T05:24:55.000Z",
+          "wordCount": 71,
+          "title": "DCs Legends of Tomorrow S03 2017 BD HEVC 10bit MiniHD-TLF[明日传奇 第三季  | 全季18集][14.58 GB]",
+          "enclosure": {
+            "url": "https://pt.eastgame.org/download.php?id=44718",
+            "length": "15657950980",
+            "type": "application/x-bittorrent"
+          }
+        },
+        {
+          "id": "7a6bd207f52914084b0e278f97e96617a223b53a",
+          "author": "zuimeng1997@pt.eastgame.org (zuimeng1997)",
+          "description": "引用 \n◎制　　作　zuimeng1997 @ TLF HALFCD TeaM\n\r\n\n\r\n\r\n◎译　　名　明日传奇 第二季/DC's Legends of Tomorrow/DC明日传奇\n\r\n◎片　　名　Legends of Tomorrow Season 2\n\r\n◎年　　代　2016\n\r\n◎产　　地　美国\n\r\n◎类　　别　动作/科幻\n\r\n◎语　　言　英语\n\r\n◎上映日期　2016-10-13(美国)\n\r\n◎IMDb评分  8.4/10 from 2305 users\n\r\n◎IMDb链接  https://www.imdb.com/title/tt5540402/\n\r\n◎豆瓣评分　6.8/10 from 2839 users\n\r\n◎豆瓣链接　https://douban.com/subject/26749014/\n\r\n◎集　　数　17\n\r\n◎片　　长　42分钟\n\r\n◎导　　演　德莫特·唐斯 Dermott Downs / 爱丽丝·特劳顿 Alice Troughton\n\r\n◎编　　剧　格里格·伯兰蒂 Greg Berlanti / 马克·古根海姆 Marc Guggenheim / 安德鲁·克雷斯伯格 Andrew Kreisberg / 菲尔·柯尔摩 Phil Klemmer\n\r\n◎主　　演　尼克·扎诺 Nick Zano\n\r\n　　　　  　帕特里克·J·亚当斯 Patrick J. Adams\n\r\n　　　　  　约翰·巴罗曼 John Barrowman\n\r\n　　　　  　马特·莱斯切尔 Matt Letscher\n\r\n　　　　  　温特沃斯·米勒 Wentworth Miller\n\r\n　　　　  　维克多·加博 Victor Garber\n\r\n　　　　  　布兰登·罗斯 Brandon Routh\n\r\n　　　　  　亚瑟·达维尔 Arthur Darvill\n\r\n　　…",
+          "link": "https://pt.eastgame.org/details.php?id=44717",
+          "publishedOn": "2021-06-09T05:19:41.000Z",
+          "wordCount": 71,
+          "title": "DCs Legends of Tomorrow S02 2016 BD HEVC 10bit MiniHD-TLF[明日传奇 第二季  | 全季17集][11.21 GB]",
+          "enclosure": {
+            "url": "https://pt.eastgame.org/download.php?id=44717",
+            "length": "12036463529",
+            "type": "application/x-bittorrent"
+          }
+        },
+        {
+          "id": "6243d5adfb2bd3f5f30bb880b3e803b3c1a2caee",
+          "author": "zuimeng1997@pt.eastgame.org (zuimeng1997)",
+          "description": "引用 \n◎制　　作　zuimeng1997 @ TLF HALFCD TeaM\n\r\n\n\r\n\r\n◎译　　名　明日传奇 第一季/DC's Legends of Tomorrow/DC明日传奇\n\r\n◎片　　名　Legends of Tomorrow Season 1\n\r\n◎年　　代　2016\n\r\n◎产　　地　美国\n\r\n◎类　　别　动作/科幻\n\r\n◎语　　言　英语\n\r\n◎上映日期　2016-01-21(美国)\n\r\n◎IMDb评分  6.8/10 from 94280 users\n\r\n◎IMDb链接  https://www.imdb.com/title/tt4532368/\n\r\n◎豆瓣评分　6.2/10 from 5392 users\n\r\n◎豆瓣链接　https://douban.com/subject/26358783/\n\r\n◎集　　数　16\n\r\n◎片　　长　40分钟\n\r\n◎导　　演　德莫特·唐斯 Dermott Downs / 乔·丹特 Joe Dante / 史蒂夫·希尔 Steve Shill / 格里高利·史密斯 Gregory Smith / 安东尼奥·奈格列 Antonio Negret / 托尔·弗罗伊登塔尔 Thor Freudenthal\n\r\n◎编　　剧　格里格·伯兰蒂 Greg Berlanti / 安德鲁·克雷斯伯格 Andrew Kreisberg / 马克·古根海姆 Marc Guggenheim / 克里斯·费达克 Chris Fedak\n\r\n◎主　　演　亚瑟·达维尔 Arthur Darvill\n\r\n　　　　  　维克多·加博 Victor Garber\n\r\n　　　　  　凯蒂·洛茨 Caity Lotz\n\r\n　　　　  　温特沃斯·米勒 Wentworth Miller\n\r\n　　　　  　多米尼克·珀塞尔 Dominic Purcell\n\r\n　　　…",
+          "link": "https://pt.eastgame.org/details.php?id=44716",
+          "publishedOn": "2021-06-09T05:16:43.000Z",
+          "wordCount": 71,
+          "title": "DCs Legends of Tomorrow S01 2016 BD HEVC 10bit MiniHD-TLF[明日传奇 第一季 | 全季16集][12.11 GB]",
+          "enclosure": {
+            "url": "https://pt.eastgame.org/download.php?id=44716",
+            "length": "13007337402",
+            "type": "application/x-bittorrent"
+          }
+        },
         {
           "id": "76761a9531e660e92d9de5c7637dd8e07ecee310",
           "author": "anonymous@pt.eastgame.org (anonymous)",
@@ -529,76 +590,6 @@
           "enclosure": {
             "url": "https://pt.eastgame.org/download.php?id=44673",
             "length": "933447867",
-            "type": "application/x-bittorrent"
-          }
-        },
-        {
-          "id": "19beaf895e86c2a84fd697fef804f3aca594d406",
-          "author": "fixxxer@pt.eastgame.org (fixxxer)",
-          "description": "◎制　　作　Fixxxer @ TLF HALFCD TeaM\n\r\n\n\r\n◎译　　名　行骗天下JP：公主篇\n\r\n◎片　　名　The Confidence Man JP: Princess\n\r\n◎又　　名　信用欺詐師JP：公主篇(港) / 行骗天下 剧场版：公主篇 / コンフィデンスマンJP 続編\n\r\n◎年　　代　2020年\n\r\n◎国家/地区 日本\n\r\n◎类　　别  剧情 / 喜剧\n\r\n◎语　　言  日语\n\r\n◎上映日期  2020-07-23(日本)\n\r\n◎豆瓣评分　7.3/10 (26229 users)\n\r\n◎豆瓣链接  https://movie.douban.com/subject/33476040/\n\r\n◎IMDb评分　6.6/10 from 615 votes\n\r\n◎IMDb链接  https://www.imdb.com/title/tt12767996\n\r\n◎IMDB时长　124 min\n\r\n◎烂 番 茄　\n\r\n◎Metascore N/A\n\r\n◎分　　级　N/A\n\r\n◎票　　房　N/A\n\r\n◎片　　长　124分钟\n\r\n◎导　　演　田中亮 Ryô Tanaka\n\r\n◎编　　剧　古泽良太 Ryota Kosawa\n\r\n◎主　　演　长泽雅美 Masami Nagasawa\n\r\n　　　　　　东出昌大 Masahiro Higashide\n\r\n　　　　　　小日向文世 Fumiyo Kohinata\n\r\n　　　　　　白滨亚岚 Alan Shirahama\n\r\n　　　　　　关水渚 Nagisa Sekimizu\n\r\n　　　　　　古川雄大 Yuta Furukawa\n\r\n　　　　　　柴田恭兵 Kyôhei Shibata\n\r\n　　　　　　北大路欣也 Kinya Kitaoji\n\r\n　　　　　　三浦春马 Haruma Miura\n\r\n　　　　　　竹内结子 Yûko Take…",
-          "link": "https://pt.eastgame.org/details.php?id=44672",
-          "publishedOn": "2021-06-07T09:14:55.000Z",
-          "wordCount": 71,
-          "title": "The.Confidence.Man.JP.Princess.2020.BD.MiniSD-TLF[行骗天下JP.公主篇[6.6][tt12767996]][1.10 GB]",
-          "enclosure": {
-            "url": "https://pt.eastgame.org/download.php?id=44672",
-            "length": "1181183470",
-            "type": "application/x-bittorrent"
-          }
-        },
-        {
-          "id": "e47b6a56c5005ff0dc1e0bc690740579bcd96ad6",
-          "author": "wqsyy213@pt.eastgame.org (wqsyy213)",
-          "description": "BBS链接：https://bbs.eastgame.org/viewthread.php?tid=165886\n\r\n◎制　　作　南瓜 @ TLF HALFCD TeaM\n\r\n\n\r\n◎译　　名　宋飞正传 第九季/宋飞外传 第九季\n\r\n◎片　　名　Seinfeld\n\r\n◎年　　代　1997\n\r\n◎国　　家　美国\n\r\n◎类　　别　喜剧\n\r\n◎语　　言　英语\n\r\n◎上映日期　1997-09-25(美国)\n\r\n◎IMDb评分　8.9/10 (222,681 votes)\n\r\n◎IMDb链接　http://www.imdb.com/title/tt0098904/\n\r\n◎豆瓣评分　9.4/10 (920 votes)\n\r\n◎豆瓣链接　https://movie.douban.com/subject/4203806/\n\r\n◎片　　长　30分钟\n\r\n◎导　　演　\n\r\n◎主　　演　杰瑞·宋飞 Jerry Seinfeld\n\r\n　　　　　　茱莉亚·路易斯-德瑞弗斯 Julia Louis-Dreyfus\n\r\n　　　　　　迈克尔·理查兹 Michael Richards\n\r\n　　　　　　杰森·亚历山大 Jason Alexander\n\r\n◎简　　介　\n\r\n　　A stand-up comedian and his three offbeat friends weather the pitfalls and payoffs of life in New York City in the '90s.\n\r\n\r\n 引用 \n◎文件名称　宋飞正传.Seinfeld.S09E01.1997.WEB-DL.MiniSD-TLF.mkv\n\r\n◎文件大小　144.3 MiB\n\r\n◎影片长度　00:22:46.175\n\r\n◎混合码率　886 Kbps\n\r\n◎封装时间　UTC 2019-05-11 04:44:54\n…",
-          "link": "https://pt.eastgame.org/details.php?id=44670",
-          "publishedOn": "2021-06-07T06:09:42.000Z",
-          "wordCount": 71,
-          "title": "Seinfeld.S09.1997.WEB-DL.MiniSD-TLF[宋飞正传 第九季][3.57 GB]",
-          "enclosure": {
-            "url": "https://pt.eastgame.org/download.php?id=44670",
-            "length": "3836533572",
-            "type": "application/x-bittorrent"
-          }
-        },
-        {
-          "id": "157ce69bc43dd61b2a546aa71513600d25157b49",
-          "author": "wqsyy213@pt.eastgame.org (wqsyy213)",
-          "description": "BBS链接：https://bbs.eastgame.org/viewthread.php?tid=165885\n\r\n◎制　　作　南瓜 @ TLF HALFCD TeaM\n\r\n\n\r\n◎译　　名　宋飞正传 第八季/宋飞外传 第八季\n\r\n◎片　　名　Seinfeld\n\r\n◎年　　代　1996\n\r\n◎国　　家　美国\n\r\n◎类　　别　喜剧\n\r\n◎语　　言　英语\n\r\n◎上映日期　1996-09-19(美国)\n\r\n◎IMDb评分　8.9/10 (222,681 votes)\n\r\n◎IMDb链接　http://www.imdb.com/title/tt0098904/\n\r\n◎豆瓣评分　9.2/10 (768 votes)\n\r\n◎豆瓣链接　https://movie.douban.com/subject/4203800/\n\r\n◎片　　长　30分钟\n\r\n◎导　　演　\n\r\n◎主　　演　杰瑞·宋飞 Jerry Seinfeld\n\r\n　　　　　　茱莉亚·路易斯-德瑞弗斯 Julia Louis-Dreyfus\n\r\n　　　　　　迈克尔·理查兹 Michael Richards\n\r\n　　　　　　杰森·亚历山大 Jason Alexander\n\r\n◎简　　介　\n\r\n　　A stand-up comedian and his three offbeat friends weather the pitfalls and payoffs of life in New York City in the '90s.\n\r\n\r\n 引用 \n◎文件名称　宋飞正传.Seinfeld.S08E01.1996.WEB-DL.MiniSD-TLF.mkv\n\r\n◎文件大小　143.3 MiB\n\r\n◎影片长度　00:22:54.879\n\r\n◎混合码率　874 Kbps\n\r\n◎封装时间　UTC 2019-05-11 03:23:22\n…",
-          "link": "https://pt.eastgame.org/details.php?id=44669",
-          "publishedOn": "2021-06-07T06:05:55.000Z",
-          "wordCount": 71,
-          "title": "Seinfeld.S08.1996.WEB-DL.MiniSD-TLF[宋飞正传 第八季][3.21 GB]",
-          "enclosure": {
-            "url": "https://pt.eastgame.org/download.php?id=44669",
-            "length": "3451143440",
-            "type": "application/x-bittorrent"
-          }
-        },
-        {
-          "id": "1702a45d28fb61dc5a57faa5965081736790818c",
-          "author": "nbarock@pt.eastgame.org (nbarock)",
-          "description": "◎制　　作　认识你的敌人 @ TLF HALFCD TeaM\n\r\n\r\n\n\r\n\r\n◎译　　名　顺流逆流 / Time and Tide\n\r\n◎片　　名　順流逆流\n\r\n◎年　　代　2000\n\r\n◎产　　地　中国香港 / 中国大陆\n\r\n◎类　　别　剧情 / 动作 / 惊悚 / 犯罪\n\r\n◎语　　言　汉语普通话 / 福建话 / 粤语 / 英语 / 葡萄牙语\n\r\n◎上映日期　2000-09-05(威尼斯电影节) / 2000-10-19(中国香港)\n\r\n◎IMDb评分  6.9/10 from 4224 users\n\r\n◎IMDb链接  https://www.imdb.com/title/tt0251433\n\r\n◎豆瓣评分　7.5/10 from 13227 users\n\r\n◎豆瓣链接　https://movie.douban.com/subject/1308035/\n\r\n◎片　　长　113 分钟\n\r\n◎导　　演　徐克 Hark Tsui\n\r\n◎编　　剧　许安 Koan Hui / 徐克 Hark Tsui / 陈志恒 Anthony Chan Chi-Hang\n\r\n◎主　　演　谢霆锋 Nicholas Tse\n\r\n　　　　　  伍佰 Wu Bai\n\r\n　　　　　  卢巧音 Candy Lo\n\r\n　　　　　  徐子淇 Cathy Tsui\n\r\n　　　　　  黄秋生 Anthony Wong Chau-Sang\n\r\n　　　　　  恭硕良 Jun Kung\n\r\n　　　　　  高捷 Jack Kao\n\r\n　　　　　  黄定邦 Wong Ting Pong\n\r\n　　　　　  谷垣健治 Kenji Tanigaki\n\r\n　　　　　  徐克 Hark Tsui\n\r\n　　　　　  蔡业信 Raven Choi Yip-San\n\r\n　　　　　  李耀明 Joe Lee Yiu-ming\n\r\n\r\n\r…",
-          "link": "https://pt.eastgame.org/details.php?id=44668",
-          "publishedOn": "2021-06-07T05:53:11.000Z",
-          "wordCount": 71,
-          "title": "Time.and.Tide.2000.FRA.BluRay.1080p.HEVC.10bit.DTS.AC3.MultiAudio.MultiSub-TLF[顺流逆流 / Time and Tide [法语花絮+英文章节+独家中字导评+OST原声碟]][10.90 GB]",
-          "enclosure": {
-            "url": "https://pt.eastgame.org/download.php?id=44668",
-            "length": "11699854538",
-            "type": "application/x-bittorrent"
-          }
-        },
-        {
-          "id": "6167d7c4be0a0901fc6383aa9903ca688ab3089d",
-          "author": "fixxxer@pt.eastgame.org (fixxxer)",
-          "description": "◎制　　作　Fixxxer @ TLF HALFCD TeaM\n\r\n\n\r\n◎译　　名　76天\n\r\n◎片　　名　76 Days\n\r\n◎又　　名　\n\r\n◎年　　代　2020年\n\r\n◎国家/地区 美国 / 中国大陆\n\r\n◎类　　别  纪录片\n\r\n◎语　　言  汉语普通话 / 湖北方言\n\r\n◎上映日期  2020-09-14(多伦多电影节)\n\r\n◎豆瓣评分　8.2/10 (5516 users)\n\r\n◎豆瓣链接  https://movie.douban.com/subject/35162122/\n\r\n◎IMDb评分　7.2/10 from 761 votes\n\r\n◎IMDb链接  https://www.imdb.com/title/tt12801326\n\r\n◎IMDB时长　93 min\n\r\n◎烂 番 茄　\n\r\n◎Metascore 84\n\r\n◎分　　级　PG-13\n\r\n◎票　　房　N/A\n\r\n◎片　　长　93分钟\n\r\n◎导　　演　吴皓 Hao Wu\n\r\n　　　　　　陈玮曦 Weixi Chen\n\r\n◎编　　剧　\n\r\n◎主　　演　苏洁 \n\r\n　　　　　　杨莉 \n\r\n　　　　　　田定远 \n\r\n　　　　　　李青儿 \n\r\n\r\n◎标　　签　纪录片 | 新冠疫情 | 中国 | 2020 | 美国 | 吴皓 | 多伦多电影节 | tiff20\n\r\n\r\n◎简　　介\n\r\n\r\n　　影片深入武汉医院重症监护室，以极近距离展现了患者和医护人员日常的工作和生活状态。\n\r\n                        \n\r\n◎获奖情况\n\r\n\r\n　　第45届多伦多国际电影节\n\r\n　　观众选择奖 纪录片单元(提名) \n\r\n\r\n　　第30届哥谭独立电影奖\n\r\n　　最佳纪录片(提名)\n\r\n\r\n\r\n◎文件名称　76天.76.Days.2020.WEB-DL.ENGSUBBED.MiniSD-TLF.mkv\n\r\n◎文件大小　662 MiB\n\r\n◎影片长度　01:33:15.901\n\r\n◎混合码率　993 kb/s\n\r\n◎封装时间　UTC 2021-06-07 02:03:40\n\r\n◎MMG 版本　mkvmerge v43.0.0 ('The Quartermaster') 64-bit\n\r\n◎视频码率　915 kb/s\n\r\n◎视频尺寸　854 x 480\n\r\n◎画面比例　16:9\n\r\n◎帧    率　25.000 FPS\n\r\n◎位    深　8 bits\n\r\n◎数据密度　0.089\n\r\n◎音频码率  76.6 kb/s\n\r\n◎音频编码  AAC LC SBR\n\r\n◎音轨声道  2 声道\n\r\n◎音轨信息  汉语方言\n\r\n◎字幕信息  英文硬字幕\n\r\n◎字幕采用  \n\r\n◎片源采用  76.Days.2020.CHINESE.ENSUBBED.720p.AMZN.WEBRip.DDP5.1.x264-PAAI\n\r\n◎x264版本  x264 core 158 r2984 3759fcb\n\r\n◎x264参数  ref=9 / deblock=1:-1:-1 / me=umh / subme=9 / psy=1 / psy_rd=1.00:0.15 / bframes=5 / rc=crf / mbtree=1 / crf=21.0 / qcomp=0.60 / aq=3:1.00\n\r\n\r\n◎检验\n\r\n76天.76.Days.2020.WEB-DL.ENGSUBBED.MiniSD-TLF.mkv\n\r\n大小：694615327\n\r\nMD5 ：6525376F4C69C97462EFAA3FFE0ACDAF\n\r\nSHA1：F8321B80BCC8F490B925391158B20CEA0DF94AD7",
-          "link": "https://pt.eastgame.org/details.php?id=44663",
-          "publishedOn": "2021-06-07T02:07:55.000Z",
-          "wordCount": 71,
-          "title": "76.Days.2020.WEB-DL.ENGSUBBED.MiniSD-TLF[76天[7.2][tt12801326]][662.44 MB]",
-          "enclosure": {
-            "url": "https://pt.eastgame.org/download.php?id=44663",
-            "length": "694615327",
             "type": "application/x-bittorrent"
           }
         }
