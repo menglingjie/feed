@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://menglingjie.github.io/REPO_NAME/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-14T13:31:10.407Z</updated>
+    <updated>2021-06-14T14:19:57.504Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://menglingjie.github.io/REPO_NAME/index.html"/>
     <link rel="self" href="https://menglingjie.github.io/REPO_NAME/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[抱着 iPad Pro 玩了两天游戏，我发现了苹果做游戏机的突破点]]></title>
+        <id>https://www.ifanr.com/?p=1422608&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1422608?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-06-14T14:04:29.000Z</updated>
+        <summary type="html"><![CDATA[玩，无止尽
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>王志劭</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wolf.Hall.S01.2015.BD.MiniSD-TLF[狼厅][2.34 GB]]]></title>
         <id>3691f99bfc57e8ea1f4ff5bee20f13b223a1a752</id>
@@ -1621,22 +1637,6 @@ Via：http://prevention.com
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[福特发布紧凑型混动皮卡 Maverick：小身材，大能量]]></title>
-        <id>https://www.ifanr.com/?p=1422123&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
-        <link href="https://www.ifanr.com/1422123?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
-        <updated>2021-06-09T10:16:31.000Z</updated>
-        <summary type="html"><![CDATA[别看它个子小，干起活来可毫不含糊。
-#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博]]></summary>
-        <author>
-            <name>李华</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 161 期）：再见了，学术硕士]]></title>
         <id>http://www.ruanyifeng.com/blog/2021/06/weekly-issue-161.html</id>
         <link href="http://www.ruanyifeng.com/blog/2021/06/weekly-issue-161.html"/>
@@ -1721,18 +1721,6 @@ Chore: Reorganize to monorepo with npm workspace.]]></summary>
         <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1"/>
         <updated>2021-05-16T02:33:58.000Z</updated>
         <summary type="html"><![CDATA[Fixed: static files were unnecessarily copied for custom templates.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.7.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0"/>
-        <updated>2021-05-16T01:42:24.000Z</updated>
-        <summary type="html"><![CDATA[Added: templating system. Demo | Source | Docs
-Chore: rendering logic refactoring. Adopting functional paradigm.
-Thank you @tianheg, @onnyyonn]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
         </author>
