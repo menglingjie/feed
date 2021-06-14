@@ -49,15 +49,6 @@
           "publishedOn": "2021-05-17T05:32:19.000Z",
           "wordCount": 336,
           "title": "v1.7.2"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1",
-          "author": null,
-          "description": "Fixed: static files were unnecessarily copied for custom templates.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1",
-          "publishedOn": "2021-05-16T02:33:58.000Z",
-          "wordCount": 276,
-          "title": "v1.7.1"
         }
       ]
     },
@@ -445,6 +436,20 @@
       "siteUrl": "https://pt.eastgame.org",
       "articles": [
         {
+          "id": "e207cf3eaf63a8d96c967ee00ca5b6692162b3ad",
+          "author": "wqsyy213@pt.eastgame.org (wqsyy213)",
+          "description": "BBS链接：https://bbs.eastgame.org/viewthread.php?tid=148980\n\r\n◎制　　作　南瓜 @ TLF HALFCD TeaM\n\r\n\n\r\n◎译　　名　远大前程/新孤星血泪\n\r\n◎片　　名　Great Expectations\n\r\n◎年　　代　1999\n\r\n◎国　　家　英国\n\r\n◎类　　别　剧情\n\r\n◎语　　言　英语 / 希腊语\n\r\n◎上映日期　1999-04-12\n\r\n◎IMDb评分　7.3/10 (1,417 votes)\n\r\n◎IMDb链接　http://www.imdb.com/title/tt0167187/\n\r\n◎豆瓣评分　7.8/10 (1,080 votes)\n\r\n◎豆瓣链接　http://movie.douban.com/subject/1294502/\n\r\n◎片　　长　168分钟\n\r\n◎导　　演　朱里安·杰拉德\n\r\n◎主　　演　艾恩·格拉法德\n\r\n　　　　　　贾斯蒂恩·瓦戴尔\n\r\n　　　　　　夏洛特·兰普林\n\r\n◎简　　介　\n\r\n\r\n　　皮普（艾恩·格拉法德 Ioan Gruffudd 饰）出生于贫苦之家，从小就被父母抛弃的他被脾气暴躁的姐姐一手拉扯大。一次偶然中，皮普来到了萨提斯庄园庄园之中，在那里，住着神秘的贵妇郝维新（夏洛特·兰普林 Charlotte Rampling 饰）和她的侄女艾斯黛拉（贾斯蒂恩·瓦戴尔 Justine Waddell 饰）。皮普在庄园里度过了一段梦一样的时光，他的人生轨迹也就此发生了改变。\n\r\n\r\n　　随着时间的推移，皮普渐渐的爱上了美丽又善变的艾斯黛拉，为了成为能够配得上她的人，皮普暗暗下定决心期望挤入上流社会。一笔神秘的资助让皮普得到了出国深造的机会，然而，当皮普学成归来之后，等待着他的却是残酷的真相和铁一样冰冷的现实。\n\r\n\r\n 引用 \n◎文件名称　远大前程.Great.Expectations.1999.Part1.D9.MiniSD-TLF.mkv\n\r\n◎文件大小　695.9 MiB\n\r\n◎影片长度　01:32:10.932\n\r\n◎混合码率　1 056 Kbps\n\r\n◎封装时间　UTC 2015-11-30 02:07:36\n\r\n◎MMG版本　mkvmerge v7.7.0 ('Six Voices') 32bit built on Feb 28 2015 23:23:00\n\r\n◎视频码率　\n\r\n◎视频尺寸　704 x 536\n\r\n◎画面比例　1.85:1\n\r\n◎帧　　率　25.000 fps\n\r\n◎数据密度　\n\r\n◎音轨信息　英语\n\r\n◎字幕信息　简英双语 / 简体中文 / 英文\n\r\n◎片源采用　D9\n\r\n◎X264版本　core 146 r2538 121396c\n\r\n◎X264参数　rc=crf / crf=22.0 / deblock=1:-1:-1 / ref=10 / bframes=7 / subme=9\n\r\n\r\n远大前程.Great.Expectations.1999.Part1.D9.MiniSD-TLF.mkv\n\r\n大小: 729737030\n\r\nMD5: 88E368970D2D058D4608ECB5344DDEB3\n\r\nSHA1: 60BEEAB8DB9FD37CEEE575E4C54D5C310AE8838A\n\r\n\r\n远大前程.Great.Expectations.1999.Part2.D9.MiniSD-TLF.mkv\n\r\n大小: 776751003\n\r\nMD5: 86A714AB855DF42B60E767B66669A4E1\n\r\nSHA1: 8078A1A74917B28DE3C1C92E8B296E07E8C673FF",
+          "link": "https://pt.eastgame.org/details.php?id=44880",
+          "publishedOn": "2021-06-14T15:15:05.000Z",
+          "wordCount": 71,
+          "title": "Great.Expectations.1999.D9.MiniSD-TLF[远大前程][1.40 GB]",
+          "enclosure": {
+            "url": "https://pt.eastgame.org/download.php?id=44880",
+            "length": "1506488033",
+            "type": "application/x-bittorrent"
+          }
+        },
+        {
           "id": "3691f99bfc57e8ea1f4ff5bee20f13b223a1a752",
           "author": "wqsyy213@pt.eastgame.org (wqsyy213)",
           "description": "BBS链接：https://bbs.eastgame.org/viewthread.php?tid=150020\n\r\n◎制　　作　南瓜 @ TLF HALFCD TeaM\n\r\n\n\r\n◎译　　名　狼厅\n\r\n◎片　　名　Wolf Hall\n\r\n◎年　　代　2015\n\r\n◎国　　家　英国\n\r\n◎类　　别　剧情 / 历史 / 古装\n\r\n◎语　　言　英语 / 法语\n\r\n◎上映日期　2015-01-21(英国)\n\r\n◎IMDb评分　8.4/10 (6,746 votes)\n\r\n◎IMDb链接　http://www.imdb.com/title/tt3556920/\n\r\n◎豆瓣评分　8.6/10 (1,080 votes)\n\r\n◎豆瓣链接　http://movie.douban.com/subject/25823904/\n\r\n◎片　　长　60分钟\n\r\n◎导　　演　彼得·考斯明斯金 Peter Kosminsky\n\r\n　　　　　　科林·卡伦德 Colin Callender\n\r\n◎主　　演　戴米恩·路易斯 Damian Lewis\n\r\n　　　　　　马克·里朗斯 Mark Rylance\n\r\n　　　　　　克莱尔·芙伊 Claire Foy\n\r\n　　　　　　大卫·布拉德利 David Bradley\n\r\n　　　　　　安东·莱瑟 Anton Lesser\n\r\n　　　　　　琼妮·威利 Joanne Whalley\n\r\n　　　　　　乔纳森·普雷斯 Jonathan Pryce\n\r\n　　　　　　理查德·迪兰 Richard Dillane\n\r\n　　　　　　马克·加蒂斯 Mark Gatiss\n\r\n　　　　　　托马斯·桑斯特 Thomas Sangster\n\r\n　　　　　　杰西卡·雷恩 Jessica Raine\n\r\n　　　　　　布莱恩·迪克 Bryan Dick\n\r\n　　　　　　查丽蒂·维克菲尔德 C…",
@@ -567,20 +572,6 @@
           "enclosure": {
             "url": "https://pt.eastgame.org/download.php?id=44862",
             "length": "598996486",
-            "type": "application/x-bittorrent"
-          }
-        },
-        {
-          "id": "5bec44da5c49a2f32c75242395660f812775aa49",
-          "author": "anonymous@pt.eastgame.org (anonymous)",
-          "description": "引用 \n◎制　　作　zuimeng1997 @ TLF HALFCD TeaM\n\r\n 引用 \n公映国配：国语视界@麦哈  公映国配字幕自己听写校对，可能有些出入，台配粤语：原盘；\n\r\n\n\r\n\r\n◎译　　名　猫和老鼠/猫和老鼠真人电影/汤姆和杰瑞/汤姆猫与杰利鼠(台)/Tom&Jerry大电影(港)\n\r\n◎片　　名　Tom and Jerry\n\r\n◎年　　代　2021\n\r\n◎产　　地　英国/美国\n\r\n◎类　　别　喜剧/动画/冒险\n\r\n◎语　　言　英语\n\r\n◎上映日期　2021-02-10(中国台湾)/2021-02-26(美国/中国大陆)\n\r\n◎IMDb评分  5.3/10 from 24135 users\n\r\n◎IMDb链接  https://www.imdb.com/title/tt1361336/\n\r\n◎豆瓣评分　5.3/10 from 36611 users\n\r\n◎豆瓣链接　https://douban.com/subject/3439312/\n\r\n◎片　　长　101分钟\n\r\n◎导　　演　蒂姆·斯托瑞\n\r\n◎编　　剧　凯文·科斯特洛 / 威廉·汉纳 / 约瑟夫·巴伯拉\n\r\n◎主　　演　科洛·莫瑞兹\n\r\n　　　　  　迈克尔·佩纳\n\r\n　　　　  　郑肯\n\r\n　　　　  　科林·乔斯特\n\r\n　　　　  　乔丹·博尔格\n\r\n　　　　  　罗伯·德兰尼\n\r\n　　　　  　克里斯蒂娜·钟\n\r\n　　　　  　布赖恩·斯特帕尼克\n\r\n　　　　  　帕拉维·沙尔达\n\r\n　　　　  　卡米拉·阿维森\n\r\n　　　　  　克丽·麦克莱恩\n\r\n　　　　  　卡米拉·拉瑟福德\n\r\n　　　　  　泰·赫尔利\n\r\n　　　　  　丹尼尔·阿德博伊加\n\r\n　　　　  　乔蕾·科斯\n\r\n　　　　  　丹尼尔·厄根\n\r\n　　　　  　伯纳多·桑托斯\n\r\n　　　　  　乔·伯恩\n\r\n　　　　  　乔基姆·斯卡利\n\r\n\r\n◎标　　签　猫和老鼠 | 动画 | 经典 | 美国 | 2021 | 美国电影 | 电影 | 华纳\n\r\n\r\n◎简　　介\n\r\n\r\n　　\n\r\n　　“超杀女”科洛·莫瑞兹饰演的少女凯拉刚刚入职豪华大酒店，就碰上了叫人头疼的难题——杰瑞竟然想在酒店里定居，令酒店最近承接的世纪婚礼岌岌可危。于是，汤姆被凯拉雇佣成为酒店员工，目的是赶走杰瑞，这对欢喜冤家就此展开了一场你追我赶的爆笑喜剧。\n\r\n 引用 \n◎文件名称　Tom.and.Jerry.2021.BD.HEVC.10bit.4Audio.MiniFHD-TLF.mkv\n\r\n◎文件大小　4.67 GiB\n\r\n◎影片长度　01:41:04.832\n\r\n◎混合码率　6 615 kb/s\n\r\n◎封装时间　UTC 2021-06-12 16:15:45\n\r\n◎MMG 版本　mkvmerge v43.0.0 ('The Quartermaster') 64-bit\n\r\n◎视频码率　4 926 kb/s\n\r\n◎视频尺寸　1920 x 1036\n\r\n◎画面比例　1.85:1\n\r\n◎帧    率　23.976 (24000/1001) FPS\n\r\n◎位    深　10 bits\n\r\n◎数据密度　0.103\n\r\n◎音频码率  384 kb/s + 384 kb/s + 384 kb/s + 384 kb/s\n\r\n◎音频编码  AC-3 / AC-3 / AC-3 / AC-3\n\r\n◎音轨声道  6 声道 / 6 声道 / 6 声道 / 6 声道\n\r\n◎音轨信息  国配（中影公映） / 国语（台配） / 粤语 / 英文\n\r\n◎字幕信息  简体中文（公映国配） / 简体中文 / 原盘台配繁体 / 原盘粤配繁体 / 中英双语 / 繁英双语 / 英文\n\r\n◎字幕采用  \n\r\n◎片源采用  Tom.and.Jerry.The.Movie.2021.BluRay.REMUX.1080p.AVC.TrueHD7.1.Atmos-HDS\n\r\n◎x265版本  x265 3.4+14-gd419c7152:[Windows][GCC 10.2.0][64 bit] 10bit\n\r\n◎x265参数  ref=6 / bframes=6 / me=3 / subme=6 / deblock=0:0 / psy-rd=2.00 / psy-rdoq=0.00 / rc=crf / crf=20.7 / qcomp=0.75 / aq-mode=2 / aq-strength=0.90\n\r\n\r\n◎检验\n\r\nTom.and.Jerry.2021.BD.HEVC.10bit.4Audio.MiniFHD-TLF.mkv\n\r\n大小：5015151136\n\r\nMD5 ：E9BB5E3BE845BE2B10D8ACF23547F148\n\r\nSHA1：603FDAF5ECB2F0B36FE6FDFA5FA77BC3E3551C2B",
-          "link": "https://pt.eastgame.org/details.php?id=44825",
-          "publishedOn": "2021-06-12T16:23:32.000Z",
-          "wordCount": 71,
-          "title": "Tom and Jerry 2021 BD HEVC 10bit 4Audio MiniFHD-TLF[猫和老鼠  | 导演：蒂姆·斯托瑞 | 主演：科洛·莫瑞兹 迈克尔·佩纳 郑肯 ][4.67 GB]",
-          "enclosure": {
-            "url": "https://pt.eastgame.org/download.php?id=44825",
-            "length": "5015151136",
             "type": "application/x-bittorrent"
           }
         }
