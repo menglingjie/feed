@@ -49,12 +49,21 @@
       "siteUrl": "https://www.ifanr.com?utm_source=rss&utm_medium=rss&utm_campaign=",
       "articles": [
         {
+          "id": "https://www.ifanr.com/?p=1422810&utm_source=rss&utm_medium=rss&utm_campaign=",
+          "author": "换新言",
+          "description": "感谢他们，让我们可以用中文上网冲浪。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
+          "link": "https://www.ifanr.com/1422810?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedOn": "2021-06-18T07:29:30.000Z",
+          "wordCount": 391,
+          "title": "揭秘首批中文电脑字体诞生过程，将汉字「搬」进数码设备有多难？"
+        },
+        {
           "id": "https://www.ifanr.com/?p=1423370&utm_source=rss&utm_medium=rss&utm_campaign=",
           "author": "李华",
           "description": "「木头」可能是更便宜、更环保的选择。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
           "link": "https://www.ifanr.com/1423370?utm_source=rss&utm_medium=rss&utm_campaign=",
           "publishedOn": "2021-06-18T03:54:30.000Z",
-          "wordCount": 262,
+          "wordCount": 265,
           "title": "用木头做的通信卫星，你可以想象吗？"
         },
         {
@@ -218,15 +227,6 @@
           "publishedOn": "2021-06-15T00:46:58.000Z",
           "wordCount": 529,
           "title": "早报 | 苹果或推出极限运动版 Apple Watch / Beats 发布新耳机 / 广州中考因疫情延迟"
-        },
-        {
-          "id": "https://www.ifanr.com/?p=1422608&utm_source=rss&utm_medium=rss&utm_campaign=",
-          "author": "王志劭",
-          "description": "玩，无止尽\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
-          "link": "https://www.ifanr.com/1422608?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedOn": "2021-06-14T14:04:29.000Z",
-          "wordCount": 546,
-          "title": "抱着 iPad Pro 玩了两天游戏，我发现了苹果做游戏机的突破点"
         }
       ]
     },
@@ -241,7 +241,7 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
           "link": "http://www.ruanyifeng.com/blog/2021/06/weekly-issue-163.html",
           "publishedOn": "2021-06-18T00:15:03.000Z",
-          "wordCount": 601,
+          "wordCount": 610,
           "title": "科技爱好者周刊（第 163 期）：你的城市有多少张病床？"
         },
         {
