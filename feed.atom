@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://menglingjie.github.io/REPO_NAME/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-18T12:33:41.112Z</updated>
+    <updated>2021-06-18T13:31:12.299Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://menglingjie.github.io/REPO_NAME/index.html"/>
     <link rel="self" href="https://menglingjie.github.io/REPO_NAME/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[成也低价，败也低价，「蜜雪冰城」可能并不甜蜜蜜]]></title>
+        <id>https://www.ifanr.com/?p=1423518&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1423518?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-06-18T12:41:38.000Z</updated>
+        <summary type="html"><![CDATA[「物美价廉」这个标准，既是消费者的期待，也是消费者的底线。
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>张成晨</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sherlock.S04E00.Abominable.Bride.2016.WEB-DL.MiniSD-TLF[神探夏洛克：可恶的新娘][495.84 MB]]]></title>
         <id>30364770fb9eba0a2f7e11a91f582980bb971319</id>
@@ -1825,23 +1841,6 @@ Daisy 这个人物是一个内心非常空虚的人，清醒但是软弱，热�
 新浪微博]]></summary>
         <author>
             <name>杜沅傧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[早报 | 苹果或推出极限运动版 Apple Watch / Beats 发布新耳机 / 广州中考因疫情延迟]]></title>
-        <id>https://www.ifanr.com/?p=1422774&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
-        <link href="https://www.ifanr.com/1422774?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
-        <updated>2021-06-15T00:46:58.000Z</updated>
-        <summary type="html"><![CDATA[‍• 马斯克：特斯拉出售了所持 10% 的比特币
-• B 站首个播放量破亿视频诞生
-#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博]]></summary>
-        <author>
-            <name>方嘉文</name>
         </author>
     </entry>
     <entry>
