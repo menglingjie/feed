@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://menglingjie.github.io/REPO_NAME/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-19T14:18:30.424Z</updated>
+    <updated>2021-06-19T15:24:16.556Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://menglingjie.github.io/REPO_NAME/index.html"/>
     <link rel="self" href="https://menglingjie.github.io/REPO_NAME/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[微软想让停产的 Xbox One 焕发新机，背后是一盘大棋]]></title>
+        <id>https://www.ifanr.com/?p=1423645&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1423645?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-06-19T14:34:14.000Z</updated>
+        <summary type="html"><![CDATA[XGP 慢慢向好，云游戏也是。
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>王志劭</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Better Call Saul S01 2015 WEB-DL MniSD-TLF[绝命律师 第一季][2.11 GB]]]></title>
         <id>c34a02368f7314aa145e9bbe31af45c66e92d9fa</id>
@@ -1597,22 +1613,6 @@ Daisy 这个人物是一个内心非常空虚的人，清醒但是软弱，热�
 新浪微博]]></summary>
         <author>
             <name>王志劭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20 年前的「大屁股」显示器，正成为玩家们的顶级外设]]></title>
-        <id>https://www.ifanr.com/?p=1422341&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
-        <link href="https://www.ifanr.com/1422341?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
-        <updated>2021-06-15T00:56:44.000Z</updated>
-        <summary type="html"><![CDATA[为什么早被淘汰的 CRT 屏幕，变成了复古游戏「神器」？
-#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博]]></summary>
-        <author>
-            <name>黄智健</name>
         </author>
     </entry>
     <entry>
