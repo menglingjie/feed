@@ -49,12 +49,21 @@
       "siteUrl": "https://www.ifanr.com?utm_source=rss&utm_medium=rss&utm_campaign=",
       "articles": [
         {
+          "id": "https://www.ifanr.com/?p=1423673&utm_source=rss&utm_medium=rss&utm_campaign=",
+          "author": "吴志奇",
+          "description": "你探店了吗？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
+          "link": "https://www.ifanr.com/1423673?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedOn": "2021-06-19T09:57:02.000Z",
+          "wordCount": 434,
+          "title": "为什么年轻人都在逛「潮流集合店」｜明日浪潮"
+        },
+        {
           "id": "https://www.ifanr.com/?p=1423518&utm_source=rss&utm_medium=rss&utm_campaign=",
           "author": "张成晨",
           "description": "「物美价廉」这个标准，既是消费者的期待，也是消费者的底线。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
           "link": "https://www.ifanr.com/1423518?utm_source=rss&utm_medium=rss&utm_campaign=",
           "publishedOn": "2021-06-18T12:41:38.000Z",
-          "wordCount": 337,
+          "wordCount": 340,
           "title": "成也低价，败也低价，「蜜雪冰城」可能并不甜蜜蜜"
         },
         {
@@ -218,15 +227,6 @@
           "publishedOn": "2021-06-15T00:56:44.000Z",
           "wordCount": 455,
           "title": "20 年前的「大屁股」显示器，正成为玩家们的顶级外设"
-        },
-        {
-          "id": "https://www.ifanr.com/?p=1422739&utm_source=rss&utm_medium=rss&utm_campaign=",
-          "author": "杜沅傧",
-          "description": "下半年买部折叠屏？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
-          "link": "https://www.ifanr.com/1422739?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedOn": "2021-06-15T00:56:29.000Z",
-          "wordCount": 493,
-          "title": "Google 做 Pixel Fold 后，折叠屏市场又热闹起来了？"
         }
       ]
     },
@@ -241,7 +241,7 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
           "link": "http://www.ruanyifeng.com/blog/2021/06/weekly-issue-163.html",
           "publishedOn": "2021-06-18T00:15:03.000Z",
-          "wordCount": 639,
+          "wordCount": 648,
           "title": "科技爱好者周刊（第 163 期）：你的城市有多少张病床？"
         },
         {
