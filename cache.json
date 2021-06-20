@@ -49,12 +49,21 @@
       "siteUrl": "https://www.ifanr.com?utm_source=rss&utm_medium=rss&utm_campaign=",
       "articles": [
         {
+          "id": "https://www.ifanr.com/?p=1423450&utm_source=rss&utm_medium=rss&utm_campaign=",
+          "author": "黄智健",
+          "description": "有多少人讨厌开机声音，就有多少人怀念它。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
+          "link": "https://www.ifanr.com/1423450?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedOn": "2021-06-20T14:36:30.000Z",
+          "wordCount": 501,
+          "title": "消失已久的开机音乐，会在 Windows 11 得到回归吗？"
+        },
+        {
           "id": "https://www.ifanr.com/?p=1423747&utm_source=rss&utm_medium=rss&utm_campaign=",
           "author": "方嘉文",
           "description": "世界也许不完美，但总有人在努力让它变得更好。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
           "link": "https://www.ifanr.com/1423747?utm_source=rss&utm_medium=rss&utm_campaign=",
           "publishedOn": "2021-06-20T10:30:52.000Z",
-          "wordCount": 520,
+          "wordCount": 526,
           "title": "用完就能冲走的验孕棒，有什么了不起？| Feel Good 周报"
         },
         {
@@ -218,15 +227,6 @@
           "publishedOn": "2021-06-15T08:22:51.000Z",
           "wordCount": 344,
           "title": "Razer 发布全新 Blade 14：终于喊出了那一句「AMD Yes」"
-        },
-        {
-          "id": "https://www.ifanr.com/?p=1422709&utm_source=rss&utm_medium=rss&utm_campaign=",
-          "author": "冷思真",
-          "description": "这一次，机器人是人的代言人。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
-          "link": "https://www.ifanr.com/1422709?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedOn": "2021-06-15T08:10:02.000Z",
-          "wordCount": 302,
-          "title": "全世界最像人的「机器人」，本身就是人"
         }
       ]
     },

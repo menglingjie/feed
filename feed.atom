@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://menglingjie.github.io/REPO_NAME/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-20T14:18:42.206Z</updated>
+    <updated>2021-06-20T15:24:25.858Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://menglingjie.github.io/REPO_NAME/index.html"/>
     <link rel="self" href="https://menglingjie.github.io/REPO_NAME/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[消失已久的开机音乐，会在 Windows 11 得到回归吗？]]></title>
+        <id>https://www.ifanr.com/?p=1423450&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1423450?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-06-20T14:36:30.000Z</updated>
+        <summary type="html"><![CDATA[有多少人讨厌开机声音，就有多少人怀念它。
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>黄智健</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Doctor-X S01 2012 complete HDTV MiniSD-TLF[外科医生·大门未知子 第一季 全8集][3.30 GB]]]></title>
         <id>7433b6907ab2a1419cbd783a845b07d09dfd5ff6</id>
@@ -1780,22 +1796,6 @@ Berry Bubble，Brony, 马圈最差翻译
 新浪微博]]></summary>
         <author>
             <name>李华</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全世界最像人的「机器人」，本身就是人]]></title>
-        <id>https://www.ifanr.com/?p=1422709&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
-        <link href="https://www.ifanr.com/1422709?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
-        <updated>2021-06-15T08:10:02.000Z</updated>
-        <summary type="html"><![CDATA[这一次，机器人是人的代言人。
-#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博]]></summary>
-        <author>
-            <name>冷思真</name>
         </author>
     </entry>
     <entry>
