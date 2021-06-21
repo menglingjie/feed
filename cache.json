@@ -49,12 +49,21 @@
       "siteUrl": "https://www.ifanr.com?utm_source=rss&utm_medium=rss&utm_campaign=",
       "articles": [
         {
+          "id": "https://www.ifanr.com/?p=1423905&utm_source=rss&utm_medium=rss&utm_campaign=",
+          "author": "换新言",
+          "description": "我凉了，你们随意。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
+          "link": "https://www.ifanr.com/1423905?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedOn": "2021-06-21T10:08:10.000Z",
+          "wordCount": 351,
+          "title": "第 2 代索尼随身空调测评：我凉了，但也没完全凉"
+        },
+        {
           "id": "https://www.ifanr.com/?p=1423969&utm_source=rss&utm_medium=rss&utm_campaign=",
           "author": "李华",
           "description": "既然地上跑的不行，那就来点天上飞的吧。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
           "link": "https://www.ifanr.com/1423969?utm_source=rss&utm_medium=rss&utm_campaign=",
           "publishedOn": "2021-06-21T08:01:57.000Z",
-          "wordCount": 264,
+          "wordCount": 269,
           "title": "从电动方程式到「电动飞行赛车」，这会是赛车运动的未来吗？"
         },
         {
@@ -218,15 +227,6 @@
           "publishedOn": "2021-06-16T09:49:52.000Z",
           "wordCount": 417,
           "title": "苹果、Google、微软罕见合作，要让你的浏览器更好用"
-        },
-        {
-          "id": "https://www.ifanr.com/?p=1423063&utm_source=rss&utm_medium=rss&utm_campaign=",
-          "author": "李华",
-          "description": "对于巴尔的摩来说，这位「清洁工」是它的骄傲。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
-          "link": "https://www.ifanr.com/1423063?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedOn": "2021-06-16T03:18:03.000Z",
-          "wordCount": 227,
-          "title": "这位「垃圾轮先生」在用它的「好胃口」拯救我们的环境"
         }
       ]
     },
@@ -241,7 +241,7 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
           "link": "http://www.ruanyifeng.com/blog/2021/06/weekly-issue-163.html",
           "publishedOn": "2021-06-18T00:15:03.000Z",
-          "wordCount": 720,
+          "wordCount": 708,
           "title": "科技爱好者周刊（第 163 期）：你的城市有多少张病床？"
         },
         {
