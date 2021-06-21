@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://menglingjie.github.io/REPO_NAME/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-21T07:45:42.472Z</updated>
+    <updated>2021-06-21T08:29:49.436Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://menglingjie.github.io/REPO_NAME/index.html"/>
     <link rel="self" href="https://menglingjie.github.io/REPO_NAME/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[从电动方程式到「电动飞行赛车」，这会是赛车运动的未来吗？]]></title>
+        <id>https://www.ifanr.com/?p=1423969&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1423969?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-06-21T08:01:57.000Z</updated>
+        <summary type="html"><![CDATA[既然地上跑的不行，那就来点天上飞的吧。
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>李华</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Resident.Alien.S01.2021.WEB-DL.MiniSD-TLF[外星居民[8.2][tt8690918][全10集]][2.92 GB]]]></title>
         <id>7a85a31703726bcd6021b2013e5ed3ff8f29c137</id>
@@ -1745,23 +1761,6 @@ _
 新浪微博]]></summary>
         <author>
             <name>李华</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[早报 | 全球 Apple Store 恢复营业 / 万维网源代码将以 NFT 形式拍卖 / 广东昨日本土「零新增」]]></title>
-        <id>https://www.ifanr.com/?p=1423034&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
-        <link href="https://www.ifanr.com/1423034?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
-        <updated>2021-06-16T01:00:25.000Z</updated>
-        <summary type="html"><![CDATA[‍• 法拉利发布首个时装系列
-• Google 公布年度涂鸦比赛冠军
-#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博]]></summary>
-        <author>
-            <name>方嘉文</name>
         </author>
     </entry>
     <entry>
