@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://menglingjie.github.io/REPO_NAME/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-22T12:33:11.386Z</updated>
+    <updated>2021-06-22T13:31:07.734Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://menglingjie.github.io/REPO_NAME/index.html"/>
     <link rel="self" href="https://menglingjie.github.io/REPO_NAME/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[十年过去，Chromebook 现在怎样了]]></title>
+        <id>https://www.ifanr.com/?p=1424248&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1424248?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-06-22T12:37:45.000Z</updated>
+        <summary type="html"><![CDATA[你用过 Chromebook 吗？
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>李华</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hannibal S02 2014 HDTV MiniSD-TLF[汉尼拔 第二季][3.23 GB]]]></title>
         <id>746ca035022c38e36b1119d9e7b1475679b41e58</id>
@@ -1745,22 +1761,6 @@ Yes 有 0-2 个的，属于黄（暖色调），3 个以上的属于蓝（冷色
 新浪微博]]></summary>
         <author>
             <name>换新言</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[刚刚，「神舟十二号」发射！这次载人航天有什么不一样？]]></title>
-        <id>https://www.ifanr.com/?p=1422258&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
-        <link href="https://www.ifanr.com/1422258?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
-        <updated>2021-06-17T01:29:08.000Z</updated>
-        <summary type="html"><![CDATA[共同期待！
-#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博]]></summary>
-        <author>
-            <name>周宇</name>
         </author>
     </entry>
     <entry>
