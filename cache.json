@@ -11,7 +11,7 @@
           "description": "Added: support an experimental template for YouTube feed 📺 Demo | Source\n\nAggregate content from any YouTube channel rss url https://www.youtube.com/feeds/videos.xml?channel_id=<replace_with_channel_id>\nVideos are embedded via iframe and loading accelerated by youtube-lite-embed\nAds are reduced thanks to YouTube's policy for embedded videos 🙃\nWorks on mobile devices with butter smooth horizontal scroll.\nCaveat: the template works only with YouTube content. You cannot mix textual RSS feed or other video sources such as Vimeo.\nChanged: Default HTML template meta tag adjusted to match convention\nChanged: sources in template data is now ordered by last update timestamp (as opposed to alphabetical)\nThank you @PiyushLosalka",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0",
           "publishedOn": "2021-06-23T05:57:59.000Z",
-          "wordCount": 364,
+          "wordCount": 369,
           "title": "v1.11.0"
         },
         {
@@ -418,6 +418,20 @@
       "siteUrl": "https://pt.eastgame.org",
       "articles": [
         {
+          "id": "2e1ec4cb5b8952602a91ee5a444affc89ba51f02",
+          "author": "wqsyy213@pt.eastgame.org (wqsyy213)",
+          "description": "BBS链接：https://bbs.eastgame.org/viewthread.php?tid=134040\n\r\n◎制　　作　莫里斯 @ TLF HALFCD TeaM\n\r\n\n\r\n◎英 文 名：Hell.on.Wheels\n\r\n◎中 文 名：地狱之论\n\r\n◎导     演：David Von Ancken\n\r\n◎编     剧：Joe Gayton / Tony Gayton\n\r\n◎主　  演：安松·蒙特 / 科曼 / 科尔姆·米尼 / christopher heyerdahl\n\r\n◎年　  代：2012\n\r\n◎国　  家：美国\n\r\n◎语　  言：英语\n\r\n◎电 视 台：AMC\n\r\n◎官方网站：http://www.amctv.com/shows/hell-on-wheels\n\r\n◎片     源：.Hell.on.Wheels.S02.720p.BluRay.DTS.x264-CtrlHD\n\r\n◎片　  长：50分钟左右/集\n\r\n◎分 辨 率：848×476\n\r\n◎视频码率：1000 Kbps\n\r\n@音频码率：Q=0.25\n\r\n◎字　　幕：简/英(伊甸园字幕组)\n\r\n◎类　　别：犯罪 / 剧情/惊悚\n\r\n◎简　　介：\n\r\n                  AMC新剧《地狱之轮》（Hell On Wheels）是《死木》（Deadwood）结束后最值得欣赏的一部同类剧集，也是一部纯正的男人剧集。《地狱之轮》的故事发生在美国内战之后，主人公是一名原南部邦联士兵。为了报杀妻之仇，他只身来到遥远的西部。经过一系列事件，他成了北美 横贯大铁路修建过程中的传奇人物。剧名“地狱之轮”是横贯大铁路中心枢纽上一座小镇的别称，也是该剧的故事地点。这里有着典型的西部“元素”：危险、暴力、粗俗、目无法纪、腐败、堕落、丰乳肥臀、种族歧视、大规模移民。北美横贯大铁路是人类历史上首个超大工程量…",
+          "link": "https://pt.eastgame.org/details.php?id=45125",
+          "publishedOn": "2021-06-23T14:47:58.000Z",
+          "wordCount": 71,
+          "title": "Hell on Wheels S02 BD MiniSD-TLF[地狱之轮 第二季 全10集][3.21 GB]",
+          "enclosure": {
+            "url": "https://pt.eastgame.org/download.php?id=45125",
+            "length": "3450490309",
+            "type": "application/x-bittorrent"
+          }
+        },
+        {
           "id": "91244401a1d1e38e54598eed9d7eed2cef42aab1",
           "author": "godspeed330@pt.eastgame.org (godspeed330)",
           "description": "网络杀机.Untraceable.2008.BD.2Audio.MiniSD-TLF[6.1][tt0880578]【英导双语】\n\r\n◎制　　作　zn9213 @ TLF HALFCD TeaM\n\r\n\r\n◎英 文 名　Untraceable\n\r\n◎中 文 名　网络杀机/觅踪/无迹可寻/Live杀人网站(台)\n\r\n◎导　　演　格利高里·赫利特 Gregory Hoblit\n\r\n◎主　　演　戴安·莱恩 Diane Lane\n\r\n　　　　　　比利·巴克 Billy Burke\n\r\n　　　　　　科林·汉克斯 Colin Hanks\n\r\n　　　　　　乔瑟夫·克洛斯 Joseph Cross\n\r\n　　　　　　玛丽·贝思·赫特 Mary Beth Hurt\n\r\n　　　　　　Peter Lewis\n\r\n◎年　　代　2008年1月25日\n\r\n◎国　　家　美国\n\r\n◎语　　言　英语\n\r\n◎IMDb评分　6.1/10\n\r\n◎IMDb链接　http://www.imdb.com/title/tt0880578/\n\r\n◎片　　长　101 mins\n\r\n◎类　　别　犯罪 / 惊怵\n\r\n\r\n◎简　　介　\n\r\n　　继《火线追缉令》《沉默的羔羊》后，《黑洞频率》奎葛利霍里开创犯罪惊悚新类型，这次让你心惊胆跳的是鼠标与无限大的网络世界...\n\r\n\r\n　　警探珍妮弗(黛安莲恩 饰)追查着一个杀人不睁眼的变态杀手，每次他都会把犯案的照片与被害的姓名公布在网络上，但随着越接近核心，眼前的网络世界似乎成了无止尽空间，也让凶手锁定了她...\n\r\n\r\n　　彰显个性成为时下第一要务，博客、个人网页铺天盖地，网络犯罪日益频繁。从黑客、身份盗用到网络恐怖组织，纷繁复杂的美国联邦调查局内部，早就为此专门成立了网络犯罪专案组。FBI特工循着蛛丝马迹，清查所有疑似案件，在掌握确凿证据后，立即使用卫星定位系统锁定嫌犯所在地，然后只待警…",
@@ -540,20 +554,6 @@
           "enclosure": {
             "url": "https://pt.eastgame.org/download.php?id=45051",
             "length": "1033658919",
-            "type": "application/x-bittorrent"
-          }
-        },
-        {
-          "id": "7a85a31703726bcd6021b2013e5ed3ff8f29c137",
-          "author": "fixxxer@pt.eastgame.org (fixxxer)",
-          "description": "◎制　　作　Fixxxer @ TLF HALFCD TeaM\n\r\n\n\r\n◎译　　名　外星居民 第一季\n\r\n◎片　　名　Resident Alien\n\r\n◎又　　名　\n\r\n◎年　　代　2021–年\n\r\n◎国家/地区 美国\n\r\n◎类　　别  剧情 / 喜剧 / 科幻 / 悬疑\n\r\n◎语　　言  英语\n\r\n◎首播日期  2021-01-27(美国)\n\r\n◎豆瓣评分　8.2/10 (10236 users)\n\r\n◎豆瓣链接  https://movie.douban.com/subject/30238409\n\r\n◎IMDb评分　8.2/10 from 20,504 votes\n\r\n◎IMDb链接  https://www.imdb.com/title/tt8690918\n\r\n◎IMDB时长　44 min\n\r\n◎烂 番 茄　\n\r\n◎Metascore N/A\n\r\n◎分　　级　TV-14\n\r\n◎票　　房　\n\r\n◎单集片长　44分钟\n\r\n◎集    数　10\n\r\n◎导　　演　大卫·道金 David Dobkin\n\r\n　　　　　　香农·科莉 Shannon Kohli\n\r\n　　　　　　詹妮弗·彭 Jennifer Phang\n\r\n◎编　　剧　克里斯·谢里丹 Chris Sheridan\n\r\n◎主　　演　艾伦·图代克 Alan Tudyk\n\r\n　　　　　　琳达·汉密尔顿 Linda Hamilton\n\r\n　　　　　　曼德尔·莫恩 Mandell Maughan\n\r\n　　　　　　伊丽莎白·鲍恩 Elizabeth Bowen\n\r\n　　　　　　莱维·费赫尔 Levi Fiehler\n\r\n　　　　　　科瑞·雷诺兹 Corey Reynolds\n\r\n　　　　　　爱丽丝·韦特兰德 Alice Wetterlund\n\r\n　　　　　　艾维·约斯特 Elvy Yost\n\r\n　　　　　　萨拉·波戴斯基 Sa…",
-          "link": "https://pt.eastgame.org/details.php?id=45038",
-          "publishedOn": "2021-06-21T06:17:36.000Z",
-          "wordCount": 71,
-          "title": "Resident.Alien.S01.2021.WEB-DL.MiniSD-TLF[外星居民[8.2][tt8690918][全10集]][2.92 GB]",
-          "enclosure": {
-            "url": "https://pt.eastgame.org/download.php?id=45038",
-            "length": "3132577244",
             "type": "application/x-bittorrent"
           }
         }
