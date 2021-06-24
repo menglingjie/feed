@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://menglingjie.github.io/REPO_NAME/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-24T12:33:21.023Z</updated>
+    <updated>2021-06-24T13:26:06.189Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://menglingjie.github.io/REPO_NAME/index.html"/>
     <link rel="self" href="https://menglingjie.github.io/REPO_NAME/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[微软 Xbox Series X 主机体验：畅玩 3A 大作只是小菜一碟，XGP 会员服务是亮点]]></title>
+        <id>https://www.ifanr.com/?p=1424653&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1424653?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-06-24T12:44:54.000Z</updated>
+        <summary type="html"><![CDATA[Xbox Game Pass 真香。
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>王志劭</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Endeavour 2014 S02 WEB-DL MiniSD-TLF[摩斯探长前传 第二季][2.66 GB]]]></title>
         <id>ec21bc13bd64bf3df095ca9cec196a0e016faf30</id>
@@ -1620,23 +1636,6 @@ DNA 的二级结构就是大名鼎鼎的“双螺旋结构”。也就是有互�
 新浪微博]]></summary>
         <author>
             <name>周宇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[早报 | 首汽约车回应女乘客跳车事件 / 供应链称已收到华为 Mate50 设计方案 / 四川比特币矿场集体断电]]></title>
-        <id>https://www.ifanr.com/?p=1423861&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
-        <link href="https://www.ifanr.com/1423861?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
-        <updated>2021-06-21T00:59:15.000Z</updated>
-        <summary type="html"><![CDATA[‍• 比尔·盖茨发布 2021 夏季书单
-• 全球迪士尼乐园现已全部恢复开放
-#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博]]></summary>
-        <author>
-            <name>方嘉文</name>
         </author>
     </entry>
     <entry>
