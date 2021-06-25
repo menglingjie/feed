@@ -31,12 +31,21 @@
       "siteUrl": "https://www.ifanr.com?utm_source=rss&utm_medium=rss&utm_campaign=",
       "articles": [
         {
+          "id": "https://www.ifanr.com/?p=1424166&utm_source=rss&utm_medium=rss&utm_campaign=",
+          "author": "换新言",
+          "description": "再见，32 位。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
+          "link": "https://www.ifanr.com/1424166?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedOn": "2021-06-25T07:46:50.000Z",
+          "wordCount": 657,
+          "title": "32 位停摆倒计时，这对 Android 和苹果用户意味着什么？"
+        },
+        {
           "id": "https://www.ifanr.com/?p=1424812&utm_source=rss&utm_medium=rss&utm_campaign=",
           "author": "方嘉文",
           "description": "‍• 快手 7 月将取消大小周\r\n• 南非出现史上最大加密币盗窃案\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
           "link": "https://www.ifanr.com/1424812?utm_source=rss&utm_medium=rss&utm_campaign=",
           "publishedOn": "2021-06-25T00:52:35.000Z",
-          "wordCount": 504,
+          "wordCount": 510,
           "title": "早报 | AirPods 3 有望今年发布 / 喜茶估值达 600 亿 / 微软发布 Windows 11"
         },
         {
@@ -45,7 +54,7 @@
           "description": "游戏爱好者的春天来了！\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
           "link": "https://www.ifanr.com/1424772?utm_source=rss&utm_medium=rss&utm_campaign=",
           "publishedOn": "2021-06-24T23:33:26.000Z",
-          "wordCount": 504,
+          "wordCount": 507,
           "title": "Windows 11 正式发布！界面大变样，Android 应用也能运行，还有这些重磅功能"
         },
         {
@@ -200,15 +209,6 @@
           "publishedOn": "2021-06-21T13:04:15.000Z",
           "wordCount": 467,
           "title": "2021 年「绿色诺贝尔奖」公布，6 个普通人获奖了"
-        },
-        {
-          "id": "https://www.ifanr.com/?p=1423965&utm_source=rss&utm_medium=rss&utm_campaign=",
-          "author": "杜沅傧",
-          "description": "以小见大。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
-          "link": "https://www.ifanr.com/1423965?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedOn": "2021-06-21T10:33:43.000Z",
-          "wordCount": 403,
-          "title": "为了这款网红产品，苹果居然要推出一款 Android 应用"
         }
       ]
     },
@@ -223,7 +223,7 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
           "link": "http://www.ruanyifeng.com/blog/2021/06/weekly-issue-164.html",
           "publishedOn": "2021-06-25T00:28:30.000Z",
-          "wordCount": 822,
+          "wordCount": 856,
           "title": "科技爱好者周刊（第 164 期）：培训班 vs 大学，求职成功率比较"
         },
         {
@@ -232,7 +232,7 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
           "link": "http://www.ruanyifeng.com/blog/2021/06/weekly-issue-163.html",
           "publishedOn": "2021-06-18T00:15:03.000Z",
-          "wordCount": 750,
+          "wordCount": 759,
           "title": "科技爱好者周刊（第 163 期）：你的城市有多少张病床？"
         },
         {
@@ -241,7 +241,7 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
           "link": "http://www.ruanyifeng.com/blog/2021/06/weekly-issue-162.html",
           "publishedOn": "2021-06-11T00:15:31.000Z",
-          "wordCount": 886,
+          "wordCount": 888,
           "title": "科技爱好者周刊（第 162 期）：生活就像《吃豆人》游戏"
         }
       ]
@@ -409,6 +409,34 @@
       "siteUrl": "https://pt.eastgame.org",
       "articles": [
         {
+          "id": "21fef1c299e5539f8a203a0584b240ea02124e41",
+          "author": "wqsyy213@pt.eastgame.org (wqsyy213)",
+          "description": "BBS链接：https://bbs.eastgame.org/viewthread.php?tid=134636\n\r\n◎制　　作　莫里斯 @ TLF HALFCD TeaM\n\r\n\n\r\n◎英 文 名：Hellsing: The Dawn\n\r\n◎中 文 名：皇家国教骑士团外传：黎明\n\r\n◎编     剧：黑田洋介\n\r\n◎导     演：殿勝秀樹\n\r\n◎主　　演：朴璐美 / 中田让治 / 飞田展男\n\r\n◎年　　代：2011\n\r\n◎国　　家：日本\n\r\n◎语　　言：日语\n\r\n◎官方网站：www.geneon-ent.co.jp/rondorobe/anime/hellsing/\n\r\n◎片　　源：Hellsing Ultimate I-X + Dawn I-III (BD 10-bit 1280x720 x264 AC3 5.1)\n\r\n◎片　　长：9分钟\n\r\n◎分 辨 率：848×476\n\r\n◎视频码率：1000 Kbps\n\r\n@音频码率：Q=0.25\n\r\n◎类　　别：动画\n\r\n◎简　　介：\n\r\n               20世纪中叶，第二次世界大战正处于如火如荼的关键时刻。此时，大不列颠帝国得到一条重要情报，拥有“代理总统”之称的纳粹头目少校（飞田展男 配音）正秘密发动一场扭转战局的重要战争，他所率领的部队据说全由嗜血如命、毫无人性的肉体怪物食尸鬼组成，一旦食尸鬼部队发起攻击，同盟国的优势将荡然无存，世界亦将进入最为黑暗的时刻。针对这一情况，皇家国教骑士团Hellsing宣誓誓死捍卫本土，而当时正青春年少却有着“死神”绰号的沃尔达•C•多内兹（朴璐美 配音）也带着恐怖的吸血鬼阿尔卡特飞抵英国上空，卷入了这场影响深远的世纪战争中。皇家国教骑士团的传奇就此拉开了序幕……\n\r\n　　本片根据平野耕太的原作改编，为《皇家国教骑士团》的外传。\n\r\n\r\n 引用 \n文件名称: 皇家国教骑士团外传.黎明.Hellsing.The Dawn.2011.EP01.BD.MiniSD-TLF.mkv\n\r\n文件大小: 32116850\n\r\nMD5: 50B18B3EBBE497C4E4A394ED61CDF2B6\n\r\nSHA1: 1420254D871D599BC97D2E941EA85C288E464553\n\r\n\r\n文件名称: 皇家国教骑士团外传.黎明.Hellsing.The Dawn.2011.EP02.BD.MiniSD-TLF.mkv\n\r\n文件大小: 32055430\n\r\nMD5: 752146C062496C0EA23272CC2C076971\n\r\nSHA1: F0C6B052111F49BDBF7B9C488469CD1F993342ED\n\r\n\r\n文件名称: 皇家国教骑士团外传.黎明.Hellsing.The Dawn.2011.EP03.BD.MiniSD-TLF.mkv\n\r\n文件大小: 68666976\n\r\nMD5: 566E9F29B9B6D1FDC0A7D4600C3D80FD\n\r\nSHA1: B4F331C736C271CC82A36E7BD03FBEB0F1587FDB",
+          "link": "https://pt.eastgame.org/details.php?id=45194",
+          "publishedOn": "2021-06-25T08:20:10.000Z",
+          "wordCount": 71,
+          "title": "Hellsing The Dawn 2011 BD MiniSD-TLF[皇家国教骑士团外传：黎明 全3集][126.69 MB]",
+          "enclosure": {
+            "url": "https://pt.eastgame.org/download.php?id=45194",
+            "length": "132839256",
+            "type": "application/x-bittorrent"
+          }
+        },
+        {
+          "id": "76fbbb051510ef66037d5ba49e51ab7db009f631",
+          "author": "wqsyy213@pt.eastgame.org (wqsyy213)",
+          "description": "BBS链接：https://bbs.eastgame.org/viewthread.php?tid=134636\n\r\n◎制　　作　莫里斯 @ TLF HALFCD TeaM\n\r\n\n\r\n◎英 文 名：Hellsing Ultimate\n\r\n◎中 文 名：皇家国教骑士团\n\r\n◎编     剧：黑田洋介\n\r\n◎导     演：Tomokazu Tokoro\n\r\n◎主　　演：中田让治 / 榊原良子 / 折笠富美子 / 清川元梦 / 若本规夫\n\r\n◎年　　代：2006\n\r\n◎国　　家：日本\n\r\n◎语　　言：日语\n\r\n◎官方网站：www.geneon-ent.co.jp/rondorobe/anime/hellsing/\n\r\n◎片　　源：Hellsing Ultimate I-X + Dawn I-III (BD 10-bit 1280x720 x264 AC3 5.1)\n\r\n◎片　　长：50分钟\n\r\n◎分 辨 率：848×476\n\r\n◎视频码率：1000 Kbps\n\r\n@音频码率：Q=0.25\n\r\n◎类　　别：动画\n\r\n◎简　　介：\n\r\n                在一次对治某村庄食尸鬼的超自然事件时，平凡女警女警西洛斯·维多利亚遭到袭击，奄奄一息，关键时刻吸血鬼杀手阿尔卡特出现，铲除食尸鬼，并将西洛斯变成了吸血鬼的一员，她顺理成章也接触到了阿尔卡特背后的神秘组织，即为维护英国基督新教、与反基督怪物作战的皇家国教骑士团（Hellsing），在现任当家伊塔古拉·方布鲁克·维英格茨·赫尔辛的率领下，他们接手一桩桩危险且阴谋重重的任务。在这一过程中，与食尸鬼有关的事件层出不穷，死后背后有另一个神秘组织正在策划惊天阴谋。梵蒂冈特务局第十三课Iscariot机关局长安利哥氠克斯威尔、安德鲁森神父等重要人物相继现身，为了保护英国本土和基督新教，第九次十字军成立，而他们的对手则是纳粹余孽少校所…",
+          "link": "https://pt.eastgame.org/details.php?id=45192",
+          "publishedOn": "2021-06-25T08:07:46.000Z",
+          "wordCount": 71,
+          "title": "Hellsing Ultimate 2006 BD MiniSD-TLF[皇家国教骑士团 OVA 全10集][2.89 GB]",
+          "enclosure": {
+            "url": "https://pt.eastgame.org/download.php?id=45192",
+            "length": "3100463901",
+            "type": "application/x-bittorrent"
+          }
+        },
+        {
           "id": "ec21bc13bd64bf3df095ca9cec196a0e016faf30",
           "author": "wqsyy213@pt.eastgame.org (wqsyy213)",
           "description": "BBS链接：https://bbs.eastgame.org/viewthread.php?tid=134121\n\r\n◎制　　作　莫里斯 @ TLF HALFCD TeaM\n\r\n\n\r\n◎英  文 名：Endeavour\n\r\n◎中  文 名：摩斯探长前传/锲而不舍\n\r\n◎导      演: 杰弗里·萨克斯 / 吉塞佩·卡波通蒂 / 安迪·威尔逊 / Kristoffer Nyholm\n\r\n◎编      剧: 罗素·刘易斯 / 柯林·德克斯特\n\r\n◎主　   演: 肖恩·埃文斯 / 罗杰·阿拉姆 / 西恩·里格比 / 杰克·拉斯基 / Anton Lesser / James Bradshaw / Abigail Thaw\n\r\n◎年　   代：2013\n\r\n◎国　   家：英国\n\r\n◎语　   言：英语\n\r\n◎电 视  台：ITV\n\r\n◎官方网站：https://www.itv.com/itvplayer/endeavour\n\r\n◎片　   源：Endeavour.S02.720p.WEB-DL.AAC2.0.h264-jAh\n\r\n◎片　   长：89分钟左右/集\n\r\n◎分 辨  率：848×476\n\r\n◎视频码率：1000 Kbps\n\r\n@音频码率：Q=0.25\n\r\n◎字　　幕：简体中文/英文\n\r\n◎类　　别：剧情 / 悬疑 / 犯罪\n\r\n◎简　　介：\n\r\n           《摩斯探长前传》第二季于2014年3月30日在英国独立电视台播出，新一季共由《宝藏》、《夜曲》、《摇摆》、《永无乡》四个故事组成，单集片长为90分钟，Russell Lewis担任编剧，Shaun Evans继续出演主角警探摩斯，摩斯探长系列小说原作者Colin Dexter依旧为本剧担任顾问。四集导演分别由Kristoffer Nyholm、Giuseppe Capotondi、Andy Wilson、Geoffrey Sax担任。\n\r\n\r\n 引用 \n文件:  摩斯探长前传.Endeavour.2013.S02E01.WEB-DL.MiniSD-TLF.mkv\n\r\n大小: 714863782 字节\n\r\nMD5: 4255D80861D13E3DD4428FEF4E99ACAB\n\r\nSHA1: 55F3D9FAF4D2EA722274AA8B942C81BD73E771B9\n\r\n\r\n文件:  摩斯探长前传.Endeavour.2013.S02E02.WEB-DL.MiniSD-TLF.mkv\n\r\n大小: 714424385 字节\n\r\nMD5: 639DF8CA8592275CBE0DD921786F0005\n\r\nSHA1: C8282DF7A6F022A9D2A9C7B8FCDD1A1A09A1D424\n\r\n\r\n文件: 摩斯探长前传.Endeavour.2013.S02E03.WEB-DL.MiniSD-TLF.mkv\n\r\n大小: 712858617 字节\n\r\nMD5: 805D79E7C277129886480BD1452E43A4\n\r\nSHA1: 138F6D92B8FECE3CBC3D82223897A44BC19E14B8\n\r\n\r\n文件: 摩斯探长前传.Endeavour.2013.S02E04.WEB-DL.MiniSD-TLF.mkv\n\r\n大小: 712896739 字节\n\r\nMD5: F53879BA6A985B80436CDC79E15583B0\n\r\nSHA1: 498ECEC90B4757AE88C54B76596302CF96E2A5B7",
@@ -517,34 +545,6 @@
           "enclosure": {
             "url": "https://pt.eastgame.org/download.php?id=45099",
             "length": "3696603153",
-            "type": "application/x-bittorrent"
-          }
-        },
-        {
-          "id": "746ca035022c38e36b1119d9e7b1475679b41e58",
-          "author": "wqsyy213@pt.eastgame.org (wqsyy213)",
-          "description": "BBS链接：https://bbs.eastgame.org/viewthread.php?tid=133359\n\r\n◎制　　作　cp3you @ TLF HALFCD TeaM\n\r\n\n\r\n◎译　　名　汉尼拔 第二季\n\r\n◎片　　名　Hannibal\n\r\n◎年　　代　2014\n\r\n◎国　　家　美国\n\r\n◎类　　别　悬疑 / 惊悚 / 犯罪\n\r\n◎语　　言　英语\n\r\n◎上映日期　2014-02-28\n\r\n◎IMDb评分　9.0/10 (1,610 votes)\n\r\n◎IMDb链接　http://www.imdb.com/title/tt3000124/\n\r\n◎豆瓣评分　8.8/10 (5,532 votes)\n\r\n◎豆瓣链接　http://movie.douban.com/subject/24733062/\n\r\n◎片　　长　43分钟\n\r\n◎导　　演　大卫·斯雷德 David Slade\n\r\n◎主　　演　休·丹西 Hugh Dancy\n\r\n　　　　　　麦德斯·米科尔森 Mads Mikkelsen\n\r\n　　　　　　卡洛琳·达芙娜 Caroline Dhavernas\n\r\n　　　　　　劳伦斯·菲什伯恩 Laurence Fishburne\n\r\n◎简　　介　\n\r\n\r\n　　《汉尼拔》第2季，共13集，预计将于2014年的季中播出，汉尼拔的盛宴将继续下去。和第一季相似，《汉尼拔》第二季仍然被续订了13集，并且会在秋季档中期上演。\n\r\n　　「汉尼拔」，食人恶魔的代名词。同名电影三部曲（沉默的羔羊、汉尼拔、红龙）已经让这个文学形象深入人心，NBC准备第一次让他出现在电视银屏上。该剧根据Thomas Harris的经典小说改编，由《Pushing Daisies》、《Heroes》的制片人Bryan Fuller打造，故事描述心理学专家Hannibal Lecter医生转变为恐怖的连环杀手的…",
-          "link": "https://pt.eastgame.org/details.php?id=45097",
-          "publishedOn": "2021-06-22T12:25:46.000Z",
-          "wordCount": 71,
-          "title": "Hannibal S02 2014 HDTV MiniSD-TLF[汉尼拔 第二季][3.23 GB]",
-          "enclosure": {
-            "url": "https://pt.eastgame.org/download.php?id=45097",
-            "length": "3466234282",
-            "type": "application/x-bittorrent"
-          }
-        },
-        {
-          "id": "a200ff9dfe2d962059b1927b525116584566b097",
-          "author": "wqsyy213@pt.eastgame.org (wqsyy213)",
-          "description": "BBS链接：https://bbs.eastgame.org/viewthread.php?tid=140599\n\r\n◎制　　作　Fixxxer @ TLF HALFCD TeaM\n\r\n\n\r\n◎译　　名　马可波罗 第一季/马可波罗游记\n\r\n◎片　　名　Marco Polo\n\r\n◎年　　代　2014\n\r\n◎国　　家　美国\n\r\n◎类　　别　冒险\n\r\n◎语　　言　英语\n\r\n◎上映日期　2014-12-12(美国)\n\r\n◎IMDb评分　8.4/10 (2,058 votes)\n\r\n◎IMDb链接　http://www.imdb.com/title/tt2189461/\n\r\n◎豆瓣评分　5.8/10 (559 votes)\n\r\n◎豆瓣链接　http://movie.douban.com/subject/10539839/\n\r\n◎片　　长　60分钟\n\r\n◎导　　演　乔阿吉姆·罗恩尼 Joachim R&oslash;nning\n\r\n　　　　　　艾斯彭·山德伯格 Espen Sandberg\n\r\n　　　　　　丹尼尔·米纳汉 Daniel Minahan\n\r\n◎主　　演　洛伦佐·里凯尔米 Lorenzo Richelmy\n\r\n　　　　　　陈冲 Joan Chen\n\r\n　　　　　　本德里克特·王 Benedict Wong\n\r\n　　　　　　瑞米 海依 Remy Hii\n\r\n　　　　　　郑文雅 Olivia Cheng\n\r\n　　　　　　朱珠 Zhu Zhu\n\r\n　　　　　　黄经汉 Chin Han\n\r\n　　　　　　Mahesh Jadu\n\r\n　　　　　　Vanessa Vanderstraaten\n\r\n　　　　　　尹成植 Rick Yune\n\r\n　　　　　　Nicholas Bloodworth\n\r\n　　　　　　Fish Chaar\n\r\n　　　　　　皮尔弗朗西斯科·法维诺 Pierfrance…",
-          "link": "https://pt.eastgame.org/details.php?id=45096",
-          "publishedOn": "2021-06-22T12:17:49.000Z",
-          "wordCount": 71,
-          "title": "Marco Polo 2014 S01 Web-DL MiniSD-TLF[马可波罗 第一季][2.49 GB]",
-          "enclosure": {
-            "url": "https://pt.eastgame.org/download.php?id=45096",
-            "length": "2675035128",
             "type": "application/x-bittorrent"
           }
         }
