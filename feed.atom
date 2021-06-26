@@ -2,10 +2,114 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://menglingjie.github.io/REPO_NAME/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-26T11:16:54.965Z</updated>
+    <updated>2021-06-26T12:32:14.426Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://menglingjie.github.io/REPO_NAME/index.html"/>
     <link rel="self" href="https://menglingjie.github.io/REPO_NAME/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Asoka 2001 BD 3Audio MiniSD-TLF[阿育王 [tt0249371][国英双语]][1.51 GB]]]></title>
+        <id>6537d0032bccaa3c97a6a8682961036199f21e1c</id>
+        <link href="https://pt.eastgame.org/details.php?id=45226"/>
+        <updated>2021-06-26T11:36:42.000Z</updated>
+        <summary type="html"><![CDATA[◎制　　作　MoCuishle @ TLF HALFCD TeaM
+
+
+
+◎译　　名　阿育王/利剑红尘/Ashoka the Great
+
+◎片　　名　Asoka
+
+◎年　　代　2001
+
+◎国　　家　印度
+
+◎类　　别　动作 / 剧情 / 历史
+
+◎语　　言　印地语
+
+◎上映日期　2001-09-13(加拿大)
+
+◎评　　分　Rotten Tomatoes:100%   
+
+◎分　　级　R
+
+◎IMDB时长　176 min
+
+◎IMDb评分　6.7/10 from 11,809 users
+
+◎IMDb链接　http://www.imdb.com/title/tt0249371/
+
+◎豆瓣评分　7.7/10 (11,838 votes)
+
+◎豆瓣链接　https://movie.douban.com/subject/1302457/
+
+◎片　　长　169 分钟(International version)/180 分钟(uncut version)/UK: 176 分钟/USA: 155 分钟(director's cut)
+
+◎导　　演　桑托什·斯万
+
+◎主　　演　沙鲁克·汗 Shahrukh Khan
+
+　　　　　　卡琳娜·卡普 Kareena Kapoor
+
+　　　　　　Danny Denzongpa
+
+　　　　　　Rahul Dev
+
+　　　　　　瑞莎塔·布哈特 Hrishitaa Bhatt
+
+　　　　　　Gerson Da Cunha
+
+◎简　　介　
+
+
+　　公元前的印度孔雀王朝，宾头沙罗国王之子阿育王子（沙鲁克·汗 Shah Rukh Khan 饰）勇猛善战，虽遭兄弟忌恨陷害，却接连立下汗马功劳，声望扶摇直上。面对荆棘环绕的王位，阿育起先沉着应对，不以为意，最终还是应母亲（Shilpa Mehta 饰）的苦苦哀求隐姓埋名，离开王宫。修行途中，阿育邂逅美丽动人的卡列加公主卡瓦奇（卡琳娜·卡普 Kareena Kapoor 饰）。失意时节相知相守，一对不平凡的青年男女爱情花朵恣意绽放。不过正如僧侣所说，太阳即使躲在云层后面仍是太阳，阿育注定重返王宫，继承王位。为此他与卡瓦奇生离死别，在金碧辉煌的宫殿内与政敌和外敌攻防周旋。在血雨腥风的斗争中，阿育的那颗心逐渐冰冷，攻城略地，征战杀伐，血流遍野，为了最顶点的荣耀，黑色阿育王逐渐膨胀。
+
+
+　　史上最伟大的护法转轮王阿育，亘古流传的王者传奇……
+
+
+◎文件名称　阿育王.Asoka.2001.BD.3Audio.MiniSD-TLF.mkv
+
+◎文件大小　1.51 GiB
+
+◎影片长度　02:55:45.468
+
+◎混合码率　1 229 kb/s
+
+◎封装时间　UTC 2021-06-26 03:26:29
+
+◎MMG版本　 mkvmerge v5.2.1 ('A Far Off Place') built on Jan  2 2012 23:21:10
+
+◎视频码率　
+
+◎视频尺寸　854 x 362
+
+◎画面比例　2.35:1
+
+◎帧 率　　 25.000 FPS
+
+◎数据密度　
+
+◎音轨信息  印地语 / 国语 / 国语(央视)
+
+◎字幕信息  简体 / 繁体 / 英文 / 简英双语 / 繁英双语
+
+◎片源采用　
+
+◎x264版本  x264 core 157 r2935 545de2f
+
+◎x264参数  ref=8 / deblock=1:-1:-1 / me=umh / subme=10 / bframes=8 / rc=crf / mbtree=0 / crf=21.5 / qpmin=0 / qpmax=69
+
+
+◎检验MD5 ：63D365AAC570F0970ACDC89CFB1702D3
+
+◎检验SHA1：4AEC39A7882CB98F6EA751CB9EA7C712EF63063D
+
+◎文件大小：1619428146]]></summary>
+        <author>
+            <name>anonymous@pt.eastgame.org (anonymous)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shin Mashin Eiyuuden Wataru Majinzan 1989 BD MiniSD-TLF[魔神英雄传外传OVA1 魔神山篇 全2集][470.01 MB]]]></title>
         <id>7faf3fddb8b8aa1e8e60f8e8416c6a14f8879194</id>
@@ -826,148 +930,6 @@ SHA1: C37E42260155AD9D5C49008D26515FEF86526EDD]]></summary>
 新浪微博]]></summary>
         <author>
             <name>李华</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loki S01E03 2021 WEB-DL MiniSD-TLF[洛基 第一季第三集][221.23 MB]]]></title>
-        <id>a761d0323256a9dadadbd82fd2ec956233407fd2</id>
-        <link href="https://pt.eastgame.org/details.php?id=45199"/>
-        <updated>2021-06-25T08:44:21.000Z</updated>
-        <summary type="html"><![CDATA[引用 
-◎制　　作　zuimeng1997 @ TLF HALFCD TeaM
-
-
-
-◎译　　名　洛基 第一季/洛基传/洛奇/Loki
-
-◎片　　名　Loki Season 1
-
-◎年　　代　2021
-
-◎产　　地　美国
-
-◎类　　别　动作/科幻/奇幻/冒险
-
-◎语　　言　英语
-
-◎上映日期　2021-06-09(美国)
-
-◎IMDb评分  9.2/10 from 13618 users
-
-◎IMDb链接  https://www.imdb.com/title/tt9140554/
-
-◎豆瓣评分　9.2/10 from 13532 users
-
-◎豆瓣链接　https://douban.com/subject/30331432/
-
-◎集　　数　6
-
-◎片　　长　55分钟
-
-◎导　　演　凯特·赫伦 Kate Herron
-
-◎编　　剧　迈克尔·沃尔德伦 Michael Waldron / 杰克·科比 Jack Kirby / 斯坦·李 Stan Lee / 拉里·利伯 Larry Lieber
-
-◎主　　演　汤姆·希德勒斯顿 Tom Hiddleston
-
-　　　　  　欧文·威尔逊 Owen Wilson
-
-　　　　  　古古·姆巴塔-劳 Gugu Mbatha-Raw
-
-　　　　  　索菲娅·迪·马蒂诺 Sophia Di Martino
-
-　　　　  　乌米·马萨库 Wunmi Mosaku
-
-　　　　  　理查德·E·格兰特 Richard E. Grant
-
-　　　　  　萨莎·莱恩 Sasha Lane
-
-　　　　  　埃里卡·科尔曼 Erika Coleman
-
-　　　　  　卢修斯·巴斯顿 Lucius Baston
-
-　　　　  　迈克尔·罗斯 Michael Rose
-
-　　　　  　凯莱·弗莱明 Cailey Fleming
-
-　　　　  　艾伦·比尔纳 Aaron Beelner
-
-　　　　  　凯特·戴琳斯 Kat Dennings
-
-　　　　  　塔拉·斯特朗 Tara Strong
-
-　　　　  　乔希·法德姆 Josh Fadem
-
-　　　　  　Isabelle Fretheim
-
-　　　　  　Michelle Rose
-
-
-◎标　　签　漫威 | Loki | 汤姆·希德勒斯顿 | 漫威电影宇宙 | Marvel | 美剧 | 科幻 | 美国
-
-
-◎简　　介
-
-
-　　
-
-　　故事聚焦在《复仇者联盟4：终局之战》中，另一时空拿走空间宝石（Space Stone）的洛基，描述他作为一名恶作剧之神和变形者的身份，现身在人类历史中的多个时期，影响着历史事件。
-
-　　
-
- 引用 
-◎文件名称　Loki.S01E03.2021.WEB-DL.MiniSD-TLF.mkv
-
-◎文件大小　221 MiB
-
-◎影片长度　00:41:01.205
-
-◎混合码率　754 kb/s
-
-◎封装时间　UTC 2021-06-25 07:17:03
-
-◎MMG 版本　mkvmerge v43.0.0 ('The Quartermaster') 64-bit
-
-◎视频码率　623 kb/s
-
-◎视频尺寸　854 x 358
-
-◎画面比例　2.40:1
-
-◎帧    率　24.000 FPS
-
-◎位    深　8 bits
-
-◎数据密度　0.085
-
-◎音频码率  128 kb/s
-
-◎音频编码  AAC LC
-
-◎音轨声道  6 声道
-
-◎音轨信息  英文
-
-◎字幕信息  简体中文 / 繁体中文 / 英文
-
-◎字幕采用  
-
-◎片源采用  Loki.S01E03.Lamentis.2160p.WEB-DL.DDP.5.1.Atmos.H.265-FLUX
-
-◎x264版本  x264 core 163 r3059 b684ebe
-
-◎x264参数  ref=9 / deblock=1:-1:-1 / me=umh / subme=9 / psy=1 / psy_rd=1.00:0.15 / bframes=5 / rc=crf / mbtree=1 / crf=21.0 / qcomp=0.60 / aq=3:1.00
-
-
-文件名称: Loki.S01E03.2021.WEB-DL.MiniSD-TLF.mkv
-
-文件大小: 221 MB (231,976,804 字节)
-
-MD5: F4AA44BBBA8FED8FAC47F845C8E384EB
-
-SHA1: 65B0B05C1A4DD8A76E5F55A57636989D1F9FABC9]]></summary>
-        <author>
-            <name>wqsyy213@pt.eastgame.org (wqsyy213)</name>
         </author>
     </entry>
     <entry>
