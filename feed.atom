@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://menglingjie.github.io/REPO_NAME/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-27T09:22:48.600Z</updated>
+    <updated>2021-06-27T10:23:16.902Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://menglingjie.github.io/REPO_NAME/index.html"/>
     <link rel="self" href="https://menglingjie.github.io/REPO_NAME/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[想通过玩游戏解决世界大难题？这里有个介绍 | Feel Good 周报]]></title>
+        <id>https://www.ifanr.com/?p=1424960&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1424960?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-06-27T10:00:52.000Z</updated>
+        <summary type="html"><![CDATA[世界也许不完美，但总有人在努力让它变得更好。
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>方嘉文</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tears on Fire S01 2021 WEB-DL HEVC 10bit MiniHD-TLF[火神的眼泪 | [豆瓣9.0] | [34927980] 强烈推荐推荐，《我们与恶的距离》同一编剧][5.28 GB]]]></title>
         <id>fa9a418e061d4a3ec2f810dee54cbef7d8852156</id>
@@ -1368,23 +1384,6 @@ Thank you @PiyushLosalka]]></summary>
 新浪微博]]></summary>
         <author>
             <name>李华</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[早报 | iPhone 13 系列储存容量或限于 512G / 特斯拉被判「销售欺诈」/ 首汽约车道歉]]></title>
-        <id>https://www.ifanr.com/?p=1424123&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
-        <link href="https://www.ifanr.com/1424123?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
-        <updated>2021-06-22T00:45:56.000Z</updated>
-        <summary type="html"><![CDATA[‍• 支付宝和多家银行发布声明，称将持续打击虚拟货币交易
-‍• 抖音网页版正式上线
-#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博]]></summary>
-        <author>
-            <name>方嘉文</name>
         </author>
     </entry>
     <entry>
