@@ -223,7 +223,7 @@
           "description": "美国最大的论坛 Reddit，最近有一个热帖。...",
           "link": "http://www.ruanyifeng.com/blog/2021/06/drunk-post-of-a-programmer.html",
           "publishedOn": "2021-06-28T01:10:50.000Z",
-          "wordCount": 430,
+          "wordCount": 449,
           "title": "程序员的酒后真言"
         },
         {
@@ -409,6 +409,20 @@
       "siteUrl": "https://pt.eastgame.org",
       "articles": [
         {
+          "id": "e93a410ddd9260cef24f369e0d0de6ae7ae55ee0",
+          "author": "anonymous@pt.eastgame.org (anonymous)",
+          "description": "◎制　　作　风云潜龙 @ TLF HALFCD TeaM\n\r\n\n\r\n◎译　　名　全裸导演 第二季\n\r\n◎片　　名　\n\r\n◎又　　名　全裸监督(港) / AV帝王(台)\n\r\n◎年　　代　2021年\n\r\n◎国家/地区 日本\n\r\n◎类　　别  剧情 / 喜剧 / 情色 / 传记\n\r\n◎语　　言  日语\n\r\n◎首播日期  2021-06-24(日本)\n\r\n◎豆瓣评分　7.8/10 (4586 users)\n\r\n◎豆瓣链接  https://movie.douban.com/subject/34796281/\n\r\n◎单集片长　\n\r\n◎集    数　8\n\r\n◎导　　演　武正晴 Masaharu Take\n\r\n◎编　　剧　山田能龙 Yoshitatsu Yamada\n\r\n　　　　　　小寺和久 Kazuhisa Kotera\n\r\n　　　　　　本桥信宏 Nobuhiro Motohashi\n\r\n◎主　　演　山田孝之 Yamada Takayuki\n\r\n　　　　　　满岛真之介 Shin'nosuke Mitsushima\n\r\n　　　　　　森田望智 Misato Morita\n\r\n　　　　　　玉山铁二 Tetsuji Tamayama\n\r\n　　　　　　恒松祐里 Yuri Tsunematsu\n\r\n　　　　　　柄本时生 Tokio Emoto\n\r\n　　　　　　宫泽理惠 Rie Miyazawa\n\r\n　　　　　　伊藤沙莉 Sairi Itô\n\r\n　　　　　　富手麻妙 Ami Tomite\n\r\n　　　　　　后藤刚范 Takenori Gotô\n\r\n　　　　　　小雪 Koyuki\n\r\n　　　　　　泷正则 Pierre Taki\n\r\n　　　　　　中川雅也 Lily Franky\n\r\n　　　　　　国村隼 Jun Kunimura\n\r\n　　　　　　渡边大知 Daichi Watanabe\n\r\n　　　　　　 M…",
+          "link": "https://pt.eastgame.org/details.php?id=45301",
+          "publishedOn": "2021-06-28T07:27:53.000Z",
+          "wordCount": 71,
+          "title": "The Naked Director 2021 Season 02 Complete NF WEB-DL 2Audio MiniSD-TLF[全裸导演 第二季 [豆瓣7.8] [34796281]][3.61 GB]",
+          "enclosure": {
+            "url": "https://pt.eastgame.org/download.php?id=45301",
+            "length": "3871664307",
+            "type": "application/x-bittorrent"
+          }
+        },
+        {
           "id": "801d058fee3e19f39d1ede9d41f44112de437843",
           "author": "anonymous@pt.eastgame.org (anonymous)",
           "description": "https://bbs.eastgame.org/viewthread.php?tid=157658\n\r\n\r\n◎制　　作　yourtear @ TLF HALFCD Team\n\r\n\n\r\n\r\n◎译　　名　夏日大作战/夏日大战争/夏日战争/Summer Wars\n\r\n◎片　　名　サマーウォーズ\n\r\n◎年　　代　2009\n\r\n◎产　　地　日本\n\r\n◎类　　别　喜剧/科幻/动画/家庭/冒险\n\r\n◎语　　言　日语/英语\n\r\n◎上映日期　2009-08-01(日本)\n\r\n◎IMDb链接  https://www.imdb.com/title/tt1474276/\n\r\n◎豆瓣评分　8.6/10 from 159912 users\n\r\n◎豆瓣链接　https://douban.com/subject/3908423/\n\r\n◎片　　长　114分钟\n\r\n◎导　　演　细田守 Mamoru Hosoda\n\r\n◎编　　剧　奥寺佐渡子 Satoko Okudera\n\r\n◎主　　演　神木隆之介 Ryûnosuke Kamiki\n\r\n　　　　  　樱庭奈奈美 Nanami Sakuraba\n\r\n　　　　  　富司纯子 Sumiko Fuji\n\r\n　　　　  　谷村美月 Mitsuki Tanimura\n\r\n　　　　  　斋藤步 Ayumu Saitô\n\r\n　　　　  　横川贵大 Takahiro Yokokawa\n\r\n　　　　  　信泽三惠子 Mieko Nobusawa\n\r\n　　　　  　谷川清美 Kiyomi Tanigawa\n\r\n　　　　  　桐本拓哉 Kirimoto Takuya\n\r\n　　　　  　佐佐木睦 Mutsumi Sasaki\n\r\n　　　　  　玉川纱己子 Sakiko Tamagawa\n\r\n　　　　  　永井一郎 Ichirô Nagai\n\r\n　　　　  　山像香 Kaori Yam…",
@@ -531,20 +545,6 @@
           "enclosure": {
             "url": "https://pt.eastgame.org/download.php?id=45238",
             "length": "4344146422",
-            "type": "application/x-bittorrent"
-          }
-        },
-        {
-          "id": "570cd4d3dec801900814a00e972443a221581611",
-          "author": "wqsyy213@pt.eastgame.org (wqsyy213)",
-          "description": "BBS链接：https://bbs.eastgame.org/viewthread.php?tid=125207\n\r\n◎制　　作　Fixxxer @ TLF HALFCD TeaM\n\r\n\n\r\n◎译　　名　达芬奇的恶魔\n\r\n◎片　　名　Da Vinci‘s Demons      \n\r\n◎年　　代　2013\n\r\n◎国　　家　美国\n\r\n◎类　　别　剧情|传记|历史\n\r\n◎语　　言　英语\n\r\n◎IMDB评分　N/A/10 (N/A votes)  \n\r\n◎IMDB链接　http://www.imdb.com/title/tt2094262/\n\r\n◎首　　播　2013年4月12日\n\r\n◎官　　网　http://www.starz.com/originals/davincisdemons\n\r\n◎集　　数　预计 10 集\n\r\n◎片　　长　平均 60 分钟\n\r\n◎电 视 台　Starz\n\r\n◎导　　演　大卫·S·高耶   David S. Goyer      ....(2 episodes)\n\r\n　　　　　　Jamie Payne     ....(2 episodes)\n\r\n　　　　　　迈克尔·巴塞特   Michael J. Bassett       ....(2 episodes, 2013)\n\r\n　　　　　　Paul Wilmshurst         ....(2 episodes, 2013)\n\r\n◎编　  剧　大卫·S·高耶   David S. Goyer      ....creator (writer)\n\r\n◎演　  员　汤姆·莱利 Tom Riley  ....Leonardo Da Vinci (2 episodes)\n\r\n　　　　　　劳拉·哈德克 Laura Haddock  ....Lucrezia Donati (2 episodes)\n\r\n　　　　　…",
-          "link": "https://pt.eastgame.org/details.php?id=45227",
-          "publishedOn": "2021-06-26T13:51:11.000Z",
-          "wordCount": 71,
-          "title": "Da Vinci's Demons S01 2013 BD MiniSD-TLF[达芬奇的魔鬼 第一季 全8集][3.23 GB]",
-          "enclosure": {
-            "url": "https://pt.eastgame.org/download.php?id=45227",
-            "length": "3463380636",
             "type": "application/x-bittorrent"
           }
         }
