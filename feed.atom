@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://menglingjie.github.io/REPO_NAME/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-28T13:26:51.125Z</updated>
+    <updated>2021-06-28T14:19:06.134Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://menglingjie.github.io/REPO_NAME/index.html"/>
     <link rel="self" href="https://menglingjie.github.io/REPO_NAME/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[小米电视 6 至尊版体验：它的真面目，其实是「小米游戏电视」]]></title>
+        <id>https://www.ifanr.com/?p=1425080&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1425080?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-06-28T13:19:49.000Z</updated>
+        <summary type="html"><![CDATA[小米电视数字系列，成功跻身高端俱乐部。
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>换新言</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3-Iron 2004 TW BD 2Audio MiniSD-TLF[空房间 [tt0423866][国韩双语]][745.48 MB]]]></title>
         <id>fa9df6ea71978ef7eba5a353900b2c3ed7fdb99c</id>
@@ -1524,22 +1540,6 @@ Thank you @PiyushLosalka]]></summary>
 新浪微博]]></summary>
         <author>
             <name>方嘉文</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[当维密开始「反维密」，我们如何重新看待「性感」]]></title>
-        <id>https://www.ifanr.com/?p=1424242&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
-        <link href="https://www.ifanr.com/1424242?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
-        <updated>2021-06-23T00:46:03.000Z</updated>
-        <summary type="html"><![CDATA[当我们在看内衣广告或者维密秀时，我们想看到什么？
-#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博]]></summary>
-        <author>
-            <name>张成晨</name>
         </author>
     </entry>
     <entry>
