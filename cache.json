@@ -31,12 +31,21 @@
       "siteUrl": "https://www.ifanr.com?utm_source=rss&utm_medium=rss&utm_campaign=",
       "articles": [
         {
+          "id": "https://www.ifanr.com/?p=1425157&utm_source=rss&utm_medium=rss&utm_campaign=",
+          "author": "李华",
+          "description": "人们对于飞行器的想象从未停止。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
+          "link": "https://www.ifanr.com/1425157?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedOn": "2021-06-29T07:40:36.000Z",
+          "wordCount": 269,
+          "title": "「空中出租车」这回靠谱了：将用于 2024 年巴黎奥运会"
+        },
+        {
           "id": "https://www.ifanr.com/?p=1424095&utm_source=rss&utm_medium=rss&utm_campaign=",
           "author": "冷思真",
           "description": "PR 稿之外，这是大厂无障碍的另一面。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
           "link": "https://www.ifanr.com/1424095?utm_source=rss&utm_medium=rss&utm_campaign=",
           "publishedOn": "2021-06-29T01:45:35.000Z",
-          "wordCount": 424,
+          "wordCount": 429,
           "title": "大厂，你们这些 App 做得烂极了"
         },
         {
@@ -63,7 +72,7 @@
           "description": "到底什么是 TPM，为什么 Windows 11 会需要它。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
           "link": "https://www.ifanr.com/1425132?utm_source=rss&utm_medium=rss&utm_campaign=",
           "publishedOn": "2021-06-28T09:36:53.000Z",
-          "wordCount": 312,
+          "wordCount": 314,
           "title": "事关数据安全？微软要求设备必须搭载 TPM 芯片"
         },
         {
@@ -108,7 +117,7 @@
           "description": "地表最强 V6？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
           "link": "https://www.ifanr.com/1424887?utm_source=rss&utm_medium=rss&utm_campaign=",
           "publishedOn": "2021-06-25T08:57:13.000Z",
-          "wordCount": 300,
+          "wordCount": 302,
           "title": "围场失利，商场得意？法拉利发布全新混动跑车，电气化程度更进一步"
         },
         {
@@ -162,7 +171,7 @@
           "description": "我们手中的乐高积木，正在变得越来越环保。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
           "link": "https://www.ifanr.com/1424716?utm_source=rss&utm_medium=rss&utm_campaign=",
           "publishedOn": "2021-06-24T11:36:55.000Z",
-          "wordCount": 242,
+          "wordCount": 244,
           "title": "塑料瓶也能变成积木？乐高又向环保迈出了一大步"
         },
         {
@@ -198,17 +207,8 @@
           "description": "稳定的物流网络是交付能力的保证。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
           "link": "https://www.ifanr.com/1424479?utm_source=rss&utm_medium=rss&utm_campaign=",
           "publishedOn": "2021-06-23T11:23:00.000Z",
-          "wordCount": 242,
+          "wordCount": 244,
           "title": "亚马逊下单千套自动驾驶系统，彻底取代卡车司机？"
-        },
-        {
-          "id": "https://www.ifanr.com/?p=1424526&utm_source=rss&utm_medium=rss&utm_campaign=",
-          "author": "李华",
-          "description": "据称，其算力接近世界第五大超级计算机。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
-          "link": "https://www.ifanr.com/1424526?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedOn": "2021-06-23T11:18:32.000Z",
-          "wordCount": 236,
-          "title": "特斯拉展示其超级计算机：用于分析自动驾驶数据"
         }
       ]
     },
@@ -409,6 +409,20 @@
       "siteUrl": "https://pt.eastgame.org",
       "articles": [
         {
+          "id": "30d3ad43d3b339922eee96b7cda82a908a3bbd3f",
+          "author": "wqsyy213@pt.eastgame.org (wqsyy213)",
+          "description": "BBS链接：https://bbs.eastgame.org/viewthread.php?tid=100762\n\r\n◎制　　作　railstar @ TLF HALFCD TeaM\n\r\n\n\r\n◎中文名 : 大太监\n\r\n◎英文名 : The Confidant\n\r\n◎播放时间 : 2012年10月5日起 翡翠台及高清翡翠台逢星期一至五晚9:30播放\n\r\n◎出品公司 : 香港电视广播有限公司 (TVB)\n\r\n◎监制   罗永贤\n\r\n◎编审   关颂玲\n\r\n◎主演   黎耀祥 (饰李连英)\n\r\n            米雪 (饰慈禧太后（叶赫那拉氏）)\n\r\n            邵美琪 (饰慈安太后（钮祜禄氏）)\n\r\n            李诗韵 (饰索绰络婉)\n\r\n            曹永廉 (饰安德海)\n\r\n            黄浩然 (饰姚双喜)\n\r\n            陈茵媺 (饰寿庄和硕)\n\r\n            胡定欣 (饰额尔德特倩蓉)\n\r\n            梁烈唯 (饰爱新觉罗载淳)\n\r\n            唐诗咏 (饰阿鲁特氏)\n\r\n            萧正楠 (饰凌添寿)\n\r\n            马海伦 (饰都锦桂苏)\n\r\n            岳华 (饰陈褔)\n\r\n            钟景辉 (饰刘多生)\n\r\n            陈国邦 (饰彭三顺)\n\r\n            张国强 (饰爱新觉罗奕欣)\n\r\n            徐荣 (饰苏完瓜尔佳胜保)\n\r\n◎类型   清装宫廷\n\r\n◎语言   粤语/国语\n\r\n◎集数   33集\n\r\n\r\n【剧情概要】\n\r\n\r\n性格回异　命途各异\n\r\n\r\n李连英（黎耀祥饰）家境贫穷，父亲沉迷赌博，最终欠下一身巨债，为救家人，连英唯有净身入宫当太监，后跟随咸丰的亲信掌玺太…",
+          "link": "https://pt.eastgame.org/details.php?id=45321",
+          "publishedOn": "2021-06-29T07:30:43.000Z",
+          "wordCount": 71,
+          "title": "The Confidant 2012 HDTV 2Audio MiniSD-TLF[大太监][11.42 GB]",
+          "enclosure": {
+            "url": "https://pt.eastgame.org/download.php?id=45321",
+            "length": "12258635190",
+            "type": "application/x-bittorrent"
+          }
+        },
+        {
           "id": "c5cc0673ae1e535721f76ca510d73b84c62fa936",
           "author": "wqsyy213@pt.eastgame.org (wqsyy213)",
           "description": "BBS链接：https://bbs.eastgame.org/viewthread.php?tid=101362\n\r\n◎制　　作　inout @ TLF HALFCD TeaM\n\r\n\n\r\n◎英 文 名　Skins Season 6\n\r\n◎中 文 名　皮囊 第六季\n\r\n◎导　　演　Amanda Boyle\n\r\n◎主　　演　阿历克斯·阿诺　　　　　　\n\r\n　　　　　　达科塔·布鲁·理查兹\n\r\n　　　　　　塞巴斯蒂安·德·索萨\n\r\n　　　　　　芙瑞雅·美弗\n\r\n　　　　　　Sean Teale\n\r\n　　　　　　Jessica Sula\n\r\n　　　　　　Will Merrick\n\r\n　　　　　　Laya Lewis\n\r\n◎年　　代　2012\n\r\n◎国　　家　英国\n\r\n◎语　　言　英语\n\r\n◎IMDb评分　8.2/10\n\r\n◎IMDb链接　http://www.imdb.com/title/tt0840196/\n\r\n◎片　　长　46 mins * 10\n\r\n◎类　　别　剧情 / 喜剧 / 爱情\n\r\n◎简　　介\n\r\n一群荷尔蒙分泌过盛的年轻人，一段张狂而跋扈的残酷青春。 　　\n\r\n谁爱谁？谁不爱谁？重要么？ 　　\n\r\n谁是谁？谁不是谁？谁在乎？ 　　\n\r\n年轻的天空总呈现魔幻般的彩色，当日复一日的乏味生活让我们无法忍受，就注定了叛逆的因子要从此刻爆发，且一发不可收拾。那澎湃卷涌的蘑菇云会遮天蔽日，冲破万物，直上云霄。　\n\r\n一生只得一次的半熟时光，难道不能用来挥霍？ 　　\n\r\n莫非必须要用一份漂亮成绩单来换取一盎司的大麻？ 　　\n\r\n那不是我们，我们想到就说，有屁就放，肆意狂妄，横冲直撞。 　　\n\r\n沉迷高浓度酒精和电音派对，企图挖掘深入的成人世界。 　　\n\r\n我们崇拜上帝，崇拜犹大，崇拜亚当，崇拜夏娃，崇拜舞者，崇拜吉他手，崇拜安全套，崇拜拳击手套，崇拜Doris Lessing，崇…",
@@ -531,20 +545,6 @@
           "enclosure": {
             "url": "https://pt.eastgame.org/download.php?id=45269",
             "length": "4100554982",
-            "type": "application/x-bittorrent"
-          }
-        },
-        {
-          "id": "f1d516f167395edba7459a73dba8e63414505645",
-          "author": "anonymous@pt.eastgame.org (anonymous)",
-          "description": "◎制　　作　cp3you @ TLF HALFCD TeaM\n\r\n\n\r\n◎译　　名　密探/密侦/秘密间谍/The Age of Shadows/Mil-jeong\n\r\n◎片　　名　밀정\n\r\n◎年　　代　2016\n\r\n◎国　　家　韩国\n\r\n◎类　　别　剧情 / 动作 / 惊悚\n\r\n◎语　　言　韩语 / 日语 / 汉语普通话 / 英语\n\r\n◎上映日期　2016-09-03(威尼斯电影节)/2016-09-07(韩国)\n\r\n◎IMDb评分　7.3/10 (1,348 votes)\n\r\n◎IMDb链接　http://www.imdb.com/title/tt4914580/\n\r\n◎豆瓣评分　6.5/10 (5,393 votes)\n\r\n◎豆瓣链接　https://movie.douban.com/subject/26374671/\n\r\n◎片　　长　140分钟\n\r\n◎导　　演　金知云 Jee-woon Kim\n\r\n◎主　　演　宋康昊 Kang-ho Song\n\r\n　　　　　　孔侑 Yoo Gong\n\r\n　　　　　　韩智敏 Ji-min Han\n\r\n　　　　　　严泰久 Tae-goo Eom\n\r\n　　　　　　申成禄 Sung-rok Shin\n\r\n　　　　　　李秉宪 Byeng-hun Lee\n\r\n◎简　　介　\n\r\n\r\n　　影片故事背景发生在上世纪20年代，孔侑饰演的抗日领袖义烈团，与追击他的日本警方展开了明争暗斗，宋康昊饰演朝鲜人出身的日本警察。影片是华纳兄弟投资的首部韩影，预计今年下半年本土上映。\n\r\n\r\n◎文件名称　密探.The.Age.of.Shadows.2016.BD.2Audio.MiniSD-TLF.mkv\n\r\n◎文件大小　1.20 GiB\n\r\n◎影片长度　02:20:44.168\n\r\n◎混合码率　1 225 kb/s\n\r\n◎封装时间　UTC 2021-06-27 10:42:49\n\r\n◎MMG版本　 mkvmerge v5.2.1 ('A Far Off Place') built on Jan  2 2012 23:21:10\n\r\n◎视频码率　\n\r\n◎视频尺寸　854 x 358\n\r\n◎画面比例　2.40:1\n\r\n◎帧 率　　 23.976 (24000/1001) FPS\n\r\n◎数据密度　\n\r\n◎音轨信息  韩语 / 国语(台配)\n\r\n◎字幕信息  CHS / CHT\n\r\n◎片源采用　1080p-CHD\n\r\n◎x264版本  x264 core 148 r2744 b97ae06\n\r\n◎x264参数  ref=8 / deblock=1:-3:-4 / me=umh / subme=9 / bframes=10 / rc=crf / mbtree=0 / crf=18.6 / qpmin=0 / qpmax=69\n\r\n\r\n◎检验MD5 ：68147C5DA5CB8AABEB2EA667E82A3679\n\r\n◎检验SHA1：DC12F5EEBE07644AA8748CAC70CFA3FAAAD78F15\n\r\n◎文件大小：1292851698",
-          "link": "https://pt.eastgame.org/details.php?id=45263",
-          "publishedOn": "2021-06-27T10:52:18.000Z",
-          "wordCount": 71,
-          "title": "The Age of Shadows 2016 BD 2Audio MiniSD-TLF[密探 [tt4914580][国韩双语]][1.20 GB]",
-          "enclosure": {
-            "url": "https://pt.eastgame.org/download.php?id=45263",
-            "length": "1292851698",
             "type": "application/x-bittorrent"
           }
         }
