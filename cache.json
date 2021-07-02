@@ -214,7 +214,7 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
           "link": "http://www.ruanyifeng.com/blog/2021/07/weekly-issue-165.html",
           "publishedOn": "2021-07-02T00:19:51.000Z",
-          "wordCount": 819,
+          "wordCount": 831,
           "title": "科技爱好者周刊（第 165 期）：全端 App 的时代"
         },
         {
@@ -223,7 +223,7 @@
           "description": "美国最大的论坛 Reddit，最近有一个热帖。...",
           "link": "http://www.ruanyifeng.com/blog/2021/06/drunk-post-of-a-programmer.html",
           "publishedOn": "2021-06-28T01:10:50.000Z",
-          "wordCount": 655,
+          "wordCount": 665,
           "title": "程序员的酒后真言"
         },
         {
@@ -400,6 +400,20 @@
       "siteUrl": "https://pt.eastgame.org",
       "articles": [
         {
+          "id": "8d3ea007ea373a515754d8b500f9f2ae26e4b2c4",
+          "author": "wqsyy213@pt.eastgame.org (wqsyy213)",
+          "description": "BBS链接：https://bbs.eastgame.org/viewthread.php?tid=131120\n\r\n◎制　　作　莫里斯 @ TLF HALFCD TeaM\n\r\n\n\r\n◎英 文 名：Burn.Notice\n\r\n◎中 文 名：火线警告\n\r\n◎主　  演：Jeffrey Donovan .... Michael Westen 　　\n\r\n                Gabrielle Anwar .... Fiona Glenanne 　　\n\r\n                Bruce Campbell .... Sam Axe 　　\n\r\n                Sharon Gless .... Madeline Westen        \n\r\n◎年　　代：2013\n\r\n◎国　　家：美国\n\r\n◎语　　言：英语\n\r\n◎电 视  台：USA Network\n\r\n◎官方网站：www.usanetwork.com/series/burnnotice/\n\r\n◎片　　源：Burn Notice S07 720p WEB-DL DD5 1 H 264-NTB\n\r\n◎片　　长：45分钟左右/集\n\r\n◎分 辨 率：848×476\n\r\n◎视频码率：1000 Kbps\n\r\n@音频码率：Q=0.25\n\r\n◎字　　幕：简 /英(伊甸园字幕组)\n\r\n◎类　　别：喜剧/间谍/罪案/剧情\n\r\n◎简　　介：\n\r\n      当终结季开始的时候，故事时间已经过去9个月，每个人都有较大变化。为了除掉中情局的心腹大患Randall Burke（Adrian Pasdar），几个月来Michael一直在中情局官员Andrew Strong（Jack Coleman）的指示下潜伏在多米尼加共和国执行绝密任务，他成了一只真正的独狼；留在迈阿密的Sam享受着快乐无忧的生活，整天与阳光、浴池和女…",
+          "link": "https://pt.eastgame.org/details.php?id=45409",
+          "publishedOn": "2021-07-02T08:43:22.000Z",
+          "wordCount": 71,
+          "title": "Burn Notice S07 2013 WEB-DL MiniSD-TLF[火线警告 第七季 全13集][4.15 GB]",
+          "enclosure": {
+            "url": "https://pt.eastgame.org/download.php?id=45409",
+            "length": "4458527026",
+            "type": "application/x-bittorrent"
+          }
+        },
+        {
           "id": "c31fef54252ddafedf6a71fdeb3bc7e38cdb002d",
           "author": "anonymous@pt.eastgame.org (anonymous)",
           "description": "豺狼时刻.Vargtimmen.1968.CC.BD.MiniSD-TLF[豆瓣8.2][1301151]\n\r\n\r\n◎制　　作　郸行客 @ TLF HALFCD TeaM\n\r\n\n\r\n◎译　　名　豺狼时刻\n\r\n◎片　　名　\n\r\n◎又　　名　狼之时刻 / Hour of the Wolf / Die Stunde des Wolfs\n\r\n◎年　　代　1968年\n\r\n◎国家/地区 瑞典\n\r\n◎类　　别  剧情 / 恐怖\n\r\n◎语　　言  瑞典语 / 挪威语\n\r\n◎上映日期  1968-02-19(瑞典)\n\r\n◎豆瓣评分　8.2/10 (2247 users)\n\r\n◎豆瓣链接  https://movie.douban.com/subject/1301151/\n\r\n◎片　　长　90分钟\n\r\n◎导　　演　英格玛·伯格曼 Ingmar Bergman\n\r\n◎编　　剧　英格玛·伯格曼 Ingmar Bergman\n\r\n◎主　　演　马克斯·冯·叙多夫 Max von Sydow\n\r\n　　　　　　丽芙·乌曼 Liv Ullmann\n\r\n　　　　　　耶特鲁德·弗里德 Gertrud Fridh\n\r\n　　　　　　乔治·莱德伯格 Georg Rydeberg\n\r\n　　　　　　厄兰·约瑟夫森 Erland Josephson\n\r\n　　　　　　英格丽·图林 Ingrid Thulin\n\r\n　　　　　　福尔谢·松德奎斯特 Folke Sundquist\n\r\n　　　　　　莫娜·塞莉兹 Mona Seilitz\n\r\n　　　　　　Mikael Rundquist Mikael Rundquist\n\r\n　　　　　　乌尔夫·约翰松 Ulf Johansson\n\r\n　　　　　　Lenn Hjortzberg Lenn Hjortzberg\n\r\n　　　　　　古德龙·布罗斯特 Gudrun Brost\n\r\n　　　　　　…",
@@ -522,20 +536,6 @@
           "enclosure": {
             "url": "https://pt.eastgame.org/download.php?id=45361",
             "length": "8273014314",
-            "type": "application/x-bittorrent"
-          }
-        },
-        {
-          "id": "76d349457c75559ddee1ad87c22ef6917eb96e75",
-          "author": "wqsyy213@pt.eastgame.org (wqsyy213)",
-          "description": "BBS链接：https://bbs.eastgame.org/viewthread.php?tid=100930\n\r\n◎制　　作　inout @ TLF HALFCD TeaM\n\r\n\n\r\n◎英 文 名　Entourage Season1\n\r\n◎中 文 名　明星伙伴 第一季\n\r\n◎导　　演　Doug Ellin\n\r\n◎主　　演　凯文·狄龙 Kevin Connolly  饰演  Eric Murphy (88集 2004-2010)\n\r\n　　　　　　Adrian Grenier  饰演  Vincent Chase (88集 2004-2010)\n\r\n　　　　　　Kevin Dillon  饰演  Johnny \\\\\\‘Drama\\\\\\‘ Chase (88集 2004-2010)\n\r\n　　　　　　杰里·弗罗拉 Jerry Ferrara  饰演  Turtle (88集 2004-2010)\n\r\n　　　　　　杰里米·皮文 Jeremy Piven  饰演  Ari Gold (88集 2004-2010)\n\r\n　　　　　　Rex Lee  饰演  Lloyd (71集 2005-2010)\n\r\n　　　　　　Perrey Reeves  饰演  Mrs. Ari (65集 2004-2010)\n\r\n　　　　　　Debi Mazar  饰演  Shauna (38集 2004-2010)\n\r\n◎年　　代　2004\n\r\n◎国　　家　美国\n\r\n◎语　　言　英语\n\r\n◎IMDb评分　8.6/10\n\r\n◎IMDb链接　http://www.imdb.com/title/tt0387199/\n\r\n◎片　　长　30 mins * 8\n\r\n◎类　　别　喜剧 / 剧集\n\r\n◎简　　介\n\r\n　　这是一部HBO原创系列喜剧，讲述年少成名的男主人公文森 .蔡斯和他的三个少年时纽约皇后区的朋友一道冒险…",
-          "link": "https://pt.eastgame.org/details.php?id=45360",
-          "publishedOn": "2021-06-30T13:35:56.000Z",
-          "wordCount": 71,
-          "title": "Entourage S01 2004 BD MiniSD-TLF[明星伙伴 第一季 全8集][1.60 GB]",
-          "enclosure": {
-            "url": "https://pt.eastgame.org/download.php?id=45360",
-            "length": "1713866868",
             "type": "application/x-bittorrent"
           }
         }
