@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://menglingjie.github.io/REPO_NAME/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-03T10:22:45.351Z</updated>
+    <updated>2021-07-03T11:17:05.622Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://menglingjie.github.io/REPO_NAME/index.html"/>
     <link rel="self" href="https://menglingjie.github.io/REPO_NAME/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[从汽车到飞机，人类花了 18 年，而这辆车只需要 3 分钟]]></title>
+        <id>https://www.ifanr.com/?p=1425835&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1425835?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-07-03T10:55:12.000Z</updated>
+        <summary type="html"><![CDATA[只要按下按钮，这辆车就能在三分钟之内变成一架飞机。
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>李华</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你抽屉里的 Game Boy 卡带，终于可以派上用场了]]></title>
+        <id>https://www.ifanr.com/?p=1425987&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1425987?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-07-03T10:47:56.000Z</updated>
+        <summary type="html"><![CDATA[问题是：你还有 Game Boy 卡带吗？
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>李华</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[梅赛德斯发布首款电动卡车，「司机友好型卡车」上线]]></title>
+        <id>https://www.ifanr.com/?p=1425938&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1425938?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-07-03T10:41:12.000Z</updated>
+        <summary type="html"><![CDATA[当重型卡车电动化……
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>李华</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Tomorrow War 2021 WEB-DL HEVC 10bit MiniHD-TLF[明日之战 | 星爵穿越打怪兽][1.56 GB]]]></title>
         <id>f9dd4421904c4aa745a486a4fc33d4a52750602c</id>
@@ -1547,38 +1595,6 @@ IV. 研究结果发现，无论是喝哪一种咖啡，患慢性肝病的比例�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[事关数据安全？微软要求设备必须搭载 TPM 芯片]]></title>
-        <id>https://www.ifanr.com/?p=1425132&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
-        <link href="https://www.ifanr.com/1425132?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
-        <updated>2021-06-28T09:36:53.000Z</updated>
-        <summary type="html"><![CDATA[到底什么是 TPM，为什么 Windows 11 会需要它。
-#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博]]></summary>
-        <author>
-            <name>李华</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 可以运行 Android 应用了，但微软的野心远不止于此]]></title>
-        <id>https://www.ifanr.com/?p=1424906&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
-        <link href="https://www.ifanr.com/1424906?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
-        <updated>2021-06-28T05:56:11.000Z</updated>
-        <summary type="html"><![CDATA[Windows 11 最大的更新，其实是应用商店。
-#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博]]></summary>
-        <author>
-            <name>周宇</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[程序员的酒后真言]]></title>
         <id>http://www.ruanyifeng.com/blog/2021/06/drunk-post-of-a-programmer.html</id>
         <link href="http://www.ruanyifeng.com/blog/2021/06/drunk-post-of-a-programmer.html"/>
@@ -1586,23 +1602,6 @@ IV. 研究结果发现，无论是喝哪一种咖啡，患慢性肝病的比例�
         <summary type="html"><![CDATA[美国最大的论坛 Reddit，最近有一个热帖。...]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[早报 | 苹果或将推出更大的 iPad Pro / 特斯拉召回 28 万辆车 / 农夫山泉回应饮品原料产地争议]]></title>
-        <id>https://www.ifanr.com/?p=1425027&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
-        <link href="https://www.ifanr.com/1425027?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
-        <updated>2021-06-28T00:52:28.000Z</updated>
-        <summary type="html"><![CDATA[‍• 消息称 Apple Watch ECG 功能已经过审
-• 星巴克在日本推出了 47 款新的星冰乐
-#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博]]></summary>
-        <author>
-            <name>方嘉文</name>
         </author>
     </entry>
     <entry>
