@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://menglingjie.github.io/REPO_NAME/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-06T11:17:16.801Z</updated>
+    <updated>2021-07-06T12:33:18.704Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://menglingjie.github.io/REPO_NAME/index.html"/>
     <link rel="self" href="https://menglingjie.github.io/REPO_NAME/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[App Store 的起源，居然来自一本杂志？]]></title>
+        <title type="html"><![CDATA[App Store 的起源，居然是一本杂志？]]></title>
         <id>https://www.ifanr.com/?p=1426188&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
         <link href="https://www.ifanr.com/1426188?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
         <updated>2021-07-06T10:30:07.000Z</updated>
