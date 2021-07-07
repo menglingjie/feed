@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://menglingjie.github.io/REPO_NAME/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-07T09:23:30.803Z</updated>
+    <updated>2021-07-07T10:24:24.761Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://menglingjie.github.io/REPO_NAME/index.html"/>
     <link rel="self" href="https://menglingjie.github.io/REPO_NAME/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米其林三星「京兆尹」被群嘲，我们讨厌什么样的素食主义？]]></title>
+        <id>https://www.ifanr.com/?p=1426457&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1426457?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-07-07T10:09:37.000Z</updated>
+        <summary type="html"><![CDATA[请让朴素的回归朴素，让个人的保持个人。
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>江翁翁</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Solos.S01.2021.WEB-DL-.MiniSD-TLF[芸芸众生[5.6][tt13356646][全7集]][741.43 MB]]]></title>
         <id>2aac4400d10613dd1cd6239fd31b0575894b5dd8</id>
@@ -1674,23 +1690,6 @@ wechat：law_fz
 新浪微博]]></summary>
         <author>
             <name>李华</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[早报 | iOS 15 公测版发布 / 滴滴出行正式上市 / 诺基亚或将搭载鸿蒙系统]]></title>
-        <id>https://www.ifanr.com/?p=1425704&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
-        <link href="https://www.ifanr.com/1425704?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
-        <updated>2021-07-01T01:07:18.000Z</updated>
-        <summary type="html"><![CDATA[‍• 郭明錤分析 Beats Studio Buds 为何不用苹果自研芯片
-• Facebook 推出 Newsletter 工具 Bulletin
-#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博]]></summary>
-        <author>
-            <name>方嘉文</name>
         </author>
     </entry>
     <entry>

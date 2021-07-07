@@ -22,12 +22,21 @@
       "siteUrl": "https://www.ifanr.com?utm_source=rss&utm_medium=rss&utm_campaign=",
       "articles": [
         {
+          "id": "https://www.ifanr.com/?p=1426457&utm_source=rss&utm_medium=rss&utm_campaign=",
+          "author": "江翁翁",
+          "description": "请让朴素的回归朴素，让个人的保持个人。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
+          "link": "https://www.ifanr.com/1426457?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedOn": "2021-07-07T10:09:37.000Z",
+          "wordCount": 288,
+          "title": "米其林三星「京兆尹」被群嘲，我们讨厌什么样的素食主义？"
+        },
+        {
           "id": "https://www.ifanr.com/?p=1426510&utm_source=rss&utm_medium=rss&utm_campaign=",
           "author": "方嘉文",
           "description": "‍• 亚马逊把「Alexa」这个名字给毁了\r\n• MANNER 联名野兽派推出「熊猫拿铁」\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
           "link": "https://www.ifanr.com/1426510?utm_source=rss&utm_medium=rss&utm_campaign=",
           "publishedOn": "2021-07-07T00:56:34.000Z",
-          "wordCount": 544,
+          "wordCount": 547,
           "title": "早报 | iPhone 13 Pro 背摄新细节曝光 / 任天堂发布新款 Switch / 深圳禁 App 不授权就不给用"
         },
         {
@@ -191,15 +200,6 @@
           "publishedOn": "2021-07-01T03:51:52.000Z",
           "wordCount": 317,
           "title": "电动化的奥迪 Quattro，是致敬还是亵渎？"
-        },
-        {
-          "id": "https://www.ifanr.com/?p=1425704&utm_source=rss&utm_medium=rss&utm_campaign=",
-          "author": "方嘉文",
-          "description": "‍• 郭明錤分析 Beats Studio Buds 为何不用苹果自研芯片\r\n• Facebook 推出 Newsletter 工具 Bulletin\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
-          "link": "https://www.ifanr.com/1425704?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedOn": "2021-07-01T01:07:18.000Z",
-          "wordCount": 609,
-          "title": "早报 | iOS 15 公测版发布 / 滴滴出行正式上市 / 诺基亚或将搭载鸿蒙系统"
         }
       ]
     },
@@ -214,7 +214,7 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
           "link": "http://www.ruanyifeng.com/blog/2021/07/weekly-issue-165.html",
           "publishedOn": "2021-07-02T00:19:51.000Z",
-          "wordCount": 1065,
+          "wordCount": 1075,
           "title": "科技爱好者周刊（第 165 期）：全端 App 的时代"
         },
         {
@@ -223,7 +223,7 @@
           "description": "美国最大的论坛 Reddit，最近有一个热帖。...",
           "link": "http://www.ruanyifeng.com/blog/2021/06/drunk-post-of-a-programmer.html",
           "publishedOn": "2021-06-28T01:10:50.000Z",
-          "wordCount": 711,
+          "wordCount": 721,
           "title": "程序员的酒后真言"
         },
         {
