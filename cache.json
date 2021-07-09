@@ -22,12 +22,30 @@
       "siteUrl": "https://www.ifanr.com?utm_source=rss&utm_medium=rss&utm_campaign=",
       "articles": [
         {
+          "id": "https://www.ifanr.com/?p=1426995&utm_source=rss&utm_medium=rss&utm_campaign=",
+          "author": "吴志奇",
+          "description": "你羡慕吗？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
+          "link": "https://www.ifanr.com/1426995?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedOn": "2021-07-09T10:19:14.000Z",
+          "wordCount": 388,
+          "title": "冰岛一周 4 天工作制成功了，离我们还远吗？"
+        },
+        {
+          "id": "https://www.ifanr.com/?p=1426625&utm_source=rss&utm_medium=rss&utm_campaign=",
+          "author": "周宇",
+          "description": "你会使用电脑桌面小部件吗？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
+          "link": "https://www.ifanr.com/1426625?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedOn": "2021-07-09T10:10:03.000Z",
+          "wordCount": 384,
+          "title": "2021 年了，为什么还有人怀念电脑桌面小部件"
+        },
+        {
           "id": "https://www.ifanr.com/?p=1426412&utm_source=rss&utm_medium=rss&utm_campaign=",
           "author": "李华",
           "description": "小时候，你是否也有一个「电动滑板梦」。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
           "link": "https://www.ifanr.com/1426412?utm_source=rss&utm_medium=rss&utm_campaign=",
           "publishedOn": "2021-07-09T02:53:37.000Z",
-          "wordCount": 275,
+          "wordCount": 278,
           "title": "迄今为止最先进的电动滑板？续航可达 69 公里"
         },
         {
@@ -182,24 +200,6 @@
           "publishedOn": "2021-07-05T05:31:12.000Z",
           "wordCount": 574,
           "title": "微软 Xbox 云游戏公测版来了！我玩了 3 天，抓狂 1 天，爽了 2 天"
-        },
-        {
-          "id": "https://www.ifanr.com/?p=1425870&utm_source=rss&utm_medium=rss&utm_campaign=",
-          "author": "吴志奇",
-          "description": "堡垒之夜 ✖️ Easy life\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
-          "link": "https://www.ifanr.com/1425870?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedOn": "2021-07-05T02:30:08.000Z",
-          "wordCount": 395,
-          "title": "这个 3.5 亿人玩的游戏，开了一场史上最好玩的演唱会？"
-        },
-        {
-          "id": "https://www.ifanr.com/?p=1426050&utm_source=rss&utm_medium=rss&utm_campaign=",
-          "author": "方嘉文",
-          "description": "‍• 欧盟警告苹果：不要以隐私和安全为由遏制竞争对手\r\n• 消息称字节跳动开始向其它公司出售 TikTok 的推荐算法\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
-          "link": "https://www.ifanr.com/1426050?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedOn": "2021-07-05T00:59:08.000Z",
-          "wordCount": 538,
-          "title": "早报 | iPhone 13 或增大无线充电线圈 / 滴滴回应 App 被下架 / 和其正推出「凉茶可乐」"
         }
       ]
     },
@@ -214,7 +214,7 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
           "link": "http://www.ruanyifeng.com/blog/2021/07/weekly-issue-166.html",
           "publishedOn": "2021-07-09T00:45:10.000Z",
-          "wordCount": 847,
+          "wordCount": 859,
           "title": "科技爱好者周刊（第 166 期）：视频学习胜过读书吗？"
         },
         {
@@ -400,6 +400,34 @@
       "siteUrl": "https://pt.eastgame.org",
       "articles": [
         {
+          "id": "a34fd21ecb30fb6229531e847433b339fc92cf66",
+          "author": "BadFellas@pt.eastgame.org (BadFellas)",
+          "description": "◎译　　名　育婴奇谭 / 管教贝贝 / 魔胎\n\r\n◎片　　名　Bringing Up Baby\n\r\n◎年　　代　1938\n\r\n◎产　　地　美国\n\r\n◎类　　别　喜剧 / 爱情\n\r\n◎语　　言　英语\n\r\n◎上映日期　1938-02-18\n\r\n◎IMDb评分  7.9/10 from 56402 users\n\r\n◎IMDb链接  https://www.imdb.com/title/tt0029947/\n\r\n◎豆瓣评分　7.3/10 from 3420 users\n\r\n◎豆瓣链接　https://movie.douban.com/subject/1297657/\n\r\n◎CC标准收录编号　Spine #1085\n\r\n◎CC标准链接　https://www.criterion.com/films/29010-bringing-up-baby/\n\r\n◎片　　长　102 分钟\n\r\n◎导　　演　霍华德·霍克斯 Howard Hawks\n\r\n◎编　　剧　达德利·尼柯尔斯 Dudley Nichols / 黑格·怀尔德 Hagar Wilde\n\r\n◎主　　演　凯瑟琳·赫本 Katharine Hepburn\n\r\n　　　　　  加里·格兰特 Cary Grant\n\r\n　　　　　  查尔斯·拉格尔斯 Charles Ruggles\n\r\n　　　　　  沃尔特·卡特利特 Walter Catlett\n\r\n　　　　　  巴里·菲茨杰拉德 Barry Fitzgerald\n\r\n　　　　　  Buck Mack\n\r\n　　　　　  Teddy Mangean\n\r\n　　　　　  Richard Lane\n\r\n　　　　　  乔治·欧文 George Irving\n\r\n　　　　　  George Humbert\n\r\n　　　　　  约翰·凯利 John Kelly\n\r\n　　　　　  Lorraine Krueger…",
+          "link": "https://pt.eastgame.org/details.php?id=45611",
+          "publishedOn": "2021-07-09T09:49:24.000Z",
+          "wordCount": 71,
+          "title": "Bringing Up Baby 1938 CC BD MiniHD-TLF[育婴奇谭 [7.9][tt0029947] CC#1085 神经喜剧][2.00 GB]",
+          "enclosure": {
+            "url": "https://pt.eastgame.org/download.php?id=45611",
+            "length": "2147532234",
+            "type": "application/x-bittorrent"
+          }
+        },
+        {
+          "id": "2a07f9011b641fe561d85553d93d201484fd251c",
+          "author": "BadFellas@pt.eastgame.org (BadFellas)",
+          "description": "◎译　　名　育婴奇谭 / 管教贝贝 / 魔胎\n\r\n◎片　　名　Bringing Up Baby\n\r\n◎年　　代　1938\n\r\n◎产　　地　美国\n\r\n◎类　　别　喜剧 / 爱情\n\r\n◎语　　言　英语\n\r\n◎上映日期　1938-02-18\n\r\n◎IMDb评分  7.9/10 from 56402 users\n\r\n◎IMDb链接  https://www.imdb.com/title/tt0029947/\n\r\n◎豆瓣评分　7.3/10 from 3420 users\n\r\n◎豆瓣链接　https://movie.douban.com/subject/1297657/\n\r\n◎CC标准收录编号　Spine #1085\n\r\n◎CC标准链接　https://www.criterion.com/films/29010-bringing-up-baby/\n\r\n◎片　　长　102 分钟\n\r\n◎导　　演　霍华德·霍克斯 Howard Hawks\n\r\n◎编　　剧　达德利·尼柯尔斯 Dudley Nichols / 黑格·怀尔德 Hagar Wilde\n\r\n◎主　　演　凯瑟琳·赫本 Katharine Hepburn\n\r\n　　　　　  加里·格兰特 Cary Grant\n\r\n　　　　　  查尔斯·拉格尔斯 Charles Ruggles\n\r\n　　　　　  沃尔特·卡特利特 Walter Catlett\n\r\n　　　　　  巴里·菲茨杰拉德 Barry Fitzgerald\n\r\n　　　　　  Buck Mack\n\r\n　　　　　  Teddy Mangean\n\r\n　　　　　  Richard Lane\n\r\n　　　　　  乔治·欧文 George Irving\n\r\n　　　　　  George Humbert\n\r\n　　　　　  约翰·凯利 John Kelly\n\r\n　　　　　  Lorraine Krueger…",
+          "link": "https://pt.eastgame.org/details.php?id=45610",
+          "publishedOn": "2021-07-09T09:46:22.000Z",
+          "wordCount": 71,
+          "title": "Bringing Up Baby 1938 CC BD MiniSD-TLF[育婴奇谭 [7.9][tt0029947] CC#1085 神经喜剧][1.00 GB]",
+          "enclosure": {
+            "url": "https://pt.eastgame.org/download.php?id=45610",
+            "length": "1072627706",
+            "type": "application/x-bittorrent"
+          }
+        },
+        {
           "id": "83b8e9b7977a9855e548df0e2f56f7a39283a84c",
           "author": "anonymous@pt.eastgame.org (anonymous)",
           "description": "https://bbs.eastgame.org/viewthread.php?tid=94636\n\r\n\r\n\n\r\n\r\n◎译　　名　87版红楼梦/央视版红楼梦/A Dream in Red Mansions/Dream of the Red Chamber\n\r\n◎片　　名　红楼梦\n\r\n◎年　　代　1987\n\r\n◎产　　地　中国大陆\n\r\n◎类　　别　剧情/爱情/古装\n\r\n◎语　　言　汉语普通话\n\r\n◎上映日期　1987-05-02(中国大陆)\n\r\n◎IMDb评分  8.3/10 from 483 users\n\r\n◎IMDb链接  https://www.imdb.com/title/tt1162595/\n\r\n◎豆瓣评分　9.7/10 from 166939 users\n\r\n◎豆瓣链接　https://douban.com/subject/1864810/\n\r\n◎集　　数　36\n\r\n◎片　　长　45分钟\n\r\n◎导　　演　王扶林 Fulin Wang\n\r\n◎编　　剧　曹雪芹 Xueqin Cao / 周雷 Lei Zhou / 刘耕路 Genglu Liu / 周岭 Ling Zhou\n\r\n◎主　　演　欧阳奋强 Fenqiang Ouyang\n\r\n　　　　  　陈晓旭 Xiaoxu Chen\n\r\n　　　　  　邓婕 Jie Deng\n\r\n　　　　  　张莉 Li Zhang\n\r\n　　　　  　李婷 Ting Li\n\r\n　　　　  　袁玫 Mei Yuan\n\r\n　　　　  　张蕾 Lei Zhang\n\r\n　　　　  　郭霄珍 Xiaozhen Guo\n\r\n　　　　  　周贤珍 Xianzhen Zhou\n\r\n　　　　  　郑铮 Zheng Zheng\n\r\n　　　　  　高宏亮 Hongliang Gao\n\r\n　　　　  　潘虹 Hung Poon\n\r\n　　　　  　东方闻樱 Weny…",
@@ -508,34 +536,6 @@
           "enclosure": {
             "url": "https://pt.eastgame.org/download.php?id=45591",
             "length": "474306373",
-            "type": "application/x-bittorrent"
-          }
-        },
-        {
-          "id": "a164e92d3bcfe5184df3f305a42b3563e79c4fec",
-          "author": "anonymous@pt.eastgame.org (anonymous)",
-          "description": "◎制　　作　郸行客 @ TLF HALFCD TeaM\n\r\n\n\r\n◎译　　名　生命的门槛\n\r\n◎片　　名　Brink of Life\n\r\n◎又　　名　Brink of Life / So Close to Life / 生命的边缘\n\r\n◎年　　代　1958年\n\r\n◎国家/地区 瑞典\n\r\n◎类　　别  剧情\n\r\n◎语　　言  瑞典语\n\r\n◎上映日期  1958-03-31(瑞典)\n\r\n◎豆瓣评分　7.9/10 (731 users)\n\r\n◎豆瓣链接  https://movie.douban.com/subject/2269933/\n\r\n◎IMDb评分　7.5/10 from 2,637 votes\n\r\n◎IMDb链接  https://www.imdb.com/title/tt0052017\n\r\n◎IMDB时长　84 min\n\r\n◎烂 番 茄　84%\n\r\n◎Metascore N/A\n\r\n◎分　　级　Not Rated\n\r\n◎票　　房　N/A\n\r\n◎片　　长　84分钟\n\r\n◎导　　演　英格玛·伯格曼 Ingmar Bergman\n\r\n◎编　　剧　英格玛·伯格曼 Ingmar Bergman\n\r\n　　　　　　乌拉·伊萨克松 Ulla Isaksson\n\r\n◎主　　演　伊娃·达尔贝克 Eva Dahlbeck\n\r\n　　　　　　英格丽·图林 Ingrid Thulin\n\r\n　　　　　　毕比·安德松 Bibi Andersson\n\r\n　　　　　　芭布洛·约尔特·阿夫·奥纳斯 Barbro Hiort af Ornäs\n\r\n　　　　　　厄兰·约瑟夫森 Erland Josephson\n\r\n　　　　　　马克斯·冯·叙多夫 Max von Sydow\n\r\n　　　　　　古纳尔·舍贝格 Gunnar Sjöberg\n\r\n　　　　　　安-玛丽·于伦斯佩茨 Ann-Marie Gyllenspe…",
-          "link": "https://pt.eastgame.org/details.php?id=45587",
-          "publishedOn": "2021-07-08T12:27:07.000Z",
-          "wordCount": 71,
-          "title": "Brink.of.Life.1958.CC.BD.MiniSD-TLF[生命的门槛[7.5][tt0052017][CC#英格玛·伯格曼百年蓝光套装]][872.17 MB]",
-          "enclosure": {
-            "url": "https://pt.eastgame.org/download.php?id=45587",
-            "length": "914537167",
-            "type": "application/x-bittorrent"
-          }
-        },
-        {
-          "id": "f448c08c17c988f17010eda5229fa87ab3d3b23a",
-          "author": "anonymous@pt.eastgame.org (anonymous)",
-          "description": "◎制　　作　Fixxxer @ TLF HALFCD TeaM\n\r\n\n\r\n◎译　　名　摩天营救/摩天大楼(台)/高凶浩劫(港)/高耸入云\n\r\n◎片　　名　Skyscraper\n\r\n◎年　　代　2018\n\r\n◎国　　家　美国\n\r\n◎类　　别　动作 / 惊悚 / 冒险\n\r\n◎语　　言　英语 / 粤语 / 汉语普通话\n\r\n◎上映日期　2018-07-13(美国)/2018-07-20(中国大陆)\n\r\n◎IMDb评分　5.9/10 (40,541 votes)\n\r\n◎IMDb链接　http://www.imdb.com/title/tt5758778/\n\r\n◎豆瓣评分　6.4/10 (65,308 votes)\n\r\n◎豆瓣链接　https://movie.douban.com/subject/26804147/\n\r\n◎片　　长　102分钟\n\r\n◎导　　演　罗森·马歇尔·瑟伯 Rawson Marshall Thurber\n\r\n◎主　　演　道恩·强森 Dwayne Johnson\n\r\n　　　　　　内芙·坎贝尔 Neve Campbell\n\r\n　　　　　　黄经汉 Chin Han\n\r\n　　　　　　罗兰·默勒 Roland M&oslash;ller\n\r\n　　　　　　麦肯纳·罗伯茨 McKenna Roberts\n\r\n　　　　　　诺亚·科特雷尔 Noah Cottrell\n\r\n　　　　　　诺亚·泰勒 Noah Taylor\n\r\n　　　　　　巴勃罗·施瑞博尔 Pablo Schreiber\n\r\n　　　　　　凯文·兰金 Kevin Rankin\n\r\n　　　　　　昆凌 Hannah Quinlivan\n\r\n　　　　　　文峰 Byron Mann\n\r\n　　　　　　马特·欧莱瑞 Matt O'Leary\n\r\n　　　　　　比特里斯·金 Beatrice King\n\r\n　　　　　　马志 Tzi Ma\n\r\n　　　　　　保罗·麦克吉莱恩 Paul McGillion\n\r\n　　　　　　吴嘉星 Kathy Wu\n\r\n　　　　　　艾德里安·霍姆斯 Adrian Holmes\n\r\n　　　　　　维努斯·特雷佐 Venus Terzo\n\r\n　　　　　　杰特·克莱恩 Jett Klyne\n\r\n　　　　　　拜伦·劳森 Byron Lawson\n\r\n　　　　　　关永扬 Darryl Quon\n\r\n　　　　　　法比欧·塔索恩 Fabio Tassone\n\r\n　　　　　　卡洛·余 Carlo Yu\n\r\n◎简　　介　\n\r\n\r\n　　在香港市中心，世界上最高、结构最复杂的摩天大楼遭到破坏，危机一触即发。威尔·索耶（道恩·强森 饰）的妻子萨拉（内芙·坎贝尔 饰）和孩子们在98层被劫为人质，直接暴露在火线上。威尔，这位战争英雄、前联邦调查局救援队员，作为大楼的安保顾问，却被诬陷纵火和谋杀。他必须奋力营救家人，为自己洗脱罪名，关乎生死存亡的高空任务就此展开。\n\r\n\r\n◎文件名称　摩天营救.Skyscraper.2018.BD.2Audio.MiniSD-TLF.mkv\n\r\n◎文件大小　716 MiB\n\r\n◎影片长度　01:42:37.739\n\r\n◎混合码率　976 kb/s\n\r\n◎封装时间　UTC 2021-07-08 10:44:07\n\r\n◎MMG版本　 mkvmerge v5.2.1 ('A Far Off Place') built on Jan  2 2012 23:21:10\n\r\n◎视频码率　\n\r\n◎视频尺寸　854 x 358\n\r\n◎画面比例　2.40:1\n\r\n◎帧 率　　 23.976 (24000/1001) FPS\n\r\n◎数据密度　\n\r\n◎音轨信息  英语 / 国语(长译公映)\n\r\n◎字幕信息  简体中文 / 繁体中文 / 英文 / 简英双语 / 繁英双语\n\r\n◎片源采用　Skyscraper.2018.720p.BluRay.x264-SPARKS\n\r\n◎x264版本  x264 core 155 r2901 7d0ff22\n\r\n◎x264参数  ref=8 / deblock=1:-1:-1 / me=umh / subme=9 / bframes=5 / rc=crf / mbtree=1 / crf=21.0 / qpmin=0 / qpmax=69\n\r\n\r\n◎检验MD5 ：C95CCECE3CE4713417AEF54E2B465B0D\n\r\n◎检验SHA1：47B693ED661270C0C54B015654E8C00703FF00BB\n\r\n◎文件大小：751164344",
-          "link": "https://pt.eastgame.org/details.php?id=45580",
-          "publishedOn": "2021-07-08T10:57:49.000Z",
-          "wordCount": 71,
-          "title": "Skyscraper 2018 BD 2Audio MiniSD-TLF[摩天营救 [tt5758778][国英双语]][716.37 MB]",
-          "enclosure": {
-            "url": "https://pt.eastgame.org/download.php?id=45580",
-            "length": "751164344",
             "type": "application/x-bittorrent"
           }
         }
