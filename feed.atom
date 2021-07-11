@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://menglingjie.github.io/REPO_NAME/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-11T10:22:57.180Z</updated>
+    <updated>2021-07-11T11:16:57.033Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://menglingjie.github.io/REPO_NAME/index.html"/>
     <link rel="self" href="https://menglingjie.github.io/REPO_NAME/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lululemon 用「蘑菇」做了两款包包，明年能买 | Feel Good 周报]]></title>
+        <id>https://www.ifanr.com/?p=1427069&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1427069?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-07-11T10:39:49.000Z</updated>
+        <summary type="html"><![CDATA[世界也许不完美，但总有人在努力让它变得更好。
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>方嘉文</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Wife 2017 BD 2Audio MiniSD-TLF[贤妻 [tt3750872][国英双语]][471.51 MB]]]></title>
         <id>bb594a642909fb0835974da05a1da8351cb6cb3c</id>
@@ -1793,22 +1809,6 @@ numberworld/Pi/#Download
 新浪微博]]></summary>
         <author>
             <name>陈钟和</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用乐高积木也能做出显微镜？可用作教学用途]]></title>
-        <id>https://www.ifanr.com/?p=1426172&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
-        <link href="https://www.ifanr.com/1426172?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
-        <updated>2021-07-05T08:40:59.000Z</updated>
-        <summary type="html"><![CDATA[还记得小时候在学校里使用的显微镜吗？
-#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博]]></summary>
-        <author>
-            <name>李华</name>
         </author>
     </entry>
     <entry>
