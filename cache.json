@@ -22,12 +22,21 @@
       "siteUrl": "https://www.ifanr.com?utm_source=rss&utm_medium=rss&utm_campaign=",
       "articles": [
         {
+          "id": "https://www.ifanr.com/?p=1427276&utm_source=rss&utm_medium=rss&utm_campaign=",
+          "author": "李华",
+          "description": "保时捷 911 要电动化了？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
+          "link": "https://www.ifanr.com/1427276?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedOn": "2021-07-12T13:00:23.000Z",
+          "wordCount": 598,
+          "title": "特斯拉发布全自动驾驶系统 Beta 9.0 / 奥迪自动驾驶项目将于 2025 年投产 / 小米加速造车进程"
+        },
+        {
           "id": "https://www.ifanr.com/?p=1426597&utm_source=rss&utm_medium=rss&utm_campaign=",
           "author": "黄智健",
           "description": "我讨厌 Windows 11 的「开始」按钮，因为它变得「反人类」\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
           "link": "https://www.ifanr.com/1426597?utm_source=rss&utm_medium=rss&utm_campaign=",
           "publishedOn": "2021-07-12T02:21:33.000Z",
-          "wordCount": 327,
+          "wordCount": 338,
           "title": "为什么 Windows 11 的「开始」菜单要违背祖训？"
         },
         {
@@ -63,7 +72,7 @@
           "description": "小鹏在很多看不到的地方为我们带来了升级。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
           "link": "https://www.ifanr.com/1427053?utm_source=rss&utm_medium=rss&utm_campaign=",
           "publishedOn": "2021-07-10T08:57:55.000Z",
-          "wordCount": 396,
+          "wordCount": 398,
           "title": "小鹏 G3i 发布，换装家族化设计，但这并非其最大升级"
         },
         {
@@ -99,7 +108,7 @@
           "description": "小时候，你是否也有一个「电动滑板梦」。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
           "link": "https://www.ifanr.com/1426412?utm_source=rss&utm_medium=rss&utm_campaign=",
           "publishedOn": "2021-07-09T02:53:37.000Z",
-          "wordCount": 277,
+          "wordCount": 279,
           "title": "迄今为止最先进的电动滑板？续航可达 69 公里"
         },
         {
@@ -117,7 +126,7 @@
           "description": "还有一辆「奶爸快乐车」。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
           "link": "https://www.ifanr.com/1426898?utm_source=rss&utm_medium=rss&utm_campaign=",
           "publishedOn": "2021-07-09T00:59:24.000Z",
-          "wordCount": 585,
+          "wordCount": 591,
           "title": "Model Y 标准续航版上线，售价 27.6 万元 / 百度汽车在研发当中"
         },
         {
@@ -191,15 +200,6 @@
           "publishedOn": "2021-07-07T00:56:34.000Z",
           "wordCount": 538,
           "title": "早报 | iPhone 13 Pro 背摄新细节曝光 / 任天堂发布新款 Switch / 深圳禁 App 不授权就不给用"
-        },
-        {
-          "id": "https://www.ifanr.com/?p=1426471&utm_source=rss&utm_medium=rss&utm_campaign=",
-          "author": "李华",
-          "description": "还有全新宝马 2 系喔。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
-          "link": "https://www.ifanr.com/1426471?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedOn": "2021-07-07T00:55:32.000Z",
-          "wordCount": 547,
-          "title": "董车日报 | 保时捷召回 Taycan / 新款宝马 X7 曝光 / Rimac 宣布接管布加迪"
         }
       ]
     },

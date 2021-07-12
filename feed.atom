@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://menglingjie.github.io/REPO_NAME/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-12T12:34:02.579Z</updated>
+    <updated>2021-07-12T13:26:40.257Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://menglingjie.github.io/REPO_NAME/index.html"/>
     <link rel="self" href="https://menglingjie.github.io/REPO_NAME/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[特斯拉发布全自动驾驶系统 Beta 9.0 / 奥迪自动驾驶项目将于 2025 年投产 / 小米加速造车进程]]></title>
+        <id>https://www.ifanr.com/?p=1427276&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1427276?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-07-12T13:00:23.000Z</updated>
+        <summary type="html"><![CDATA[保时捷 911 要电动化了？
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>李华</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Platoon 1986 25th Anniversary Edition BD 4Audio MiniSD-TLF[野战排 25周年纪念版 [tt0091763][国英双语]][1.05 GB]]]></title>
         <id>56251758ad7afb96f8e2cd180e158b5b91271716</id>
@@ -1608,22 +1624,6 @@ numberworld/Pi/#Download
 新浪微博]]></summary>
         <author>
             <name>方嘉文</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[董车日报 | 保时捷召回 Taycan / 新款宝马 X7 曝光 / Rimac 宣布接管布加迪]]></title>
-        <id>https://www.ifanr.com/?p=1426471&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
-        <link href="https://www.ifanr.com/1426471?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
-        <updated>2021-07-07T00:55:32.000Z</updated>
-        <summary type="html"><![CDATA[还有全新宝马 2 系喔。
-#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博]]></summary>
-        <author>
-            <name>李华</name>
         </author>
     </entry>
     <entry>
