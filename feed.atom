@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://menglingjie.github.io/REPO_NAME/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-13T12:36:32.653Z</updated>
+    <updated>2021-07-13T13:27:12.933Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://menglingjie.github.io/REPO_NAME/index.html"/>
     <link rel="self" href="https://menglingjie.github.io/REPO_NAME/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[把建筑做成「空调」，这个让你凉爽过夏天的「神设计」是怎么做到的？]]></title>
+        <id>https://www.ifanr.com/?p=1427245&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1427245?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-07-13T13:03:57.000Z</updated>
+        <summary type="html"><![CDATA[高温城市的清凉方案。
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>冷思真</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UglyDolls 2019 BD 10bit 2Audio MiniSD-TLF[丑娃娃 [tt1946502][国英双语]][640.49 MB]]]></title>
         <id>2d79c578acd446415f41dac416751d6ade6ca712</id>
@@ -1628,22 +1644,6 @@ major 是因为我要交换机 style，要伪蒸朋，要 1980s 质感，要复�
 新浪微博]]></summary>
         <author>
             <name>李华</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 13 或支持反向充电，但我一点都不期待]]></title>
-        <id>https://www.ifanr.com/?p=1426593&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
-        <link href="https://www.ifanr.com/1426593?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
-        <updated>2021-07-08T00:38:17.000Z</updated>
-        <summary type="html"><![CDATA[背靠背，补个电？
-#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博]]></summary>
-        <author>
-            <name>杜沅傧</name>
         </author>
     </entry>
     <entry>
