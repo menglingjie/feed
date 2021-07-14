@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://menglingjie.github.io/REPO_NAME/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-14T09:22:38.819Z</updated>
+    <updated>2021-07-14T10:23:37.729Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://menglingjie.github.io/REPO_NAME/index.html"/>
     <link rel="self" href="https://menglingjie.github.io/REPO_NAME/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[微信更新，可自定义来电铃声！CallKit 未回归，但这 6 个变化值得一看]]></title>
+        <id>https://www.ifanr.com/?p=1427631&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1427631?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-07-14T09:57:49.000Z</updated>
+        <summary type="html"><![CDATA[自定义铃声、冻结微信、关注特定群成员……
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>刘凌歌</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Garden of Sinners Recalled Out Summer 2013 BD MiniSD-TLF[空之境界剧场版：未来福音][615.44 MB]]]></title>
         <id>394fef4a25303de274a4fff184e4db0bcb1abf14</id>
@@ -1674,22 +1690,6 @@ C582FA5235F8571945D07A14EB0B7E58  屌丝女士.Knallerfrauen.s01e07.HDTV.MiniSD
         <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DJI Pocket 2 云暮白图赏，一步到位的少女心]]></title>
-        <id>https://www.ifanr.com/?p=1423335&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
-        <link href="https://www.ifanr.com/1423335?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
-        <updated>2021-07-08T01:30:56.000Z</updated>
-        <summary type="html"><![CDATA[告别了以往非黑即白的配色套路，DJI Pocket 2 这款云暮白的新配色多了一点不同的色调，这也是大疆在手持云台相机这类产品上，首次用上的新配色。
-#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博]]></summary>
-        <author>
-            <name>梁梦麟</name>
         </author>
     </entry>
     <entry>
