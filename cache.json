@@ -214,7 +214,7 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
           "link": "http://www.ruanyifeng.com/blog/2021/07/weekly-issue-167.html",
           "publishedOn": "2021-07-16T00:45:10.000Z",
-          "wordCount": 1296,
+          "wordCount": 1346,
           "title": "科技爱好者周刊（第 167 期）：广告拦截器太过分了"
         },
         {
@@ -400,6 +400,20 @@
       "siteUrl": "https://pt.eastgame.org",
       "articles": [
         {
+          "id": "f1554d851caf7ed060111aecad74d7a3e6b6390d",
+          "author": "anonymous@pt.eastgame.org (anonymous)",
+          "description": "◎制　　作　lu90 @ TLF HALFCD TeaM\n\r\n\r\n\n\r\n\r\n◎译　　名　伪恋\n\r\n◎片　　名　ニセコイ\n\r\n◎年　　代　2018\n\r\n◎产　　地　日本\n\r\n◎类　　别　喜剧 / 爱情\n\r\n◎语　　言　日语\n\r\n◎上映日期　2018-12-21(日本)\n\r\n◎IMDB评分　7.6/10 from 89 users\n\r\n◎IMDB链接   http://www.imdb.com/title/tt8319778\n\r\n◎豆瓣评分　5.1/10 from 82 users\n\r\n◎豆瓣链接　https://movie.douban.com/subject/30194396/\n\r\n◎片　　长　117分钟\n\r\n◎导　　演　河合勇人 Hayato Kawai\n\r\n◎编　　剧　小山正太 Shôta Koyama / 杉原宪明\n\r\n◎主　　演　中岛健人 Nakajima Kento\n\r\n　　　　　　中条彩未 Ayami Nakajo\n\r\n　　　　　　池间夏海 Natsumi Ikema\n\r\n　　　　　　岛崎遥香 Haruka Shimazaki\n\r\n　　　　　　岸优太 Yûta Kishi\n\r\n　　　　　　DAIGO\n\r\n\r\n\r\n◎标　　签　日本电影 | 日本 | 漫画改编 | 中島健人 | 漫改 | 爱情 | 2018 | 电影\n\r\n\r\n◎简　　介  \n\r\n\r\n　　虽然看起来平凡无奇，但其实是流氓第二代的高中生·一条乐，遇上了转学到班上的美国黑帮大小姐·桐崎千棘。个性合不来的两人，总是天天吵架。但此时，双方的父亲，却要他们为了使双方家族能和平相处，假装成一对恋人。虽然乐其实喜欢同班同学·小野寺，但迫于现实无奈的两人，还是心不甘情不愿地开始了咬牙切齿、动手动脚的“甜蜜”生活。没想到千棘在扮演情侣的过程中竟然渐渐对乐产生了好感，就在这三角恋情越来越不受控制时，父亲担任警视总监的橘万里花及担任千棘保镖的鸫诚士郎也踏进来加入战局，导致这出失控的爱情喜剧更加一发不可收拾……\n\r\n\r\n◎文件名称　伪恋.Nisekoi.False.Love.2018.BD.2Audio.MiniSD-TLF.mkv\n\r\n◎文件大小　887 MiB\n\r\n◎影片长度　01:56:48.086\n\r\n◎混合码率　1 061 kb/s\n\r\n◎封装时间　UTC 2021-06-15 11:15:49\n\r\n◎MMG版本　 mkvmerge v5.2.1 ('A Far Off Place') built on Jan  2 2012 23:21:10\n\r\n◎视频码率　\n\r\n◎视频尺寸　854 x 460\n\r\n◎画面比例　1.85:1\n\r\n◎帧 率　　 23.976 (24000/1001) FPS\n\r\n◎数据密度　\n\r\n◎音轨信息  国语(台配)\n\r\n◎字幕信息  简体中文 chs / 繁體中文 cht\n\r\n◎片源采用　\n\r\n◎x264版本  x264 core 157 r2935 545de2f\n\r\n◎x264参数  ref=10 / deblock=1:-1:-1 / me=umh / subme=10 / bframes=8 / rc=crf / mbtree=1 / crf=21.0 / qpmin=0 / qpmax=80\n\r\n\r\n◎检验MD5 ：AD58D11C9FDB2249DC07B8A8FD5719B4\n\r\n◎检验SHA1：662C891940AAB0872525977976772961BEDDD08F\n\r\n◎文件大小：929871631",
+          "link": "https://pt.eastgame.org/details.php?id=45820",
+          "publishedOn": "2021-07-16T11:57:41.000Z",
+          "wordCount": 71,
+          "title": "Nisekoi False Love 2018 BD 2Audio MiniSD-TLF[伪恋 [tt8319778][国日双语]][886.79 MB]",
+          "enclosure": {
+            "url": "https://pt.eastgame.org/download.php?id=45820",
+            "length": "929871631",
+            "type": "application/x-bittorrent"
+          }
+        },
+        {
           "id": "cbf0b5cb1bfab1bc9ae4ae3e7a7ebc5438c8076d",
           "author": "anonymous@pt.eastgame.org (anonymous)",
           "description": "◎制　　作　zuimeng1997 @ TLF HALFCD TeaM\n\r\n\n\r\n\r\n◎译　　名　洛基 第一季/洛基传/洛奇/Loki\n\r\n◎片　　名　Loki Season 1\n\r\n◎年　　代　2021\n\r\n◎产　　地　美国\n\r\n◎类　　别　动作/科幻/奇幻/冒险\n\r\n◎语　　言　英语\n\r\n◎上映日期　2021-06-09(美国)\n\r\n◎IMDb评分  9.2/10 from 13618 users\n\r\n◎IMDb链接  https://www.imdb.com/title/tt9140554/\n\r\n◎豆瓣评分　9.2/10 from 13532 users\n\r\n◎豆瓣链接　https://douban.com/subject/30331432/\n\r\n◎集　　数　6\n\r\n◎片　　长　55分钟\n\r\n◎导　　演　凯特·赫伦 Kate Herron\n\r\n◎编　　剧　迈克尔·沃尔德伦 Michael Waldron / 杰克·科比 Jack Kirby / 斯坦·李 Stan Lee / 拉里·利伯 Larry Lieber\n\r\n◎主　　演　汤姆·希德勒斯顿 Tom Hiddleston\n\r\n　　　　  　欧文·威尔逊 Owen Wilson\n\r\n　　　　  　古古·姆巴塔-劳 Gugu Mbatha-Raw\n\r\n　　　　  　索菲娅·迪·马蒂诺 Sophia Di Martino\n\r\n　　　　  　乌米·马萨库 Wunmi Mosaku\n\r\n　　　　  　理查德·E·格兰特 Richard E. Grant\n\r\n　　　　  　萨莎·莱恩 Sasha Lane\n\r\n　　　　  　埃里卡·科尔曼 Erika Coleman\n\r\n　　　　  　卢修斯·巴斯顿 Lucius Baston\n\r\n　　　　  　迈克尔·罗斯 Michael Rose\n\r\n　　　　  　凯莱·弗莱明 Cail…",
@@ -522,20 +536,6 @@
           "enclosure": {
             "url": "https://pt.eastgame.org/download.php?id=45764",
             "length": "517005386",
-            "type": "application/x-bittorrent"
-          }
-        },
-        {
-          "id": "394fef4a25303de274a4fff184e4db0bcb1abf14",
-          "author": "catmark@pt.eastgame.org (catmark)",
-          "description": "◎制　　作　newjs0769\n\r\n◎发　　行　TLF HALFCD TeaM\n\r\n\r\n\r\n\r\n◎英 文 名　Future Gospel / The Garden of Sinners: Recalled Out Summer / Kara no Kyoukai: Mirai Fukuin\n\r\n◎中 文 名　空之境界剧场版：未来福音\n\r\n◎导　　演　须藤友德\n\r\n◎编　　剧  奈须きのこ\n\r\n◎主　　演　坂本真绫 / 铃村健一\n\r\n◎年　　代　2013-09-28\n\r\n◎国家/地区 日本\n\r\n◎语　　言　日语\n\r\n◎IMDb评分　7.9 /10 ( 41 votes)\n\r\n◎IMDb链接　http://www.imdb.com/title/tt2983564/\n\r\n◎豆瓣评分  9.1 /10 ( 1,804 votes)\n\r\n◎豆瓣链接  http://movie.douban.com/subject/11499092/\n\r\n◎片　　长　90分钟\n\r\n◎类　　别　剧情 / 动画 / 悬疑 / 惊悚 / 恐怖 / 犯罪 / 奇幻\n\r\n\r\n◎空之境界 未来福音的剧情简介  ·  ·  ·  ·  ·  ·\n\r\n\r\n　　1998年夏季，拥有预测型未来视的女孩濑尾静音（井口裕香 配音）邂逅伽蓝之堂的黑桐干也（铃村健一 配音）。从对方口中，她了解到未来视的真相，心中的疑惑和焦虑也烟消云散，但同时也看到了干也悲剧性的未来。另一方面，拥有测定型未来视的职业炸弹狂魔仓密目琉夏，利用自己构建的未来制造一系列恐怖袭击事件，直到他遭遇冷静干练的两仪式（坂本真绫 配音），命运的齿轮开始转动。转眼来到2010年，失去了未来视能力的瓶仓光瑠（石田彰 配音）转行做了绘本画家，命运安排他和两仪式及其女儿未那（金元寿子 配音）相逢，此后他和崇拜自己的未那拜访了传奇占卜师观布子之母……\n\r\n　　本片根据奈须蘑菇以及武内崇创作的同名原作改编。  豆瓣\n\r\n\r\n◎文件名称：空之境界剧场版：未来福音.The.Garden.of.Sinners.Recalled.Out.Summer.2013.BD.MiniSD-TLF.mkv\n\r\n◎文件大小：615 MiB\n\r\n◎影片长度：01:28:44\n\r\n◎混合码率：970 Kbps\n\r\n◎封装时间：UTC 2014-03-31 12:30:08\n\r\n◎MMG版本：mkvmerge v6.8.0 ('Theme for Great Cities') 64bit built on Mar  2 2014 21:34:26\n\r\n◎视频尺寸：848 x 476\n\r\n◎画面比例：16:9\n\r\n◎帧　　率：23.976 fps\n\r\n◎数据密度：\n\r\n◎音轨信息：日语\n\r\n◎字幕信息：简体中文 / 繁体中文 @幻之字幕组\n\r\n◎片源采用：[Kara_no_Kyoukai][the_Garden_of_sinners][recalled_out_summer][Main_Movie][BDRIP][1080p]\n\r\n◎X264版本：core 133 r2334 a3ac64b\n\r\n◎X264参数：rc=2pass / bitrate=900 / deblock=1:-1:-1 / ref=10 / bframes=13 / subme=10\n\r\n◎大小: 645332159 字节\n\r\n◎MD5: A44F87220FAFA9EF1584D325C26CB1CC\n\r\n◎SHA1: 8C088572BA5773D5EAAF65C8F948030D4D45C7D0",
-          "link": "https://pt.eastgame.org/details.php?id=45759",
-          "publishedOn": "2021-07-14T06:55:15.000Z",
-          "wordCount": 71,
-          "title": "The Garden of Sinners Recalled Out Summer 2013 BD MiniSD-TLF[空之境界剧场版：未来福音][615.44 MB]",
-          "enclosure": {
-            "url": "https://pt.eastgame.org/download.php?id=45759",
-            "length": "645332159",
             "type": "application/x-bittorrent"
           }
         }
