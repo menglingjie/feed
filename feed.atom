@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://menglingjie.github.io/REPO_NAME/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-18T09:22:25.678Z</updated>
+    <updated>2021-07-18T10:23:07.458Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://menglingjie.github.io/REPO_NAME/index.html"/>
     <link rel="self" href="https://menglingjie.github.io/REPO_NAME/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[当老人打电话给微信客服时，他们都说了什么？| Feel Good 周报]]></title>
+        <id>https://www.ifanr.com/?p=1428373&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1428373?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-07-18T10:06:24.000Z</updated>
+        <summary type="html"><![CDATA[世界也许不完美，但总有人在努力让它变得更好。
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>方嘉文</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Distinguished Citizen 2016 BD 2Audio MiniSD-TLF[杰出公民 [tt4562518][国西双语]][1.09 GB]]]></title>
         <id>4db5a4ce512648b8d3a83f8b8fc0cd0f636517da</id>
@@ -1865,22 +1881,6 @@ konosasaku
 新浪微博]]></summary>
         <author>
             <name>张成晨</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[董车日报 | 特斯拉发布全自动驾驶系统 Beta 9.0 / 奥迪自动驾驶项目将于 2025 年投产 / 小米加速造车进程]]></title>
-        <id>https://www.ifanr.com/?p=1427276&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
-        <link href="https://www.ifanr.com/1427276?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
-        <updated>2021-07-12T13:00:23.000Z</updated>
-        <summary type="html"><![CDATA[保时捷 911 要电动化了？
-#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博]]></summary>
-        <author>
-            <name>李华</name>
         </author>
     </entry>
     <entry>
