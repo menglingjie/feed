@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://menglingjie.github.io/REPO_NAME/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-19T12:34:13.602Z</updated>
+    <updated>2021-07-19T13:26:31.669Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://menglingjie.github.io/REPO_NAME/index.html"/>
     <link rel="self" href="https://menglingjie.github.io/REPO_NAME/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[董车日报 | 法拉第未来 FF 91 开启预定 / 百度 Apollo 无人驾驶在广州上线 / 全新奥迪 SQ5 上市]]></title>
+        <id>https://www.ifanr.com/?p=1428648&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1428648?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-07-19T12:56:14.000Z</updated>
+        <summary type="html"><![CDATA[周一云试驾：Harmony OS 车机体验。
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>李华</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Secret Life of Pets 2016 BD 4Audio MiniSD-TLF[爱宠大机密 [tt2709768][国英双语]][931.00 MB]]]></title>
         <id>4f699c93d1e6dd5c17a486cd385e88ba890d0fcb</id>
@@ -2016,23 +2032,6 @@ Mechanistic Basis of Resistance to PCBs in Atlantic Tomcod from the Hudson River
 新浪微博]]></summary>
         <author>
             <name>李华</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[早报 | 苹果推出 iPhone 外接电池配件 / B 站就服务器故障致歉 / 京东宣布两年内全员涨薪]]></title>
-        <id>https://www.ifanr.com/?p=1427540&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
-        <link href="https://www.ifanr.com/1427540?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
-        <updated>2021-07-14T00:47:17.000Z</updated>
-        <summary type="html"><![CDATA[‍• 极端天气越来越多，电视台开始押宝「天气节目」
-• 美团推出「歪马送酒」和「美团拼场」
-#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博]]></summary>
-        <author>
-            <name>方嘉文</name>
         </author>
     </entry>
     <entry>

@@ -22,12 +22,21 @@
       "siteUrl": "https://www.ifanr.com?utm_source=rss&utm_medium=rss&utm_campaign=",
       "articles": [
         {
+          "id": "https://www.ifanr.com/?p=1428648&utm_source=rss&utm_medium=rss&utm_campaign=",
+          "author": "李华",
+          "description": "周一云试驾：Harmony OS 车机体验。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
+          "link": "https://www.ifanr.com/1428648?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedOn": "2021-07-19T12:56:14.000Z",
+          "wordCount": 687,
+          "title": "董车日报 | 法拉第未来 FF 91 开启预定 / 百度 Apollo 无人驾驶在广州上线 / 全新奥迪 SQ5 上市"
+        },
+        {
           "id": "https://www.ifanr.com/?p=1428285&utm_source=rss&utm_medium=rss&utm_campaign=",
           "author": "李华",
           "description": "马斯克终于承认：自动驾驶之路比他想象中要困难得多。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
           "link": "https://www.ifanr.com/1428285?utm_source=rss&utm_medium=rss&utm_campaign=",
           "publishedOn": "2021-07-19T10:16:39.000Z",
-          "wordCount": 370,
+          "wordCount": 385,
           "title": "特斯拉新版「全自动驾驶」系统彻底抛弃雷达，是「颠覆者」还是「杀人者」？"
         },
         {
@@ -108,7 +117,7 @@
           "description": "带厨房的皮卡你见过吗？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
           "link": "https://www.ifanr.com/1427908?utm_source=rss&utm_medium=rss&utm_campaign=",
           "publishedOn": "2021-07-16T00:57:46.000Z",
-          "wordCount": 574,
+          "wordCount": 573,
           "title": "董车日报 | 特斯拉在香港上线新版 Model 3 / 小米汽车招聘岗位增加 / 日本计划开展「飞行汽车」业务"
         },
         {
@@ -191,15 +200,6 @@
           "publishedOn": "2021-07-14T01:14:46.000Z",
           "wordCount": 682,
           "title": "董车日报 | 小鹏调整免费充电政策 / 全新宝马 M2 前包围谍照曝光 / 罗永浩回应涉足自动驾驶领域传闻"
-        },
-        {
-          "id": "https://www.ifanr.com/?p=1427540&utm_source=rss&utm_medium=rss&utm_campaign=",
-          "author": "方嘉文",
-          "description": "‍• 极端天气越来越多，电视台开始押宝「天气节目」\r\n• 美团推出「歪马送酒」和「美团拼场」\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\r\n爱范儿 |\r\n原文链接 ·\r\n查看评论 ·\r\n新浪微博",
-          "link": "https://www.ifanr.com/1427540?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedOn": "2021-07-14T00:47:17.000Z",
-          "wordCount": 552,
-          "title": "早报 | 苹果推出 iPhone 外接电池配件 / B 站就服务器故障致歉 / 京东宣布两年内全员涨薪"
         }
       ]
     },
