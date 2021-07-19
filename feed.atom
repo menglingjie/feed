@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://menglingjie.github.io/REPO_NAME/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-19T09:23:05.382Z</updated>
+    <updated>2021-07-19T10:25:08.950Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://menglingjie.github.io/REPO_NAME/index.html"/>
     <link rel="self" href="https://menglingjie.github.io/REPO_NAME/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[特斯拉新版「全自动驾驶」系统彻底抛弃雷达，是「颠覆者」还是「杀人者」？]]></title>
+        <id>https://www.ifanr.com/?p=1428285&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
+        <link href="https://www.ifanr.com/1428285?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+        <updated>2021-07-19T10:16:39.000Z</updated>
+        <summary type="html"><![CDATA[马斯克终于承认：自动驾驶之路比他想象中要困难得多。
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
+
+爱范儿 |
+原文链接 ·
+查看评论 ·
+新浪微博]]></summary>
+        <author>
+            <name>李华</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iPhone 4、iPod Classic 居然「复活」了？]]></title>
         <id>https://www.ifanr.com/?p=1427780&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
@@ -1964,22 +1980,6 @@ Mechanistic Basis of Resistance to PCBs in Atlantic Tomcod from the Hudson River
 新浪微博]]></summary>
         <author>
             <name>方嘉文</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[把建筑做成「空调」，这个让你凉爽过夏天的「神设计」是怎么做到的？]]></title>
-        <id>https://www.ifanr.com/?p=1427245&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
-        <link href="https://www.ifanr.com/1427245?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
-        <updated>2021-07-13T13:03:57.000Z</updated>
-        <summary type="html"><![CDATA[高温城市的清凉方案。
-#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。
-
-爱范儿 |
-原文链接 ·
-查看评论 ·
-新浪微博]]></summary>
-        <author>
-            <name>冷思真</name>
         </author>
     </entry>
     <entry>
